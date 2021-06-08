@@ -1,0 +1,11 @@
+<RCC>
+    <qresource prefix="/images"/>
+    <qresource prefix="/">
+        <file>../images/actiaLogoPng.png</file>
+        <file>../images/ajax-loader.gif</file>
+        <file>../../../../Downloads/download (1).jpg</file>
+        <file>../../logo_transparent.ico</file>
+        <file>../../logo_transparent.png</file>
+        <file>../images/logo_transparent.ico</file>
+    </qresource>
+</RCC>

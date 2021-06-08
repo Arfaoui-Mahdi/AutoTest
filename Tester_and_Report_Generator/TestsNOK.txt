@@ -1,0 +1,195 @@
+Test : Du8ADoc_iCanConfigureBaudrate
+	 Expected result: return code 0
+	 Obtained result: 255
+	 Test result: RC NOK 
+
+Test : Du8ADoc_iCanConfigureBaudrate
+	 Expected result: return code 0
+	 Obtained result: 255
+	 Test result: RC NOK 
+
+Test : Du8ADoc_iCanConfigureBaudrate
+	 Expected result: return code 0
+	 Obtained result: 255
+	 Test result: RC NOK 
+
+Test : Du8ADoc_iCanConfigureBaudrate
+	 Expected result: return code 0
+	 Obtained result: 255
+	 Test result: RC NOK 
+
+Test : Du8ADoc_iCanConfigureBaudrate
+	 Expected result: return code 0
+	 Obtained result: 255
+	 Test result: RC NOK 
+
+Test : Du8ADoc_iCanConfigureBaudrate
+	 Expected result: return code 0
+	 Obtained result: 255
+	 Test result: RC NOK 
+
+Test : Du8ADoc_iCanConfigureBaudrate
+	 Expected result: return code 0
+	 Obtained result: 255
+	 Test result: RC NOK 
+
+Test : Du8ADoc_iCanConfigureBaudrate
+	 Expected result: return code 0
+	 Obtained result: 255
+	 Test result: RC NOK 
+
+Test : Du8ADoc_iCanConfigureBaudrate
+	 Expected result: return code 0
+	 Obtained result: 255
+	 Test result: RC NOK 
+
+Test : Du8ADoc_iCanConfigureBaudrate
+	 Expected result: return code 0
+	 Obtained result: 255
+	 Test result: RC NOK 
+
+Test : Du8ADoc_iCanGetAcceptanceMask
+	 Expected result: return code 0
+	 Obtained result: 255
+	 Test result: RC NOK 
+
+Test : Du8ADoc_iCanGetAcceptanceMask
+	 Expected result: return code 0
+	 Obtained result: 255
+	 Test result: RC NOK 
+
+Test : Du8ADoc_iCanConfigureBaudrate
+	 Expected result: return code 0
+	 Obtained result: 255
+	 Test result: RC NOK 
+
+Test : Du8ADoc_iCanConfigureBaudrate
+	 Expected result: return code 0
+	 Obtained result: 255
+	 Test result: RC NOK 
+
+Test : Du8ADoc_iCanConfigureBaudrate
+	 Expected result: return code 0
+	 Obtained result: 255
+	 Test result: RC NOK 
+
+Test : TATATA
+	 Expected result: return code 0
+	 Obtained result: 255
+	 Test result: RC NOK 
+
+Test : TATATA
+	 Expected result: return code 0
+	 Obtained result: 255
+	 Test result: RC NOK 
+
+Test : TATATA
+	 Expected result: return code 0
+	 Obtained result: <class 'udsoncan.Response.Response.Code'>
+	 Test result: RC NOK 
+
+Test : TATATA
+	 Expected result: return code 0
+	 Obtained result: <class 'udsoncan.Response.Response.Code'>
+	 Test result: RC NOK 
+
+Test : Du8ADoc_iIOReadData
+	 Expected result: return code 0
+	 Obtained result: 255
+	 Test result: RC NOK 
+
+Test : Du8ADoc_iIOReadData
+	 Expected result: return code 0
+	 Obtained result: 255
+	 Test result: RC NOK 
+
+Test : Du8ADoc_iIOReadData
+	 Expected result: return code 0
+	 Obtained result: 255
+	 Test result: RC NOK 
+
+Test : Du8ADoc_iIOSetVal
+	 Expected result: return code 0
+	 Obtained result: 255
+	 Test result: RC NOK 
+
+Test : Du8ADoc_iIOReadData
+	 Expected result: return code 0
+	 Obtained result: 255
+	 Test result: RC NOK 
+
+Test : Du8ADoc_iIOReadData
+	 Expected result: return code 0
+	 Obtained result: 255
+	 Test result: RC NOK 
+
+Test : Du8ADoc_iIOReadData
+	 Expected result: return code 0
+	 Obtained result: 255
+	 Test result: RC NOK 
+
+Test : Du8ADoc_iIOReadData
+	 Expected result: return code 0
+	 Obtained result: 255
+	 Test result: RC NOK 
+
+Test : Du8ADoc_iIOReadData
+	 Expected result: return code 0
+	 Obtained result: 255
+	 Test result: RC NOK 
+
+Test : Du8ADoc_iIOSetVal
+	 Expected result: return code 0
+	 Obtained result: 255
+	 Test result: RC NOK 
+
+Test : Du8ADoc_iIOReadData
+	 Expected result: return code 0
+	 Obtained result: 255
+	 Test result: RC NOK 
+
+Test : Du8ADoc_iIOReadData
+	 Expected result: return code 0
+	 Obtained result: 255
+	 Test result: RC NOK 
+
+Test : Du8ADoc_iIOReadData
+	 Expected result: return code 0
+	 Obtained result: 255
+	 Test result: RC NOK 
+
+Test : Du8ADoc_iIOReadData
+	 Expected result: return code 0
+	 Obtained result: 255
+	 Test result: RC NOK 
+
+Test : Du8ADoc_iIOReadData
+	 Expected result: return code 0
+	 Obtained result: 255
+	 Test result: RC NOK 
+
+Test : Du8ADoc_iIOReadData
+	 Expected result: return code 0
+	 Obtained result: 255
+	 Test result: RC NOK 
+
+Test : Du8ADoc_iIOReadData
+	 Expected result: return code 0
+	 Obtained result: 255
+	 Test result: RC NOK 
+
+Test : Du8ADoc_iIOReadData
+	 Expected result: return code 0
+	 Obtained result: 255
+	 Test result: RC NOK 
+
+Test : Du8ADoc_iIOReadData
+	 Expected result: return code 0
+	 Obtained result: 255
+	 Test result: RC NOK 
+
+Test : Du8ADoc_iIOSetVal
+	 Expected result: return code 0
+	 Obtained result: 255
+	 Test result: RC NOK 
+

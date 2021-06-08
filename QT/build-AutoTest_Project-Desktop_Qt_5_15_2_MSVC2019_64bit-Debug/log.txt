@@ -1,0 +1,1460 @@
+b'\xf1\x80\x01\x00\x06\x10P111092\x00\x00\x00MPS14_BOOT_DBG\x00\x00\x00\x00\x00\x00@ACTIA\x00\x00\x00\x00Jan 13 2021\x0014:14:46\x00\x00'
+0
+Test : Du16ADoc_iBootSWIdentification
+Expected result: Return code 0
+Obtained result: b'\xf1\x80\x01\x00\x06\x10P111092\x00\x00\x00MPS14_BOOT_DBG\x00\x00\x00\x00\x00\x00@ACTIA\x00\x00\x00\x00Jan 13 2021\x0014:14:46\x00\x00'
+Test result: OK 
+
+b'\xf1\x81\x00\x00\x04\x10P111247-\x00\x00MP14 SW Test App\x00\x00\x00\x00@ACTIA\x00\x00\x00\x00Apr  9 2021\x0016:56:50\x00\x00'
+0
+Test : Du16ADoc_iAppSWIdentification
+Expected result: Return code 0
+Obtained result: b'\xf1\x81\x00\x00\x04\x10P111247-\x00\x00MP14 SW Test App\x00\x00\x00\x00@ACTIA\x00\x00\x00\x00Apr  9 2021\x0016:56:50\x00\x00'
+Test result: OK 
+
+b'\xf1\x80\x01\x00\x06\x10P111092\x00\x00\x00MPS14_BOOT_DBG\x00\x00\x00\x00\x00\x00@ACTIA\x00\x00\x00\x00Jan 13 2021\x0014:14:46\x00\x00'
+0
+Test : Du16ADoc_iBootSWIdentification
+Expected result: Return code 0
+Obtained result: b'\xf1\x80\x01\x00\x06\x10P111092\x00\x00\x00MPS14_BOOT_DBG\x00\x00\x00\x00\x00\x00@ACTIA\x00\x00\x00\x00Jan 13 2021\x0014:14:46\x00\x00'
+Test result: OK 
+
+b'\xf1\x81\x00\x00\x04\x10P111247-\x00\x00MP14 SW Test App\x00\x00\x00\x00@ACTIA\x00\x00\x00\x00Apr  9 2021\x0016:56:50\x00\x00'
+0
+Test : Du16ADoc_iAppSWIdentification
+Expected result: Return code 0
+Obtained result: b'\xf1\x81\x00\x00\x04\x10P111247-\x00\x00MP14 SW Test App\x00\x00\x00\x00@ACTIA\x00\x00\x00\x00Apr  9 2021\x0016:56:50\x00\x00'
+Test result: OK 
+
+Test : Du8ADoc_iCanConfigureBaudrate
+Expected result: Return code 0
+Obtained result: 255
+Test result: RC NOK 
+
+Test : Du8ADoc_iCanConfigureBaudrate
+Expected result: Return code 0
+Obtained result: 255
+Test result: RC NOK 
+
+b'\xf1\x81\x00\x00\x04\x10P111247-\x00\x00MP14 SW Test App\x00\x00\x00\x00@ACTIA\x00\x00\x00\x00Apr  9 2021\x0016:56:50\x00\x00'
+0
+Test : Du16ADoc_iAppSWIdentification
+Expected result: Return code 0
+Obtained result: 0
+Test result: OK 
+
+Test : Du8ADoc_iIOReadData
+Expected result: Return code 0
+Obtained result: 0
+Test result: OK 
+
+Test : Du8ADoc_iIOReadData
+Expected result: Return code 0
+Obtained result: 0
+Test result: OK 
+
+Test : Du8ADoc_iIOReadData
+Expected result: Return code 0
+Obtained result: 0
+Test result: OK 
+
+Test : Du8ADoc_iIOReadData
+Expected result: Return code 0
+Obtained result: 0
+Test result: OK 
+
+Test : Du8ADoc_iCanAbortMBTransmission
+Expected result: Return code 0
+Obtained result: 255
+Test result: RC NOK 
+
+Test : Du8ADoc_iCanAbortMBTransmission
+Expected result: Return code 0
+Obtained result: 255
+Test result: RC NOK 
+
+Test : Du8ADoc_iIOReadData
+Expected result: Return code 0
+Obtained result: 0
+Test result: OK 
+
+Test : Du8ADoc_iIOReadData
+Expected result: Return code 0
+Obtained result: 0
+Test result: OK 
+
+Test : Du8ADoc_iIOReadData
+Expected result: Return code 0
+Obtained result: 0
+Test result: OK 
+
+Test : Du8ADoc_iIOReadData
+Expected result: Return code 0
+Obtained result: 0
+Test result: OK 
+
+Test : Du8ADoc_iIOReadData
+Expected result: Return code 0
+Obtained result: 0
+Test result: OK 
+
+Test : Du8ADoc_iIOReadData
+Expected result: Return code 0
+Obtained result: 0
+Test result: OK 
+
+Test : Du8ADoc_iIOReadData
+Expected result: Return code 0
+Obtained result: 0
+Test result: OK 
+
+Test : Du8ADoc_iIOReadData
+Expected result: Return code 0
+Obtained result: 0
+Test result: OK 
+
+Test : Du8ADoc_iIOReadData
+Expected result: Return code 0
+Obtained result: 0
+Test result: OK 
+
+Test : Du8ADoc_iIOReadData
+Expected result: Return code 0
+Obtained result: 0
+Test result: OK 
+
+Test : Du8ADoc_iIOReadData
+Expected result: Return code 0
+Obtained result: 0
+Test result: OK 
+
+Test : Du8ADoc_iIOReadData
+Expected result: Return code 0
+Obtained result: 0
+Test result: OK 
+
+Test : Du8ADoc_iIOReadData
+Expected result: Return code 0
+Obtained result: 0
+Test result: OK 
+
+Test : Du8ADoc_iIOReadData
+Expected result: Return code 0
+Obtained result: 0
+Test result: OK 
+
+Test : Du8ADoc_iIOReadData
+Expected result: Return code 0
+Obtained result: 0
+Test result: OK 
+
+Test : Du8ADoc_iIOReadData
+Expected result: Return code 0
+Obtained result: 0
+Test result: OK 
+
+Test : Du8ADoc_iIOReadData
+Expected result: Return code 0
+Obtained result: 0
+Test result: OK 
+
+Test : Du8ADoc_iIOReadData
+Expected result: Return code 0
+Obtained result: 0
+Test result: OK 
+
+Test : Du8ADoc_iIOReadData
+Expected result: Return code 0
+Obtained result: 0
+Test result: OK 
+
+Test : Du8ADoc_iIOReadData
+Expected result: Return code 0
+Obtained result: 0
+Test result: OK 
+
+Test : Du8ADoc_iIOReadData
+Expected result: Return code 0
+Obtained result: 0
+Test result: OK 
+
+Test : Du8ADoc_iIOReadData
+Expected result: Return code 0
+Obtained result: 0
+Test result: OK 
+
+Test : Du8ADoc_iIOReadData
+Expected result: Return code 0
+Obtained result: 0
+Test result: OK 
+
+Test : Du8ADoc_iIOReadData
+Expected result: Return code 0
+Obtained result: 0
+Test result: OK 
+
+Test : Du8ADoc_iIOReadData
+Expected result: Return code 0
+Obtained result: 0
+Test result: OK 
+
+Test : Du8ADoc_iIOReadData
+Expected result: Return code 0
+Obtained result: 0
+Test result: OK 
+
+Test : Du8ADoc_iIOReadData
+Expected result: Return code 0
+Obtained result: 0
+Test result: RC NOK 
+
+Test : Du8ADoc_iIOReadData
+Expected result: Return code 0
+Obtained result: 0
+Test result: RC NOK 
+
+Test : Du8ADoc_iIOReadData
+Expected result: Return code 0
+Obtained result: 0
+Test result: RC NOK 
+
+Test : Du8ADoc_iIOReadData
+Expected result: Return code 0
+Obtained result: 0
+Test result: RC NOK 
+
+Test : Du8ADoc_iIOReadData
+Expected result: Return code 0
+Obtained result: 0
+Test result: RC NOK 
+
+Test : Du8ADoc_iIOReadData
+Expected result: Return code 0
+Obtained result: 0
+Test result: RC NOK 
+
+Test : Du8ADoc_iIOReadData
+Expected result: Return code 0
+Obtained result: 0
+Test result: RC NOK 
+
+Test : Du8ADoc_iIOReadData
+Expected result: Return code 0
+Obtained result: 0
+Test result: RC NOK 
+
+Test : Du8ADoc_iIOReadData
+Expected result: Return code 0
+Obtained result: 0
+Test result: RC NOK 
+
+Test : Du8ADoc_iIOReadData
+Expected result: Return code 0
+Obtained result: 0
+Test result: RC NOK 
+
+Test : Du8ADoc_iIOReadData
+Expected result: Return code 0
+Obtained result: 0
+Test result: RC NOK 
+
+Test : Du8ADoc_iIOReadData
+Expected result: Return code 0
+Obtained result: 0
+Test result: RC NOK 
+
+Test : Du8ADoc_iIOReadData
+Expected result: Return code 0
+Obtained result: 0
+Test result: RC NOK 
+
+Test : Du8ADoc_iIOReadData
+Expected result: Return code 0
+Obtained result: 0
+Test result: RC NOK 
+
+Test : Du8ADoc_iIOReadData
+Expected result: Return code 0
+Obtained result: 0
+Test result: RC NOK 
+
+Test : Du8ADoc_iIOReadData
+Expected result: Return code 0
+Obtained result: 0
+Test result: RC NOK 
+
+Test : Du8ADoc_iIOReadData
+Expected result: Return code 0
+Obtained result: 0
+Test result: RC NOK 
+
+Test : Du8ADoc_iIOReadData
+Expected result: Return code 0
+Obtained result: 0
+Test result: RC NOK 
+
+Test : Du8ADoc_iIOReadData
+Expected result: Return code 0
+Obtained result: 0
+Test result: RC NOK 
+
+Test : Du8ADoc_iIOReadData
+Expected result: Return code 0
+Obtained result: 0
+Test result: RC NOK 
+
+Test : Du8ADoc_iIOReadData
+Expected result: Return code 0
+Obtained result: 0
+Test result: RC NOK 
+
+Test : Du8ADoc_iIOReadData
+Expected result: Return code 0
+Obtained result: 0
+Test result: RC NOK 
+
+Test : Du8ADoc_iIOReadData
+Expected result: Return code 0
+Obtained result: 0
+Test result: RC NOK 
+
+Test : Du8ADoc_iIOReadData
+Expected result: Return code 0
+Obtained result: 0
+Test result: RC NOK 
+
+Test : Du8ADoc_iIOReadData
+Expected result: Return code 0
+Obtained result: 0
+Test result: RC NOK 
+
+Test : Du8ADoc_iIOReadData
+Expected result: Return code 0
+Obtained result: 0
+Test result: RC NOK 
+
+Test : Du8ADoc_iIOReadData
+Expected result: Return code 0
+Obtained result: 0
+Test result: RC NOK 
+
+Test : Du8ADoc_iIOReadData
+Expected result: Return code 0
+Obtained result: 0
+Test result: RC NOK 
+
+Test : Du8ADoc_iIOReadData
+Expected result: Return code 0
+Obtained result: 0
+Test result: RC NOK 
+
+Test : Du8ADoc_iIOReadData
+Expected result: Return code 0
+Obtained result: 0
+Test result: RC NOK 
+
+Test : Du8ADoc_iIOReadData
+Expected result: Return code 0
+Obtained result: 0
+Test result: RC NOK 
+
+Test : Du8ADoc_iIOReadData
+Expected result: Return code 0
+Obtained result: 0
+Test result: RC NOK 
+
+Test : Du8ADoc_iIOReadData
+Expected result: Return code 0
+Obtained result: 0
+Test result: RC NOK 
+
+Test : Du8ADoc_iIOReadData
+Expected result: Return code 0
+Obtained result: 0
+Test result: RC NOK 
+
+Test : Du8ADoc_iIOReadData
+Expected result: Return code 0
+Obtained result: 0
+Test result: RC NOK 
+
+Test : Du8ADoc_iIOReadData
+Expected result: Return code 0
+Obtained result: 0
+Test result: RC NOK 
+
+Test : Du8ADoc_iIOReadData
+Expected result: Return code 0
+Obtained result: 0
+Test result: RC NOK 
+
+Test : Du8ADoc_iIOReadData
+Expected result: Return code 0
+Obtained result: 0
+Test result: RC NOK 
+
+Test : Du8ADoc_iIOReadData
+Expected result: Return code 0
+Obtained result: 0
+Test result: RC NOK 
+
+Test : Du8ADoc_iIOReadData
+Expected result: Return code 0
+Obtained result: 0
+Test result: RC NOK 
+
+Test : Du8ADoc_iIOReadData
+Expected result: Return code 0
+Obtained result: 0
+Test result: RC NOK 
+
+Test : Du8ADoc_iIOReadData
+Expected result: Return code 0
+Obtained result: 0
+Test result: RC NOK 
+
+Test : Du8ADoc_iIOReadData
+Expected result: Return code 0
+Obtained result: 0
+Test result: RC NOK 
+
+Test : Du8ADoc_iIOReadData
+Expected result: Return code 0
+Obtained result: 0
+Test result: RC NOK 
+
+Test : Du8ADoc_iIOReadData
+Expected result: Return code 0
+Obtained result: 0
+Test result: RC NOK 
+
+Test : Du8ADoc_iIOReadData
+Expected result: Return code 0
+Obtained result: 0
+Test result: RC NOK 
+
+Test : Du8ADoc_iIOReadData
+Expected result: Return code 0
+Obtained result: 0
+Test result: RC NOK 
+
+Test : Du8ADoc_iIOReadData
+Expected result: Return code 0
+Obtained result: 0
+Test result: RC NOK 
+
+Test : Du8ADoc_iIOReadData
+Expected result: Return code 0
+Obtained result: 0
+Test result: RC NOK 
+
+Test : Du8ADoc_iIOReadData
+Expected result: Return code 0
+Obtained result: 0
+Test result: RC NOK 
+
+Test : Du8ADoc_iIOReadData
+Expected result: Return code 0
+Obtained result: 0
+Test result: RC NOK 
+
+Test : Du8ADoc_iIOReadData
+Expected result: Return code 0
+Obtained result: 0
+Test result: RC NOK 
+
+Test : Du8ADoc_iIOReadData
+Expected result: Return code 0
+Obtained result: 0
+Test result: RC NOK 
+
+Test : Du8ADoc_iIOReadData
+Expected result: Return code 0
+Obtained result: 0
+Test result: OK 
+
+Test : Du8ADoc_iIOReadData
+Expected result: Return code 0
+Obtained result: 0
+Test result: OK 
+
+Test : Du8ADoc_iIOReadData
+Expected result: Return code 0
+Obtained result: 0
+Test result: OK 
+
+Test : Du8ADoc_iIOReadData
+Expected result: Return code 0
+Obtained result: 0
+Test result: OK 
+
+Test : Du8ADoc_iIOReadData
+Expected result: Return code 0
+Obtained result: 0
+Test result: OK 
+
+Test : Du8ADoc_iIOReadData
+Expected result: Return code 0
+Obtained result: 0
+Test result: OK 
+
+Test : Du8ADoc_iIOReadData
+Expected result: Return code 0
+Obtained result: 0
+Test result: OK 
+
+Test : Du8ADoc_iIOReadData
+Expected result: Return code 0
+Obtained result: 0
+Test result: OK 
+
+Test : Du8ADoc_iIOReadData
+Expected result: Return code 0
+Obtained result: 0
+Test result: RC NOK 
+
+Test : Du8ADoc_iIOReadData
+Expected result: Return code 0
+Obtained result: 0
+Test result: OK 
+
+Test : Du8ADoc_iIOReadData
+Expected result: Return code 0
+Obtained result: 0
+Test result: OK 
+
+Test : Du8ADoc_iIOReadData
+Expected result: Return code 0
+Obtained result: 0
+Test result: OK 
+
+Test : Du8ADoc_iIOReadData
+Expected result: Return code 0
+Obtained result: 0
+Test result: OK 
+
+Test : Du8ADoc_iIOReadData
+Expected result: Return code 0
+Obtained result: 0
+Test result: OK 
+
+Test : Du8ADoc_iIOReadData
+Expected result: Return code 0
+Obtained result: 0
+Test result: OK 
+
+Test : Du8ADoc_iIOReadData
+Expected result: Return code 0
+Obtained result: 0
+Test result: OK 
+
+Test : Du8ADoc_iIOReadData
+Expected result: Return code 0
+Obtained result: 0
+Test result: OK 
+
+Test : Du8ADoc_iIOReadData
+Expected result: Return code 0
+Obtained result: 0
+Test result: OK 
+
+Test : Du8ADoc_iIOReadData
+Expected result: Return code 0
+Obtained result: 0
+Test result: OK 
+
+Test : Du8ADoc_iIOReadData
+Expected result: Return code 0
+Obtained result: 0
+Test result: OK 
+
+Test : Du8ADoc_iIOReadData
+Expected result: Return code 0
+Obtained result: 0
+Test result: OK 
+
+Test : Du8ADoc_iIOReadData
+Expected result: Return code 0
+Obtained result: 0
+Test result: OK 
+
+Test : Du8ADoc_iIOReadData
+Expected result: Return code 0
+Obtained result: 0
+Test result: OK 
+
+Test : Du8ADoc_iIOReadData
+Expected result: Return code 0
+Obtained result: 0
+Test result: OK 
+
+Test : Du8ADoc_iIOReadData
+Expected result: Return code 0
+Obtained result: 0
+Test result: OK 
+
+Test : Du8ADoc_iIOReadData
+Expected result: Return code 0
+Obtained result: 0
+Test result: OK 
+
+Test : Du8ADoc_iIOReadData
+Expected result: Return code 0
+Obtained result: 0
+Test result: OK 
+
+Test : Du8ADoc_iIOReadData
+Expected result: Return code 0
+Obtained result: 0
+Test result: OK 
+
+Test : Du8ADoc_iIOReadData
+Expected result: Return code 0
+Obtained result: 0
+Test result: OK 
+
+Test : Du8ADoc_iIOReadData
+Expected result: Return code 0
+Obtained result: 0
+Test result: OK 
+
+Test : Du8ADoc_iIOReadData
+Expected result: Return code 0
+Obtained result: 0
+Test result: OK 
+
+Test : Du8ADoc_iIOReadData
+Expected result: Return code 0
+Obtained result: 0
+Test result: OK 
+
+Test : Du8ADoc_iIOReadData
+Expected result: Return code 0
+Obtained result: 0
+Test result: OK 
+
+Test : Du8ADoc_iIOReadData
+Expected result: Return code 0
+Obtained result: 0
+Test result: OK 
+
+Test : Du8ADoc_iIOReadData
+Expected result: Return code 0
+Obtained result: 0
+Test result: OK 
+
+Test : Du8ADoc_iIOReadData
+Expected result: Return code 0
+Obtained result: 0
+Test result: OK 
+
+Test : Du8ADoc_iIOReadData
+Expected result: Return code 0
+Obtained result: 0
+Test result: RC NOK 
+
+Test : Du8ADoc_iIOReadData
+Expected result: Return code 0
+Obtained result: 0
+Test result: RC NOK 
+
+Test : Du8ADoc_iIOReadData
+Expected result: Return code 0
+Obtained result: 0
+Test result: RC NOK 
+
+Test : Du8ADoc_iIOReadData
+Expected result: Return code 0
+Obtained result: 0
+Test result: RC NOK 
+
+Test : Du8ADoc_iIOReadData
+Expected result: Return code 0
+Obtained result: 0
+Test result: RC NOK 
+
+Test : Du8ADoc_iIOReadData
+Expected result: Return code 0
+Obtained result: 0
+Test result: RC NOK 
+
+Test : Du8ADoc_iIOReadData
+Expected result: Return code 0
+Obtained result: 0
+Test result: RC NOK 
+
+Test : Du8ADoc_iIOReadData
+Expected result: Return code 0
+Obtained result: 0
+Test result: RC NOK 
+
+Test : Du8ADoc_iIOReadData
+Expected result: Return code 0
+Obtained result: 0
+Test result: RC NOK 
+
+Test : Du8ADoc_iIOReadData
+Expected result: Return code 0
+Obtained result: 0
+Test result: RC NOK 
+
+Test : Du8ADoc_iIOReadData
+Expected result: Return code 0
+Obtained result: 0
+Test result: RC NOK 
+
+Test : Du8ADoc_iIOReadData
+Expected result: Return code 0
+Obtained result: 0
+Test result: RC NOK 
+
+Test : Du8ADoc_iIOReadData
+Expected result: Return code 0
+Obtained result: 0
+Test result: RC NOK 
+
+Test : Du8ADoc_iIOReadData
+Expected result: Return code 0
+Obtained result: 0
+Test result: RC NOK 
+
+Test : Du8ADoc_iIOReadData
+Expected result: Return code 0
+Obtained result: 0
+Test result: RC NOK 
+
+Test : Du8ADoc_iIOReadData
+Expected result: Return code 0
+Obtained result: 0
+Test result: RC NOK 
+
+Test : Du8ADoc_iIOReadData
+Expected result: Return code 0
+Obtained result: 0
+Test result: RC NOK 
+
+Test : Du8ADoc_iIOReadData
+Expected result: Return code 0
+Obtained result: 0
+Test result: RC NOK 
+
+Test : Du8ADoc_iIOReadData
+Expected result: Return code 0
+Obtained result: 0
+Test result: RC NOK 
+
+Test : Du8ADoc_iIOReadData
+Expected result: Return code 0
+Obtained result: 0
+Test result: RC NOK 
+
+Test : Du8ADoc_iIOReadData
+Expected result: Return code 0
+Obtained result: 0
+Test result: RC NOK 
+
+Test : Du8ADoc_iIOReadData
+Expected result: Return code 0
+Obtained result: 0
+Test result: RC NOK 
+
+Test : Du8ADoc_iIOReadData
+Expected result: Return code 0
+Obtained result: 0
+Test result: RC NOK 
+
+Test : Du8ADoc_iIOReadData
+Expected result: Return code 0
+Obtained result: 0
+Test result: RC NOK 
+
+Test : Du8ADoc_iIOReadData
+Expected result: Return code 0
+Obtained result: 0
+Test result: RC NOK 
+
+Test : Du8ADoc_iIOReadData
+Expected result: Return code 0
+Obtained result: 0
+Test result: RC NOK 
+
+Test : Du8ADoc_iIOReadData
+Expected result: Return code 0
+Obtained result: 0
+Test result: RC NOK 
+
+Test : Du8ADoc_iIOReadData
+Expected result: Return code 0
+Obtained result: 0
+Test result: RC NOK 
+
+Test : Du8ADoc_iIOReadData
+Expected result: Return code 0
+Obtained result: 0
+Test result: RC NOK 
+
+Test : Du8ADoc_iIOReadData
+Expected result: Return code 0
+Obtained result: 0
+Test result: RC NOK 
+
+Test : Du8ADoc_iIOReadData
+Expected result: Return code 0
+Obtained result: 0
+Test result: RC NOK 
+
+Test : Du8ADoc_iIOReadData
+Expected result: Return code 0
+Obtained result: 0
+Test result: RC NOK 
+
+Test : Du8ADoc_iIOReadData
+Expected result: Return code 0
+Obtained result: 0
+Test result: RC NOK 
+
+Test : Du8ADoc_iIOReadData
+Expected result: Return code 0
+Obtained result: 0
+Test result: RC NOK 
+
+Test : Du8ADoc_iIOReadData
+Expected result: Return code 0
+Obtained result: 0
+Test result: RC NOK 
+
+Test : Du8ADoc_iIOReadData
+Expected result: Return code 0
+Obtained result: 0
+Test result: RC NOK 
+
+Test : Du8ADoc_iIOReadData
+Expected result: Return code 0
+Obtained result: 0
+Test result: RC NOK 
+
+Test : Du8ADoc_iIOReadData
+Expected result: Return code 0
+Obtained result: 0
+Test result: RC NOK 
+
+Test : Du8ADoc_iIOReadData
+Expected result: Return code 0
+Obtained result: 0
+Test result: RC NOK 
+
+Test : Du8ADoc_iIOReadData
+Expected result: Return code 0
+Obtained result: 0
+Test result: RC NOK 
+
+Test : Du8ADoc_iIOReadData
+Expected result: Return code 0
+Obtained result: 0
+Test result: RC NOK 
+
+Test : Du8ADoc_iIOReadData
+Expected result: Return code 0
+Obtained result: 0
+Test result: RC NOK 
+
+Test : Du8ADoc_iIOReadData
+Expected result: Return code 0
+Obtained result: 0
+Test result: RC NOK 
+
+Test : Du8ADoc_iIOReadData
+Expected result: Return code 0
+Obtained result: 0
+Test result: RC NOK 
+
+Test : Du8ADoc_iIOReadData
+Expected result: Return code 0
+Obtained result: 0
+Test result: RC NOK 
+
+Test : Du8ADoc_iIOReadData
+Expected result: Return code 0
+Obtained result: 0
+Test result: RC NOK 
+
+Test : Du8ADoc_iIOReadData
+Expected result: Return code 0
+Obtained result: 0
+Test result: RC NOK 
+
+Test : Du8ADoc_iIOReadData
+Expected result: Return code 0
+Obtained result: 0
+Test result: RC NOK 
+
+Test : Du8ADoc_iIOReadData
+Expected result: Return code 0
+Obtained result: 0
+Test result: RC NOK 
+
+Test : Du8ADoc_iIOReadData
+Expected result: Return code 0
+Obtained result: 0
+Test result: RC NOK 
+
+Test : Du8ADoc_iIOReadData
+Expected result: Return code 0
+Obtained result: 0
+Test result: RC NOK 
+
+Test : Du8ADoc_iIOReadData
+Expected result: Return code 0
+Obtained result: 0
+Test result: RC NOK 
+
+Test : Du8ADoc_iIOReadData
+Expected result: Return code 0
+Obtained result: 0
+Test result: RC NOK 
+
+Test : Du8ADoc_iIOReadData
+Expected result: Return code 0
+Obtained result: 0
+Test result: RC NOK 
+
+Test : Du8ADoc_iIOReadData
+Expected result: Return code 0
+Obtained result: 0
+Test result: RC NOK 
+
+Test : Du8ADoc_iIOReadData
+Expected result: Return code 0
+Obtained result: 0
+Test result: RC NOK 
+
+Test : Du8ADoc_iIOReadData
+Expected result: Return code 0
+Obtained result: 0
+Test result: RC NOK 
+
+Test : Du8ADoc_iIOReadData
+Expected result: Return code 0
+Obtained result: 0
+Test result: RC NOK 
+
+Test : Du8ADoc_iIOReadData
+Expected result: Return code 0
+Obtained result: 0
+Test result: RC NOK 
+
+Test : Du8ADoc_iIOReadData
+Expected result: Return code 0
+Obtained result: 0
+Test result: RC NOK 
+
+Test : Du8ADoc_iIOReadData
+Expected result: Return code 0
+Obtained result: 0
+Test result: RC NOK 
+
+Test : Du8ADoc_iIOReadData
+Expected result: Return code 0
+Obtained result: 0
+Test result: OK 
+
+Test : Du8ADoc_iIOReadData
+Expected result: Return code 0
+Obtained result: 0
+Test result: OK 
+
+Test : Du8ADoc_iIOReadData
+Expected result: Return code 0
+Obtained result: 0
+Test result: OK 
+
+Test : Du8ADoc_iIOReadData
+Expected result: Return code 0
+Obtained result: 0
+Test result: OK 
+
+Test : Du8ADoc_iIOReadData
+Expected result: Return code 0
+Obtained result: 0
+Test result: OK 
+
+Test : Du8ADoc_iIOReadData
+Expected result: Return code 0
+Obtained result: 0
+Test result: OK 
+
+Test : Du8ADoc_iIOReadData
+Expected result: Return code 0
+Obtained result: 0
+Test result: OK 
+
+Test : Du8ADoc_iIOReadData
+Expected result: Return code 0
+Obtained result: 0
+Test result: OK 
+
+Test : Du8ADoc_iIOReadData
+Expected result: Return code 0
+Obtained result: 0
+Test result: OK 
+
+Test : Du8ADoc_iIOReadData
+Expected result: Return code 0
+Obtained result: 0
+Test result: OK 
+
+Test : Du8ADoc_iIOReadData
+Expected result: Return code 0
+Obtained result: 0
+Test result: OK 
+
+Test : Du8ADoc_iIOReadData
+Expected result: Return code 0
+Obtained result: 0
+Test result: OK 
+
+Test : Du8ADoc_iIOReadData
+Expected result: Return code 0
+Obtained result: 0
+Test result: OK 
+
+Test : Du8ADoc_iIOReadData
+Expected result: Return code 0
+Obtained result: 0
+Test result: OK 
+
+Test : Du8ADoc_iIOReadData
+Expected result: Return code 0
+Obtained result: 0
+Test result: OK 
+
+Test : Du8ADoc_iIOReadData
+Expected result: Return code 0
+Obtained result: 0
+Test result: RC NOK 
+
+Test : Du8ADoc_iIOReadData
+Expected result: Return code 0
+Obtained result: 0
+Test result: RC NOK 
+
+Test : Du8ADoc_iIOReadData
+Expected result: Return code 0
+Obtained result: 0
+Test result: RC NOK 
+
+Test : Du8ADoc_iIOReadData
+Expected result: Return code 0
+Obtained result: 0
+Test result: RC NOK 
+
+Test : Du8ADoc_iIOReadData
+Expected result: Return code 0
+Obtained result: 0
+Test result: RC NOK 
+
+Test : Du8ADoc_iIOReadData
+Expected result: Return code 0
+Obtained result: 0
+Test result: RC NOK 
+
+Test : Du8ADoc_iIOReadData
+Expected result: Return code 0
+Obtained result: 0
+Test result: RC NOK 
+
+Test : Du8ADoc_iIOReadData
+Expected result: Return code 0
+Obtained result: 0
+Test result: RC NOK 
+
+Test : Du8ADoc_iIOReadData
+Expected result: Return code 0
+Obtained result: 0
+Test result: RC NOK 
+
+Test : Du8ADoc_iIOReadData
+Expected result: Return code 0
+Obtained result: 0
+Test result: RC NOK 
+
+Test : Du8ADoc_iIOReadData
+Expected result: Return code 0
+Obtained result: 0
+Test result: RC NOK 
+
+Test : Du8ADoc_iIOReadData
+Expected result: Return code 0
+Obtained result: 0
+Test result: RC NOK 
+
+Test : Du8ADoc_iIOReadData
+Expected result: Return code 0
+Obtained result: 0
+Test result: RC NOK 
+
+Test : Du8ADoc_iIOReadData
+Expected result: Return code 0
+Obtained result: 0
+Test result: RC NOK 
+
+Test : Du8ADoc_iIOReadData
+Expected result: Return code 0
+Obtained result: 0
+Test result: RC NOK 
+
+Test : Du8ADoc_iIOReadData
+Expected result: Return code 0
+Obtained result: 0
+Test result: RC NOK 
+
+Test : Du8ADoc_iIOReadData
+Expected result: Return code 0
+Obtained result: 0
+Test result: RC NOK 
+
+Test : Du8ADoc_iIOReadData
+Expected result: Return code 0
+Obtained result: 0
+Test result: RC NOK 
+
+Test : Du8ADoc_iIOReadData
+Expected result: Return code 0
+Obtained result: 0
+Test result: RC NOK 
+
+Test : Du8ADoc_iIOReadData
+Expected result: Return code 0
+Obtained result: 0
+Test result: RC NOK 
+
+Test : Du8ADoc_iIOReadData
+Expected result: Return code 0
+Obtained result: 0
+Test result: RC NOK 
+
+Test : Du8ADoc_iIOReadData
+Expected result: Return code 0
+Obtained result: 0
+Test result: RC NOK 
+
+Test : Du8ADoc_iIOReadData
+Expected result: Return code 0
+Obtained result: 0
+Test result: RC NOK 
+
+Test : Du8ADoc_iIOReadData
+Expected result: Return code 0
+Obtained result: 0
+Test result: RC NOK 
+
+Test : Du8ADoc_iIOReadData
+Expected result: Return code 0
+Obtained result: 0
+Test result: RC NOK 
+
+Test : Du8ADoc_iIOReadData
+Expected result: Return code 0
+Obtained result: 0
+Test result: RC NOK 
+
+Test : Du8ADoc_iIOReadData
+Expected result: Return code 0
+Obtained result: 0
+Test result: RC NOK 
+
+Test : Du8ADoc_iIOReadData
+Expected result: Return code 0
+Obtained result: 0
+Test result: RC NOK 
+
+Test : Du8ADoc_iIOReadData
+Expected result: Return code 0
+Obtained result: 0
+Test result: RC NOK 
+
+Test : Du8ADoc_iIOReadData
+Expected result: Return code 0
+Obtained result: 0
+Test result: RC NOK 
+
+Test : Du8ADoc_iIOReadData
+Expected result: Return code 0
+Obtained result: 0
+Test result: RC NOK 
+
+Test : Du8ADoc_iIOReadData
+Expected result: Return code 0
+Obtained result: 0
+Test result: RC NOK 
+
+Test : Du8ADoc_iIOReadData
+Expected result: Return code 0
+Obtained result: 0
+Test result: RC NOK 
+
+Test : Du8ADoc_iIOReadData
+Expected result: Return code 0
+Obtained result: 0
+Test result: RC NOK 
+
+Test : Du8ADoc_iIOReadData
+Expected result: Return code 0
+Obtained result: 0
+Test result: RC NOK 
+
+Test : Du8ADoc_iIOReadData
+Expected result: Return code 0
+Obtained result: 0
+Test result: RC NOK 
+
+Test : Du8ADoc_iIOReadData
+Expected result: Return code 0
+Obtained result: 0
+Test result: RC NOK 
+
+Test : Du8ADoc_iIOReadData
+Expected result: Return code 0
+Obtained result: 0
+Test result: RC NOK 
+
+Test : Du8ADoc_iIOReadData
+Expected result: Return code 0
+Obtained result: 0
+Test result: RC NOK 
+
+Test : Du8ADoc_iIOReadData
+Expected result: Return code 0
+Obtained result: 0
+Test result: RC NOK 
+
+Test : Du8ADoc_iIOReadData
+Expected result: Return code 0
+Obtained result: 0
+Test result: RC NOK 
+
+Test : Du8ADoc_iIOReadData
+Expected result: Return code 0
+Obtained result: 0
+Test result: RC NOK 
+
+Test : Du8ADoc_iIOReadData
+Expected result: Return code 0
+Obtained result: 0
+Test result: RC NOK 
+
+Test : Du8ADoc_iIOReadData
+Expected result: Return code 0
+Obtained result: 0
+Test result: RC NOK 
+
+Test : Du8ADoc_iIOReadData
+Expected result: Return code 0
+Obtained result: 0
+Test result: RC NOK 
+
+Test : Du8ADoc_iIOReadData
+Expected result: Return code 0
+Obtained result: 0
+Test result: RC NOK 
+
+Test : Du8ADoc_iIOReadData
+Expected result: Return code 0
+Obtained result: 0
+Test result: RC NOK 
+
+Test : Du8ADoc_iIOReadData
+Expected result: Return code 0
+Obtained result: 0
+Test result: RC NOK 
+
+Test : Du8ADoc_iIOReadData
+Expected result: Return code 0
+Obtained result: 0
+Test result: RC NOK 
+
+Test : Du8ADoc_iIOReadData
+Expected result: Return code 0
+Obtained result: 0
+Test result: RC NOK 
+
+Test : Du8ADoc_iIOReadData
+Expected result: Return code 0
+Obtained result: 0
+Test result: RC NOK 
+
+Test : Du8ADoc_iIOReadData
+Expected result: Return code 0
+Obtained result: 0
+Test result: RC NOK 
+
+Test : Du8ADoc_iIOReadData
+Expected result: Return code 0
+Obtained result: 0
+Test result: RC NOK 
+
+Test : Du8ADoc_iIOReadData
+Expected result: Return code 0
+Obtained result: 0
+Test result: RC NOK 
+
+Test : Du8ADoc_iIOReadData
+Expected result: Return code 0
+Obtained result: 0
+Test result: RC NOK 
+
+Test : Du8ADoc_iIOReadData
+Expected result: Return code 0
+Obtained result: 0
+Test result: RC NOK 
+
+Test : Du8ADoc_iIOReadData
+Expected result: Return code 0
+Obtained result: 0
+Test result: RC NOK 
+
+Test : Du8ADoc_iIOReadData
+Expected result: Return code 0
+Obtained result: 0
+Test result: RC NOK 
+
+Test : Du8ADoc_iIOReadData
+Expected result: Return code 0
+Obtained result: 0
+Test result: RC NOK 
+
+Test : Du8ADoc_iIOReadData
+Expected result: Return code 0
+Obtained result: 0
+Test result: RC NOK 
+
+Test : Du8ADoc_iIOReadData
+Expected result: Return code 0
+Obtained result: 0
+Test result: RC NOK 
+
+Test : Du8ADoc_iIOReadData
+Expected result: Return code 0
+Obtained result: 0
+Test result: RC NOK 
+
+Test : Du8ADoc_iIOReadData
+Expected result: Return code 0
+Obtained result: 0
+Test result: RC NOK 
+
+Test : Du8ADoc_iIOReadData
+Expected result: Return code 0
+Obtained result: 0
+Test result: RC NOK 
+
+Test : Du8ADoc_iIOReadData
+Expected result: Return code 0
+Obtained result: 0
+Test result: RC NOK 
+
+Test : Du8ADoc_iIOReadData
+Expected result: Return code 0
+Obtained result: 0
+Test result: RC NOK 
+
+Test : Du8ADoc_iIOReadData
+Expected result: Return code 0
+Obtained result: 0
+Test result: RC NOK 
+
+Test : Du8ADoc_iIOReadData
+Expected result: Return code 0
+Obtained result: 0
+Test result: RC NOK 
+
+Test : Du8ADoc_iIOReadData
+Expected result: Return code 0
+Obtained result: 0
+Test result: RC NOK 
+
+Test : Du8ADoc_iIOReadData
+Expected result: Return code 0
+Obtained result: 0
+Test result: RC NOK 
+
+Test : Du8ADoc_iIOReadData
+Expected result: Return code 0
+Obtained result: 0
+Test result: RC NOK 
+
+Test : Du8ADoc_iIOReadData
+Expected result: Return code 0
+Obtained result: 0
+Test result: RC NOK 
+
+Test : Du8ADoc_iIOReadData
+Expected result: Return code 0
+Obtained result: 0
+Test result: RC NOK 
+
+Test : Du8ADoc_iIOReadData
+Expected result: Return code 0
+Obtained result: 0
+Test result: RC NOK 
+
+Test : Du8ADoc_iIOReadData
+Expected result: Return code 0
+Obtained result: 0
+Test result: RC NOK 
+
+Test : Du8ADoc_iIOReadData
+Expected result: Return code 0
+Obtained result: 0
+Test result: RC NOK 
+
+Test : Du8ADoc_iIOReadData
+Expected result: Return code 0
+Obtained result: 0
+Test result: RC NOK 
+
+Test : Du8ADoc_iIOReadData
+Expected result: Return code 0
+Obtained result: 0
+Test result: RC NOK 
+
+Test : Du8ADoc_iIOReadData
+Expected result: Return code 0
+Obtained result: 0
+Test result: RC NOK 
+
+Test : Du8ADoc_iIOReadData
+Expected result: Return code 0
+Obtained result: 0
+Test result: RC NOK 
+
+Test : Du8ADoc_iIOReadData
+Expected result: Return code 0
+Obtained result: 0
+Test result: RC NOK 
+
+Test : Du8ADoc_iIOReadData
+Expected result: Return code 0
+Obtained result: 0
+Test result: RC NOK 
+
+Test : Du8ADoc_iIOReadData
+Expected result: Return code 0
+Obtained result: 0
+Test result: RC NOK 
+
+Test : Du8ADoc_iIOReadData
+Expected result: Return code 0
+Obtained result: 0
+Test result: RC NOK 
+
+Test : Du8ADoc_iIOReadData
+Expected result: Return code 0
+Obtained result: 0
+Test result: RC NOK 
+
+Test : Du8ADoc_iIOReadData
+Expected result: Return code 0
+Obtained result: 0
+Test result: RC NOK 
+

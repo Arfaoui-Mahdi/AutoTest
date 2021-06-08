@@ -1,0 +1,7 @@
+{
+    "files.associations": {
+        "doc_app.h": "c",
+        "doc_app_cfg.h": "c",
+        "std_type.h": "c"
+    }
+}

@@ -1,0 +1,1377 @@
+b'\xf1\x81\x00\x00\x04\x10P111247-\x00\x00MP14 SW Test App\x00\x00\x00\x00@ACTIA\x00\x00\x00\x00Apr  9 2021\x0016:56:50\x00\x00'
+0
+Test : AppSW
+Expected result: Return code 0
+Obtained result: 0
+Test result: OK 
+
+b'\xf1\x80\x01\x00\x06\x10P111092\x00\x00\x00MPS14_BOOT_DBG\x00\x00\x00\x00\x00\x00@ACTIA\x00\x00\x00\x00Jan 13 2021\x0014:14:46\x00\x00'
+0
+Test : Du16ADoc_iBootSWIdentification
+Expected result: Return code 0
+Obtained result: 0
+Test result: OK 
+
+b'\xf1\x80\x01\x00\x06\x10P111092\x00\x00\x00MPS14_BOOT_DBG\x00\x00\x00\x00\x00\x00@ACTIA\x00\x00\x00\x00Jan 13 2021\x0014:14:46\x00\x00'
+0
+Test : Du16ADoc_iBootSWIdentification
+Expected result: Return code 0
+Obtained result: 0
+Test result: OK 
+
+b'\xf1\x80\x01\x00\x06\x10P111092\x00\x00\x00MPS14_BOOT_DBG\x00\x00\x00\x00\x00\x00@ACTIA\x00\x00\x00\x00Jan 13 2021\x0014:14:46\x00\x00'
+0
+Test : Du16ADoc_iBootSWIdentification
+Expected result: Return code 0
+Obtained result: 0
+Test result: OK 
+
+b'\xf1\x80\x01\x00\x06\x10P111092\x00\x00\x00MPS14_BOOT_DBG\x00\x00\x00\x00\x00\x00@ACTIA\x00\x00\x00\x00Jan 13 2021\x0014:14:46\x00\x00'
+0
+Test : Du16ADoc_iBootSWIdentification
+Expected result: Return code 0
+Obtained result: 0
+Test result: OK 
+
+b'\xf1\x81\x00\x00\x04\x10P111247-\x00\x00MP14 SW Test App\x00\x00\x00\x00@ACTIA\x00\x00\x00\x00Apr  9 2021\x0016:56:50\x00\x00'
+0
+Test : Du16ADoc_iAppSWIdentification
+Expected result: Return code 0
+Obtained result: 0
+Test result: OK 
+
+b'\xf1\x81\x00\x00\x04\x10P111247-\x00\x00MP14 SW Test App\x00\x00\x00\x00@ACTIA\x00\x00\x00\x00Apr  9 2021\x0016:56:50\x00\x00'
+0
+Test : Du16ADoc_iAppSWIdentification
+Expected result: Return code 0
+Obtained result: 0
+Test result: OK 
+
+b'\xf1\x81\x00\x00\x04\x10P111247-\x00\x00MP14 SW Test App\x00\x00\x00\x00@ACTIA\x00\x00\x00\x00Apr  9 2021\x0016:56:50\x00\x00'
+0
+Test : Du16ADoc_iAppSWIdentification
+Expected result: Return code 0
+Obtained result: 0
+Test result: OK 
+
+b'\xf1\x81\x00\x00\x04\x10P111247-\x00\x00MP14 SW Test App\x00\x00\x00\x00@ACTIA\x00\x00\x00\x00Apr  9 2021\x0016:56:50\x00\x00'
+0
+Test : Du16ADoc_iAppSWIdentification
+Expected result: Return code 0
+Obtained result: 0
+Test result: OK 
+
+b'\xf1\x81\x00\x00\x04\x10P111247-\x00\x00MP14 SW Test App\x00\x00\x00\x00@ACTIA\x00\x00\x00\x00Apr  9 2021\x0016:56:50\x00\x00'
+0
+Test : Du16ADoc_iAppSWIdentification
+Expected result: Return code 0
+Obtained result: 0
+Test result: OK 
+
+b'\xf1\x81\x00\x00\x04\x10P111247-\x00\x00MP14 SW Test App\x00\x00\x00\x00@ACTIA\x00\x00\x00\x00Apr  9 2021\x0016:56:50\x00\x00'
+0
+Test : Du16ADoc_iAppSWIdentification
+Expected result: Return code 0
+Obtained result: 0
+Test result: OK 
+
+Test : Du8ADoc_iCanConfigureBaudrate
+Expected result: Return code 0
+Obtained result: 255
+Test result: RC NOK 
+
+Test : Du8ADoc_iCanConfigureBaudrate
+Expected result: Return code 0
+Obtained result: 255
+Test result: RC NOK 
+
+Test : Du8ADoc_iCanConfigureBaudrate
+Expected result: Return code 0
+Obtained result: 255
+Test result: RC NOK 
+
+Test : Du8ADoc_iCanConfigureBaudrate
+Expected result: Return code 0
+Obtained result: 255
+Test result: RC NOK 
+
+Test : Du8ADoc_iCanConfigureBaudrate
+Expected result: Return code 0
+Obtained result: 255
+Test result: RC NOK 
+
+b'\xf1\x80\x01\x00\x06\x10P111092\x00\x00\x00MPS14_BOOT_DBG\x00\x00\x00\x00\x00\x00@ACTIA\x00\x00\x00\x00Jan 13 2021\x0014:14:46\x00\x00'
+0
+Test : Du16ADoc_iBootSWIdentification
+Expected result: Return code 0
+Obtained result: 0
+Test result: OK 
+
+b'\xf1\x81\x00\x00\x04\x10P111247-\x00\x00MP14 SW Test App\x00\x00\x00\x00@ACTIA\x00\x00\x00\x00Apr  9 2021\x0016:56:50\x00\x00'
+0
+Test : Du16ADoc_iAppSWIdentification
+Expected result: Return code 0
+Obtained result: 0
+Test result: OK 
+
+b'\xf1\x81\x00\x00\x04\x10P111247-\x00\x00MP14 SW Test App\x00\x00\x00\x00@ACTIA\x00\x00\x00\x00Apr  9 2021\x0016:56:50\x00\x00'
+0
+Test : Du16ADoc_iAppSWIdentification
+Expected result: Return code 0
+Obtained result: 0
+Test result: OK 
+
+b'\xf1\x81\x00\x00\x04\x10P111247-\x00\x00MP14 SW Test App\x00\x00\x00\x00@ACTIA\x00\x00\x00\x00Apr  9 2021\x0016:56:50\x00\x00'
+0
+Test : Du16ADoc_iAppSWIdentification
+Expected result: Return code 0
+Obtained result: 0
+Test result: OK 
+
+b'\xf1\x81\x00\x00\x04\x10P111247-\x00\x00MP14 SW Test App\x00\x00\x00\x00@ACTIA\x00\x00\x00\x00Apr  9 2021\x0016:56:50\x00\x00'
+0
+Test : Du16ADoc_iAppSWIdentification
+Expected result: Return code 0
+Obtained result: 0
+Test result: OK 
+
+b'\xf1\x81\x00\x00\x04\x10P111247-\x00\x00MP14 SW Test App\x00\x00\x00\x00@ACTIA\x00\x00\x00\x00Apr  9 2021\x0016:56:50\x00\x00'
+0
+Test : Du16ADoc_iAppSWIdentification
+Expected result: Return code 0
+Obtained result: 0
+Test result: OK 
+
+b'\xf1\x81\x00\x00\x04\x10P111247-\x00\x00MP14 SW Test App\x00\x00\x00\x00@ACTIA\x00\x00\x00\x00Apr  9 2021\x0016:56:50\x00\x00'
+0
+Test : Du16ADoc_iAppSWIdentification
+Expected result: Return code 0
+Obtained result: 0
+Test result: OK 
+
+b'\xf1\x81\x00\x00\x04\x10P111247-\x00\x00MP14 SW Test App\x00\x00\x00\x00@ACTIA\x00\x00\x00\x00Apr  9 2021\x0016:56:50\x00\x00'
+0
+Test : Du16ADoc_iAppSWIdentification
+Expected result: Return code 0
+Obtained result: 0
+Test result: OK 
+
+Test : Du8ADoc_iCanConfigureBaudrate
+Expected result: Return code 0
+Obtained result: 255
+Test result: RC NOK 
+
+Test : Du8ADoc_iCanConfigureBaudrate
+Expected result: Return code 0
+Obtained result: 255
+Test result: RC NOK 
+
+Test : Du8ADoc_iCanConfigureBaudrate
+Expected result: Return code 0
+Obtained result: 255
+Test result: RC NOK 
+
+Test : Du8ADoc_iCanConfigureBaudrate
+Expected result: Return code 0
+Obtained result: 255
+Test result: RC NOK 
+
+Test : Du8ADoc_iCanConfigureBaudrate
+Expected result: Return code 0
+Obtained result: 255
+Test result: RC NOK 
+
+b'\xf1\x80\x01\x00\x06\x10P111092\x00\x00\x00MPS14_BOOT_DBG\x00\x00\x00\x00\x00\x00@ACTIA\x00\x00\x00\x00Jan 13 2021\x0014:14:46\x00\x00'
+0
+Test : Du16ADoc_iBootSWIdentification
+Expected result: Return code 0
+Obtained result: 0
+Test result: OK 
+
+b'\xf1\x81\x00\x00\x04\x10P111247-\x00\x00MP14 SW Test App\x00\x00\x00\x00@ACTIA\x00\x00\x00\x00Apr  9 2021\x0016:56:50\x00\x00'
+0
+Test : Du16ADoc_iAppSWIdentification
+Expected result: Return code 0
+Obtained result: 0
+Test result: OK 
+
+b'\xf1\x81\x00\x00\x04\x10P111247-\x00\x00MP14 SW Test App\x00\x00\x00\x00@ACTIA\x00\x00\x00\x00Apr  9 2021\x0016:56:50\x00\x00'
+0
+Test : Du16ADoc_iAppSWIdentification
+Expected result: Return code 0
+Obtained result: 0
+Test result: OK 
+
+b'\xf1\x81\x00\x00\x04\x10P111247-\x00\x00MP14 SW Test App\x00\x00\x00\x00@ACTIA\x00\x00\x00\x00Apr  9 2021\x0016:56:50\x00\x00'
+0
+Test : Du16ADoc_iAppSWIdentification
+Expected result: Return code 0
+Obtained result: 0
+Test result: OK 
+
+b'\xf1\x81\x00\x00\x04\x10P111247-\x00\x00MP14 SW Test App\x00\x00\x00\x00@ACTIA\x00\x00\x00\x00Apr  9 2021\x0016:56:50\x00\x00'
+0
+Test : Du16ADoc_iAppSWIdentification
+Expected result: Return code 0
+Obtained result: 0
+Test result: OK 
+
+b'\xf1\x81\x00\x00\x04\x10P111247-\x00\x00MP14 SW Test App\x00\x00\x00\x00@ACTIA\x00\x00\x00\x00Apr  9 2021\x0016:56:50\x00\x00'
+0
+Test : Du16ADoc_iAppSWIdentification
+Expected result: Return code 0
+Obtained result: 0
+Test result: OK 
+
+b'\xf1\x81\x00\x00\x04\x10P111247-\x00\x00MP14 SW Test App\x00\x00\x00\x00@ACTIA\x00\x00\x00\x00Apr  9 2021\x0016:56:50\x00\x00'
+0
+Test : Du16ADoc_iAppSWIdentification
+Expected result: Return code 0
+Obtained result: 0
+Test result: OK 
+
+b'\xf1\x81\x00\x00\x04\x10P111247-\x00\x00MP14 SW Test App\x00\x00\x00\x00@ACTIA\x00\x00\x00\x00Apr  9 2021\x0016:56:50\x00\x00'
+0
+Test : Du16ADoc_iAppSWIdentification
+Expected result: Return code 0
+Obtained result: 0
+Test result: OK 
+
+Test : Du8ADoc_iCanGetAcceptanceMask
+Expected result: Return code 0
+Obtained result: 255
+Test result: RC NOK 
+
+Test : Du8ADoc_iCanGetAcceptanceMask
+Expected result: Return code 0
+Obtained result: 255
+Test result: RC NOK 
+
+b'\xf1\x80\x01\x00\x06\x10P111092\x00\x00\x00MPS14_BOOT_DBG\x00\x00\x00\x00\x00\x00@ACTIA\x00\x00\x00\x00Jan 13 2021\x0014:14:46\x00\x00'
+0
+Test : Du16ADoc_iBootSWIdentification
+Expected result: Return code 0
+Obtained result: 0
+Test result: OK 
+
+Test : Du8ADoc_iCanConfigureBaudrate
+Expected result: Return code 0
+Obtained result: 255
+Test result: RC NOK 
+
+b'\xf1\x80\x01\x00\x06\x10P111092\x00\x00\x00MPS14_BOOT_DBG\x00\x00\x00\x00\x00\x00@ACTIA\x00\x00\x00\x00Jan 13 2021\x0014:14:46\x00\x00'
+0
+Test : Du16ADoc_iBootSWIdentification
+Expected result: Return code 0
+Obtained result: 0
+Test result: OK 
+
+b'\xf1\x80\x01\x00\x06\x10P111092\x00\x00\x00MPS14_BOOT_DBG\x00\x00\x00\x00\x00\x00@ACTIA\x00\x00\x00\x00Jan 13 2021\x0014:14:46\x00\x00'
+0
+Test : Du16ADoc_iBootSWIdentification
+Expected result: Return code 0
+Obtained result: 0
+Test result: OK 
+
+b'\xf1\x80\x01\x00\x06\x10P111092\x00\x00\x00MPS14_BOOT_DBG\x00\x00\x00\x00\x00\x00@ACTIA\x00\x00\x00\x00Jan 13 2021\x0014:14:46\x00\x00'
+0
+Test : Du16ADoc_iBootSWIdentification
+Expected result: Return code 0
+Obtained result: 0
+Test result: OK 
+
+b'\xf1\x81\x00\x00\x04\x10P111247-\x00\x00MP14 SW Test App\x00\x00\x00\x00@ACTIA\x00\x00\x00\x00Apr  9 2021\x0016:56:50\x00\x00'
+0
+Test : Du16ADoc_iAppSWIdentification
+Expected result: Return code 0
+Obtained result: 0
+Test result: OK 
+
+b'\xf1\x81\x00\x00\x04\x10P111247-\x00\x00MP14 SW Test App\x00\x00\x00\x00@ACTIA\x00\x00\x00\x00Apr  9 2021\x0016:56:50\x00\x00'
+0
+Test : Du16ADoc_iAppSWIdentification
+Expected result: Return code 0
+Obtained result: 0
+Test result: OK 
+
+b'\xf1\x81\x00\x00\x04\x10P111247-\x00\x00MP14 SW Test App\x00\x00\x00\x00@ACTIA\x00\x00\x00\x00Apr  9 2021\x0016:56:50\x00\x00'
+0
+Test : Du16ADoc_iAppSWIdentification
+Expected result: Return code 0
+Obtained result: 0
+Test result: OK 
+
+b'\xf1\x80\x01\x00\x06\x10P111092\x00\x00\x00MPS14_BOOT_DBG\x00\x00\x00\x00\x00\x00@ACTIA\x00\x00\x00\x00Jan 13 2021\x0014:14:46\x00\x00'
+0
+Test : Du16ADoc_iBootSWIdentification
+Expected result: Return code 0
+Obtained result: 0
+Test result: OK 
+
+b'\xf1\x80\x01\x00\x06\x10P111092\x00\x00\x00MPS14_BOOT_DBG\x00\x00\x00\x00\x00\x00@ACTIA\x00\x00\x00\x00Jan 13 2021\x0014:14:46\x00\x00'
+0
+Test : Du16ADoc_iBootSWIdentification
+Expected result: Return code 0
+Obtained result: 0
+Test result: OK 
+
+b'\xf1\x81\x00\x00\x04\x10P111247-\x00\x00MP14 SW Test App\x00\x00\x00\x00@ACTIA\x00\x00\x00\x00Apr  9 2021\x0016:56:50\x00\x00'
+0
+Test : Du16ADoc_iAppSWIdentification
+Expected result: Return code 0
+Obtained result: 0
+Test result: OK 
+
+b'\xf1\x81\x00\x00\x04\x10P111247-\x00\x00MP14 SW Test App\x00\x00\x00\x00@ACTIA\x00\x00\x00\x00Apr  9 2021\x0016:56:50\x00\x00'
+0
+Test : Du16ADoc_iAppSWIdentification
+Expected result: Return code 0
+Obtained result: 0
+Test result: OK 
+
+b'\xf1\x81\x00\x00\x04\x10P111247-\x00\x00MP14 SW Test App\x00\x00\x00\x00@ACTIA\x00\x00\x00\x00Apr  9 2021\x0016:56:50\x00\x00'
+0
+Test : Du16ADoc_iAppSWIdentification
+Expected result: Return code 0
+Obtained result: 0
+Test result: OK 
+
+Test : Du8ADoc_iCanConfigureBaudrate
+Expected result: Return code 0
+Obtained result: 255
+Test result: RC NOK 
+
+Test : Du8ADoc_iCanSetBusOn
+Expected result: Return code 0
+Obtained result: 0
+Test result: OK 
+
+Test : Du8ADoc_iCanConfigureBaudrate
+Expected result: Return code 0
+Obtained result: 255
+Test result: RC NOK 
+
+Test : Du8ADoc_iCanSetBusOn
+Expected result: Return code 0
+Obtained result: 0
+Test result: OK 
+
+b'\xf1\x80\x01\x00\x06\x10P111092\x00\x00\x00MPS14_BOOT_DBG\x00\x00\x00\x00\x00\x00@ACTIA\x00\x00\x00\x00Jan 13 2021\x0014:14:46\x00\x00'
+0
+Test : TATATA
+Expected result: Return code 0
+Obtained result: 0
+Test result: OK 
+
+b'\xf1\x80\x01\x00\x06\x10P111092\x00\x00\x00MPS14_BOOT_DBG\x00\x00\x00\x00\x00\x00@ACTIA\x00\x00\x00\x00Jan 13 2021\x0014:14:46\x00\x00'
+0
+Test : TATATA
+Expected result: Return code 0
+Obtained result: 0
+Test result: OK 
+
+b'\xf1\x80\x01\x00\x06\x10P111092\x00\x00\x00MPS14_BOOT_DBG\x00\x00\x00\x00\x00\x00@ACTIA\x00\x00\x00\x00Jan 13 2021\x0014:14:46\x00\x00'
+0
+Test : TATATA
+Expected result: Return code 0
+Obtained result: 0
+Test result: OK 
+
+b'\xf1\x80\x01\x00\x06\x10P111092\x00\x00\x00MPS14_BOOT_DBG\x00\x00\x00\x00\x00\x00@ACTIA\x00\x00\x00\x00Jan 13 2021\x0014:14:46\x00\x00'
+0
+Test : TATATA
+Expected result: Return code 0
+Obtained result: 0
+Test result: OK 
+
+b'\xf1\x80\x01\x00\x06\x10P111092\x00\x00\x00MPS14_BOOT_DBG\x00\x00\x00\x00\x00\x00@ACTIA\x00\x00\x00\x00Jan 13 2021\x0014:14:46\x00\x00'
+0
+Test : TATATA
+Expected result: Return code 0
+Obtained result: 0
+Test result: OK 
+
+b'\xf1\x80\x01\x00\x06\x10P111092\x00\x00\x00MPS14_BOOT_DBG\x00\x00\x00\x00\x00\x00@ACTIA\x00\x00\x00\x00Jan 13 2021\x0014:14:46\x00\x00'
+0
+Test : TATATA
+Expected result: Return code 0
+Obtained result: 0
+Test result: OK 
+
+b'\xf1\x80\x01\x00\x06\x10P111092\x00\x00\x00MPS14_BOOT_DBG\x00\x00\x00\x00\x00\x00@ACTIA\x00\x00\x00\x00Jan 13 2021\x0014:14:46\x00\x00'
+0
+Test : TATATA
+Expected result: Return code 0
+Obtained result: 0
+Test result: OK 
+
+b'\xf1\x80\x01\x00\x06\x10P111092\x00\x00\x00MPS14_BOOT_DBG\x00\x00\x00\x00\x00\x00@ACTIA\x00\x00\x00\x00Jan 13 2021\x0014:14:46\x00\x00'
+0
+Test : TATATA
+Expected result: Return code 0
+Obtained result: 0
+Test result: OK 
+
+b'\xf1\x80\x01\x00\x06\x10P111092\x00\x00\x00MPS14_BOOT_DBG\x00\x00\x00\x00\x00\x00@ACTIA\x00\x00\x00\x00Jan 13 2021\x0014:14:46\x00\x00'
+0
+Test : TATATA
+Expected result: Return code 0
+Obtained result: 0
+Test result: OK 
+
+b'\xf1\x80\x01\x00\x06\x10P111092\x00\x00\x00MPS14_BOOT_DBG\x00\x00\x00\x00\x00\x00@ACTIA\x00\x00\x00\x00Jan 13 2021\x0014:14:46\x00\x00'
+0
+Test : TATATA
+Expected result: Return code 0
+Obtained result: 0
+Test result: OK 
+
+Test : TATATA
+Expected result: Return code 0
+Obtained result: 255
+Test result: RC NOK 
+
+Test : TATATA
+Expected result: Return code 0
+Obtained result: 255
+Test result: RC NOK 
+
+Test : TATATA
+Expected result: Return code 0
+Obtained result: <class 'udsoncan.Response.Response.Code'>
+Test result: RC NOK 
+
+Test : TATATA
+Expected result: Return code 0
+Obtained result: <class 'udsoncan.Response.Response.Code'>
+Test result: RC NOK 
+
+Test : TATATA
+Expected result: Return code 0
+Obtained result: 0
+Test result: OK 
+
+Test : TATATA
+Expected result: Return code 0
+Obtained result: 0
+Test result: OK 
+
+b'\xf1\x80\x01\x00\x06\x10P111092\x00\x00\x00MPS14_BOOT_DBG\x00\x00\x00\x00\x00\x00@ACTIA\x00\x00\x00\x00Jan 13 2021\x0014:14:46\x00\x00'
+0
+Test : TATATA
+Expected result: Return code 0
+Obtained result: 0
+Test result: OK 
+
+b'\xf1\x80\x01\x00\x06\x10P111092\x00\x00\x00MPS14_BOOT_DBG\x00\x00\x00\x00\x00\x00@ACTIA\x00\x00\x00\x00Jan 13 2021\x0014:14:46\x00\x00'
+0
+Test : TATATA
+Expected result: Return code 0
+Obtained result: 0
+Test result: OK 
+
+b'\xf1\x80\x01\x00\x06\x10P111092\x00\x00\x00MPS14_BOOT_DBG\x00\x00\x00\x00\x00\x00@ACTIA\x00\x00\x00\x00Jan 13 2021\x0014:14:46\x00\x00'
+0
+Test : TATATA
+Expected result: Return code 0
+Obtained result: 0
+Test result: OK 
+
+b'\xf1\x80\x01\x00\x06\x10P111092\x00\x00\x00MPS14_BOOT_DBG\x00\x00\x00\x00\x00\x00@ACTIA\x00\x00\x00\x00Jan 13 2021\x0014:14:46\x00\x00'
+0
+Test : TATATA
+Expected result: Return code 0
+Obtained result: 0
+Test result: OK 
+
+b'\xf1\x80\x01\x00\x06\x10P111092\x00\x00\x00MPS14_BOOT_DBG\x00\x00\x00\x00\x00\x00@ACTIA\x00\x00\x00\x00Jan 13 2021\x0014:14:46\x00\x00'
+0
+Test : TATATA
+Expected result: Return code 0
+Obtained result: 0
+Test result: OK 
+
+b'\xf1\x80\x01\x00\x06\x10P111092\x00\x00\x00MPS14_BOOT_DBG\x00\x00\x00\x00\x00\x00@ACTIA\x00\x00\x00\x00Jan 13 2021\x0014:14:46\x00\x00'
+0
+Test : TATATA
+Expected result: Return code 0
+Obtained result: 0
+Test result: OK 
+
+b'\xf1\x80\x01\x00\x06\x10P111092\x00\x00\x00MPS14_BOOT_DBG\x00\x00\x00\x00\x00\x00@ACTIA\x00\x00\x00\x00Jan 13 2021\x0014:14:46\x00\x00'
+PositiveResponse
+Test : TATATA
+Expected result: Return code 0
+Obtained result: PositiveResponse
+Test result: OK 
+
+b'\xf1\x80\x01\x00\x06\x10P111092\x00\x00\x00MPS14_BOOT_DBG\x00\x00\x00\x00\x00\x00@ACTIA\x00\x00\x00\x00Jan 13 2021\x0014:14:46\x00\x00'
+PositiveResponse
+Test : TATATA
+Expected result: Return code 0
+Obtained result: PositiveResponse
+Test result: OK 
+
+b'\xf1\x80\x01\x00\x06\x10P111092\x00\x00\x00MPS14_BOOT_DBG\x00\x00\x00\x00\x00\x00@ACTIA\x00\x00\x00\x00Jan 13 2021\x0014:14:46\x00\x00'
+PositiveResponse
+Test : TATATA
+Expected result: Return code 0
+Obtained result: 0
+Obtained result: PositiveResponse
+Test result: OK 
+
+b'\xf1\x80\x01\x00\x06\x10P111092\x00\x00\x00MPS14_BOOT_DBG\x00\x00\x00\x00\x00\x00@ACTIA\x00\x00\x00\x00Jan 13 2021\x0014:14:46\x00\x00'
+PositiveResponse
+Test : TATATA
+Expected result: Return code 0
+Obtained result: 0
+Obtained result: PositiveResponse
+Test result: OK 
+
+b'\xf1\x80\x01\x00\x06\x10P111092\x00\x00\x00MPS14_BOOT_DBG\x00\x00\x00\x00\x00\x00@ACTIA\x00\x00\x00\x00Jan 13 2021\x0014:14:46\x00\x00'
+0
+Test : TATATA
+Expected result: Return code 0
+Obtained result: 0
+Test result: OK 
+
+b'\xf1\x80\x01\x00\x06\x10P111092\x00\x00\x00MPS14_BOOT_DBG\x00\x00\x00\x00\x00\x00@ACTIA\x00\x00\x00\x00Jan 13 2021\x0014:14:46\x00\x00'
+0
+Test : TATATA
+Expected result: Return code 0
+Obtained result: 0
+Test result: OK 
+
+Test : Du8ADoc_iCanConfigureBaudrate
+Expected result: Return code 0
+Obtained result: 0
+Test result: OK 
+
+b'\xf1\x80\x01\x00\x06\x10P111092\x00\x00\x00MPS14_BOOT_DBG\x00\x00\x00\x00\x00\x00@ACTIA\x00\x00\x00\x00Jan 13 2021\x0014:14:46\x00\x00'
+0
+Test : Du16ADoc_iBootSWIdentification
+Expected result: Return code 0
+Obtained result: 0
+Test result: OK 
+
+b'\xf1\x80\x01\x00\x06\x10P111092\x00\x00\x00MPS14_BOOT_DBG\x00\x00\x00\x00\x00\x00@ACTIA\x00\x00\x00\x00Jan 13 2021\x0014:14:46\x00\x00'
+0
+Test : Du16ADoc_iBootSWIdentification
+Expected result: Return code 0
+Obtained result: 0
+Test result: OK 
+
+b'\xf1\x80\x01\x00\x06\x10P111092\x00\x00\x00MPS14_BOOT_DBG\x00\x00\x00\x00\x00\x00@ACTIA\x00\x00\x00\x00Jan 13 2021\x0014:14:46\x00\x00'
+0
+Test : Du16ADoc_iBootSWIdentification
+Expected result: Return code 0
+Obtained result: 0
+Test result: OK 
+
+b'\xf1\x80\x01\x00\x06\x10P111092\x00\x00\x00MPS14_BOOT_DBG\x00\x00\x00\x00\x00\x00@ACTIA\x00\x00\x00\x00Jan 13 2021\x0014:14:46\x00\x00'
+0
+Test : Du16ADoc_iBootSWIdentification
+Expected result: Return code 0
+Obtained result: 0
+Test result: OK 
+
+b'\xf1\x81\x00\x00\x04\x10P111247-\x00\x00MP14 SW Test App\x00\x00\x00\x00@ACTIA\x00\x00\x00\x00Apr  9 2021\x0016:56:50\x00\x00'
+0
+Test : Du16ADoc_iAppSWIdentification
+Expected result: Return code 0
+Obtained result: 0
+Test result: OK 
+
+Test : Du8ADoc_iCanConfigureBaudrate
+Expected result: Return code 0
+Obtained result: 0
+Test result: OK 
+
+b'\xf1\x81\x00\x00\x04\x10P111247-\x00\x00MP14 SW Test App\x00\x00\x00\x00@ACTIA\x00\x00\x00\x00Apr  9 2021\x0016:56:50\x00\x00'
+0
+Test : Du16ADoc_iAppSWIdentification
+Expected result: Return code 0
+Obtained result: 0
+Test result: OK 
+
+b'\xf1\x81\x00\x00\x04\x10P111247-\x00\x00MP14 SW Test App\x00\x00\x00\x00@ACTIA\x00\x00\x00\x00Apr  9 2021\x0016:56:50\x00\x00'
+0
+Test : Du16ADoc_iAppSWIdentification
+Expected result: Return code 0
+Obtained result: 0
+Test result: OK 
+
+b'\xf1\x81\x00\x00\x04\x10P111247-\x00\x00MP14 SW Test App\x00\x00\x00\x00@ACTIA\x00\x00\x00\x00Apr  9 2021\x0016:56:50\x00\x00'
+0
+Test : Du16ADoc_iAppSWIdentification
+Expected result: Return code 0
+Obtained result: 0
+Test result: OK 
+
+Test : Du8ADoc_iCanConfigureBaudrate
+Expected result: Return code 0
+Obtained result: 0
+Test result: OK 
+
+b'\xf1\x81\x00\x00\x04\x10P111247-\x00\x00MP14 SW Test App\x00\x00\x00\x00@ACTIA\x00\x00\x00\x00Apr  9 2021\x0016:56:50\x00\x00'
+0
+Test : Du16ADoc_iAppSWIdentification
+Expected result: Return code 0
+Obtained result: 0
+Test result: OK 
+
+b'\xf1\x81\x00\x00\x04\x10P111247-\x00\x00MP14 SW Test App\x00\x00\x00\x00@ACTIA\x00\x00\x00\x00Apr  9 2021\x0016:56:50\x00\x00'
+0
+Test : Du16ADoc_iAppSWIdentification
+Expected result: Return code 0
+Obtained result: 0
+Test result: OK 
+
+b'\xf1\x81\x00\x00\x04\x10P111247-\x00\x00MP14 SW Test App\x00\x00\x00\x00@ACTIA\x00\x00\x00\x00Apr  9 2021\x0016:56:50\x00\x00'
+0
+Test : Du16ADoc_iAppSWIdentification
+Expected result: Return code 0
+Obtained result: 0
+Test result: OK 
+
+b'\xf1\x86\x01\x00\x15\x10P111091-\x00\x00MPS14 BSP DBG SW\x00\x00\x00\x00@ACTIA\x00\x00\x00\x00Apr 14 2021\x0015:55:30\x00\x00'
+0
+Test : Du16ADoc_iBspSWIdentification
+Expected result: Return code 0
+Obtained result: 0
+Test result: OK 
+
+b'\xf1\x80\x01\x00\x06\x10P111092\x00\x00\x00MPS14_BOOT_DBG\x00\x00\x00\x00\x00\x00@ACTIA\x00\x00\x00\x00Jan 13 2021\x0014:14:46\x00\x00'
+0
+Test : Du16ADoc_iBootSWIdentification
+Expected result: Return code 0
+Obtained result: 0
+Test result: OK 
+
+b'\xf1\x81\x00\x00\x04\x10P111247-\x00\x00MP14 SW Test App\x00\x00\x00\x00@ACTIA\x00\x00\x00\x00Apr  9 2021\x0016:56:50\x00\x00'
+0
+Test : Du16ADoc_iAppSWIdentification
+Expected result: Return code 0
+Obtained result: 0
+Test result: OK 
+
+Test : Du8ADoc_iCanSetBusOn
+Expected result: Return code 0
+Obtained result: 0
+Test result: OK 
+
+b'\xf1\x80\x01\x00\x06\x10P111092\x00\x00\x00MPS14_BOOT_DBG\x00\x00\x00\x00\x00\x00@ACTIA\x00\x00\x00\x00Jan 13 2021\x0014:14:46\x00\x00'
+0
+Test : Du16ADoc_iBootSWIdentification
+Expected result: Return code 0
+Obtained result: 0
+Test result: OK 
+
+b'\xf1\x81\x00\x00\x04\x10P111247-\x00\x00MP14 SW Test App\x00\x00\x00\x00@ACTIA\x00\x00\x00\x00Apr  9 2021\x0016:56:50\x00\x00'
+0
+Test : Du16ADoc_iAppSWIdentification
+Expected result: Return code 0
+Obtained result: 0
+Test result: OK 
+
+Test : Du8ADoc_iCanSetBusOn
+Expected result: Return code 0
+Obtained result: 0
+Test result: OK 
+
+b'\xf1\x80\x01\x00\x06\x10P111092\x00\x00\x00MPS14_BOOT_DBG\x00\x00\x00\x00\x00\x00@ACTIA\x00\x00\x00\x00Jan 13 2021\x0014:14:46\x00\x00'
+0
+Test : Du16ADoc_iBootSWIdentification
+Expected result: Return code 0
+Obtained result: 0
+Test result: OK 
+
+b'\xf1\x81\x00\x00\x04\x10P111247-\x00\x00MP14 SW Test App\x00\x00\x00\x00@ACTIA\x00\x00\x00\x00Apr  9 2021\x0016:56:50\x00\x00'
+0
+Test : Du16ADoc_iAppSWIdentification
+Expected result: Return code 0
+Obtained result: 0
+Test result: OK 
+
+b'\xf1\x80\x01\x00\x06\x10P111092\x00\x00\x00MPS14_BOOT_DBG\x00\x00\x00\x00\x00\x00@ACTIA\x00\x00\x00\x00Jan 13 2021\x0014:14:46\x00\x00'
+0
+Test : Du16ADoc_iBootSWIdentification
+Expected result: Return code 0
+Obtained result: 0
+Test result: OK 
+
+b'\xf1\x81\x00\x00\x04\x10P111247-\x00\x00MP14 SW Test App\x00\x00\x00\x00@ACTIA\x00\x00\x00\x00Apr  9 2021\x0016:56:50\x00\x00'
+0
+Test : Du16ADoc_iAppSWIdentification
+Expected result: Return code 0
+Obtained result: 0
+Test result: OK 
+
+Test : Du8ADoc_iCanConfigureBaudrate
+Expected result: Return code 0
+Obtained result: 0
+Test result: OK 
+
+b'\xf1\x80\x01\x00\x06\x10P111092\x00\x00\x00MPS14_BOOT_DBG\x00\x00\x00\x00\x00\x00@ACTIA\x00\x00\x00\x00Jan 13 2021\x0014:14:46\x00\x00'
+0
+Test : Du16ADoc_iBootSWIdentification
+Expected result: Return code 0
+Obtained result: 0
+Test result: OK 
+
+b'\xf1\x81\x00\x00\x04\x10P111247-\x00\x00MP14 SW Test App\x00\x00\x00\x00@ACTIA\x00\x00\x00\x00Apr  9 2021\x0016:56:50\x00\x00'
+0
+Test : Du16ADoc_iAppSWIdentification
+Expected result: Return code 0
+Obtained result: 0
+Test result: OK 
+
+b'\xf1\x81\x00\x00\x04\x10P111247-\x00\x00MP14 SW Test App\x00\x00\x00\x00@ACTIA\x00\x00\x00\x00Apr  9 2021\x0016:56:50\x00\x00'
+0
+Test : Du16ADoc_iAppSWIdentification
+Expected result: Return code 0
+Obtained result: 0
+Test result: OK 
+
+b'\xf1\x86\x01\x00\x15\x10P111091-\x00\x00MPS14 BSP DBG SW\x00\x00\x00\x00@ACTIA\x00\x00\x00\x00Apr 14 2021\x0015:55:30\x00\x00'
+0
+Test : Du16ADoc_iBspSWIdentification
+Expected result: Return code 0
+Obtained result: 0
+Test result: OK 
+
+b'\xf1\x86\x01\x00\x15\x10P111091-\x00\x00MPS14 BSP DBG SW\x00\x00\x00\x00@ACTIA\x00\x00\x00\x00Apr 14 2021\x0015:55:30\x00\x00'
+0
+Test : Du16ADoc_iBspSWIdentification
+Expected result: Return code 0
+Obtained result: 0
+Test result: OK 
+
+b'\xf1\x86\x01\x00\x15\x10P111091-\x00\x00MPS14 BSP DBG SW\x00\x00\x00\x00@ACTIA\x00\x00\x00\x00Apr 14 2021\x0015:55:30\x00\x00'
+0
+Test : Du16ADoc_iBspSWIdentification
+Expected result: Return code 0
+Obtained result: 0
+Test result: OK 
+
+b'\xf1\x86\x01\x00\x15\x10P111091-\x00\x00MPS14 BSP DBG SW\x00\x00\x00\x00@ACTIA\x00\x00\x00\x00Apr 14 2021\x0015:55:30\x00\x00'
+0
+Test : Du16ADoc_iBspSWIdentification
+Expected result: Return code 0
+Obtained result: 0
+Test result: OK 
+
+b'\xf1\x81\x00\x00\x04\x10P111247-\x00\x00MP14 SW Test App\x00\x00\x00\x00@ACTIA\x00\x00\x00\x00Apr  9 2021\x0016:56:50\x00\x00'
+0
+Test : Du16ADoc_iAppSWIdentification
+Expected result: Return code 0
+Obtained result: 0
+Test result: OK 
+
+b'\xf1\x86\x01\x00\x15\x10P111091-\x00\x00MPS14 BSP DBG SW\x00\x00\x00\x00@ACTIA\x00\x00\x00\x00Apr 14 2021\x0015:55:30\x00\x00'
+0
+Test : Du16ADoc_iBspSWIdentification
+Expected result: Return code 0
+Obtained result: 0
+Test result: OK 
+
+b'\xf1\x80\x01\x00\x06\x10P111092\x00\x00\x00MPS14_BOOT_DBG\x00\x00\x00\x00\x00\x00@ACTIA\x00\x00\x00\x00Jan 13 2021\x0014:14:46\x00\x00'
+0
+Test : Du16ADoc_iBootSWIdentification
+Expected result: Return code 0
+Obtained result: 0
+Test result: OK 
+
+b'\xf1\x81\x00\x00\x04\x10P111247-\x00\x00MP14 SW Test App\x00\x00\x00\x00@ACTIA\x00\x00\x00\x00Apr  9 2021\x0016:56:50\x00\x00'
+0
+Test : Du16ADoc_iAppSWIdentification
+Expected result: Return code 0
+Obtained result: 0
+Test result: OK 
+
+Test : Du8ADoc_iCanConfigureBaudrate
+Expected result: Return code 0
+Obtained result: 0
+Test result: OK 
+
+b'\xf1\x80\x01\x00\x06\x10P111092\x00\x00\x00MPS14_BOOT_DBG\x00\x00\x00\x00\x00\x00@ACTIA\x00\x00\x00\x00Jan 13 2021\x0014:14:46\x00\x00'
+0
+Test : Du16ADoc_iBootSWIdentification
+Expected result: Return code 0
+Obtained result: 0
+Test result: OK 
+
+b'\xf1\x81\x00\x00\x04\x10P111247-\x00\x00MP14 SW Test App\x00\x00\x00\x00@ACTIA\x00\x00\x00\x00Apr  9 2021\x0016:56:50\x00\x00'
+0
+Test : Du16ADoc_iAppSWIdentification
+Expected result: Return code 0
+Obtained result: 0
+Test result: OK 
+
+b'\xf1\x81\x00\x00\x04\x10P111247-\x00\x00MP14 SW Test App\x00\x00\x00\x00@ACTIA\x00\x00\x00\x00Apr  9 2021\x0016:56:50\x00\x00'
+0
+Test : Du16ADoc_iAppSWIdentification
+Expected result: Return code 0
+Obtained result: 0
+Test result: OK 
+
+b'\xf1\x81\x00\x00\x04\x10P111247-\x00\x00MP14 SW Test App\x00\x00\x00\x00@ACTIA\x00\x00\x00\x00Apr  9 2021\x0016:56:50\x00\x00'
+0
+Test : Du16ADoc_iAppSWIdentification
+Expected result: Return code 0
+Obtained result: 0
+Test result: OK 
+
+b'\xf1\x81\x00\x00\x04\x10P111247-\x00\x00MP14 SW Test App\x00\x00\x00\x00@ACTIA\x00\x00\x00\x00Apr  9 2021\x0016:56:50\x00\x00'
+0
+Test : Du16ADoc_iAppSWIdentification
+Expected result: Return code 0
+Obtained result: 0
+Test result: OK 
+
+Test : Du8ADoc_iCanConfigureBaudrate
+Expected result: Return code 0
+Obtained result: 0
+Test result: OK 
+
+b'\xf1\x80\x01\x00\x06\x10P111092\x00\x00\x00MPS14_BOOT_DBG\x00\x00\x00\x00\x00\x00@ACTIA\x00\x00\x00\x00Jan 13 2021\x0014:14:46\x00\x00'
+0
+Test : Du16ADoc_iBootSWIdentification
+Expected result: Return code 0
+Obtained result: 0
+Test result: OK 
+
+b'\xf1\x81\x00\x00\x04\x10P111247-\x00\x00MP14 SW Test App\x00\x00\x00\x00@ACTIA\x00\x00\x00\x00Apr  9 2021\x0016:56:50\x00\x00'
+0
+Test : Du16ADoc_iAppSWIdentification
+Expected result: Return code 0
+Obtained result: 0
+Test result: OK 
+
+b'\xf1\x81\x00\x00\x04\x10P111247-\x00\x00MP14 SW Test App\x00\x00\x00\x00@ACTIA\x00\x00\x00\x00Apr  9 2021\x0016:56:50\x00\x00'
+0
+Test : Du16ADoc_iAppSWIdentification
+Expected result: Return code 0
+Obtained result: 0
+Test result: OK 
+
+b'\xf1\x81\x00\x00\x04\x10P111247-\x00\x00MP14 SW Test App\x00\x00\x00\x00@ACTIA\x00\x00\x00\x00Apr  9 2021\x0016:56:50\x00\x00'
+0
+Test : Du16ADoc_iAppSWIdentification
+Expected result: Return code 0
+Obtained result: 0
+Test result: OK 
+
+b'\xf1\x81\x00\x00\x04\x10P111247-\x00\x00MP14 SW Test App\x00\x00\x00\x00@ACTIA\x00\x00\x00\x00Apr  9 2021\x0016:56:50\x00\x00'
+0
+Test : Du16ADoc_iAppSWIdentification
+Expected result: Return code 0
+Obtained result: 0
+Test result: OK 
+
+b'\xf1\x81\x00\x00\x04\x10P111247-\x00\x00MP14 SW Test App\x00\x00\x00\x00@ACTIA\x00\x00\x00\x00Apr  9 2021\x0016:56:50\x00\x00'
+0
+Test : Du16ADoc_iAppSWIdentification
+Expected result: Return code 0
+Obtained result: 0
+Test result: OK 
+
+b'\xf1\x86\x01\x00\x15\x10P111091-\x00\x00MPS14 BSP DBG SW\x00\x00\x00\x00@ACTIA\x00\x00\x00\x00Apr 14 2021\x0015:55:30\x00\x00'
+0
+Test : Du16ADoc_iBspSWIdentification
+Expected result: Return code 0
+Obtained result: 0
+Test result: OK 
+
+b'\xf1\x80\x01\x00\x06\x10P111092\x00\x00\x00MPS14_BOOT_DBG\x00\x00\x00\x00\x00\x00@ACTIA\x00\x00\x00\x00Jan 13 2021\x0014:14:46\x00\x00'
+0
+Test : Du16ADoc_iBootSWIdentification
+Expected result: Return code 0
+Obtained result: 0
+Test result: OK 
+
+b'\xf1\x81\x00\x00\x04\x10P111247-\x00\x00MP14 SW Test App\x00\x00\x00\x00@ACTIA\x00\x00\x00\x00Apr  9 2021\x0016:56:50\x00\x00'
+0
+Test : Du16ADoc_iAppSWIdentification
+Expected result: Return code 0
+Obtained result: 0
+Test result: OK 
+
+b'\xf1\x80\x01\x00\x06\x10P111092\x00\x00\x00MPS14_BOOT_DBG\x00\x00\x00\x00\x00\x00@ACTIA\x00\x00\x00\x00Jan 13 2021\x0014:14:46\x00\x00'
+0
+Test : Du16ADoc_iBootSWIdentification
+Expected result: Return code 0
+Obtained result: 0
+Test result: OK 
+
+b'\xf1\x81\x00\x00\x04\x10P111247-\x00\x00MP14 SW Test App\x00\x00\x00\x00@ACTIA\x00\x00\x00\x00Apr  9 2021\x0016:56:50\x00\x00'
+0
+Test : Du16ADoc_iAppSWIdentification
+Expected result: Return code 0
+Obtained result: 0
+Test result: OK 
+
+b'\xf1\x80\x01\x00\x06\x10P111092\x00\x00\x00MPS14_BOOT_DBG\x00\x00\x00\x00\x00\x00@ACTIA\x00\x00\x00\x00Jan 13 2021\x0014:14:46\x00\x00'
+0
+Test : Du16ADoc_iBootSWIdentification
+Expected result: Return code 0
+Obtained result: 0
+Test result: OK 
+
+b'\xf1\x81\x00\x00\x04\x10P111247-\x00\x00MP14 SW Test App\x00\x00\x00\x00@ACTIA\x00\x00\x00\x00Apr  9 2021\x0016:56:50\x00\x00'
+0
+Test : Du16ADoc_iAppSWIdentification
+Expected result: Return code 0
+Obtained result: 0
+Test result: OK 
+
+b'\xf1\x80\x01\x00\x06\x10P111092\x00\x00\x00MPS14_BOOT_DBG\x00\x00\x00\x00\x00\x00@ACTIA\x00\x00\x00\x00Jan 13 2021\x0014:14:46\x00\x00'
+0
+Test : Du16ADoc_iBootSWIdentification
+Expected result: Return code 0
+Obtained result: 0
+Test result: OK 
+
+b'\xf1\x81\x00\x00\x04\x10P111247-\x00\x00MP14 SW Test App\x00\x00\x00\x00@ACTIA\x00\x00\x00\x00Apr  9 2021\x0016:56:50\x00\x00'
+0
+Test : Du16ADoc_iAppSWIdentification
+Expected result: Return code 0
+Obtained result: 0
+Test result: OK 
+
+b'\xf1\x80\x01\x00\x06\x10P111092\x00\x00\x00MPS14_BOOT_DBG\x00\x00\x00\x00\x00\x00@ACTIA\x00\x00\x00\x00Jan 13 2021\x0014:14:46\x00\x00'
+0
+Test : Du16ADoc_iBootSWIdentification
+Expected result: Return code 0
+Obtained result: 0
+Test result: OK 
+
+b'\xf1\x80\x01\x00\x06\x10P111092\x00\x00\x00MPS14_BOOT_DBG\x00\x00\x00\x00\x00\x00@ACTIA\x00\x00\x00\x00Jan 13 2021\x0014:14:46\x00\x00'
+0
+Test : Du16ADoc_iBootSWIdentification
+Expected result: Return code 0
+Obtained result: 0
+Test result: OK 
+
+b'\xf1\x81\x00\x00\x04\x10P111247-\x00\x00MP14 SW Test App\x00\x00\x00\x00@ACTIA\x00\x00\x00\x00Apr  9 2021\x0016:56:50\x00\x00'
+0
+Test : Du16ADoc_iAppSWIdentification
+Expected result: Return code 0
+Obtained result: 0
+Test result: OK 
+
+b'\xf1\x86\x01\x00\x15\x10P111091-\x00\x00MPS14 BSP DBG SW\x00\x00\x00\x00@ACTIA\x00\x00\x00\x00Apr 14 2021\x0015:55:30\x00\x00'
+0
+Test : Du16ADoc_iBspSWIdentification
+Expected result: Return code 0
+Obtained result: 0
+Test result: OK 
+
+b'\xf1\x80\x01\x00\x06\x10P111092\x00\x00\x00MPS14_BOOT_DBG\x00\x00\x00\x00\x00\x00@ACTIA\x00\x00\x00\x00Jan 13 2021\x0014:14:46\x00\x00'
+0
+Test : aaa
+Expected result: Return code 0
+Obtained result: 0
+Test result: OK 
+
+b'\xf1\x86\x01\x00\x15\x10P111091-\x00\x00MPS14 BSP DBG SW\x00\x00\x00\x00@ACTIA\x00\x00\x00\x00Apr 14 2021\x0015:55:30\x00\x00'
+0
+Test : bbb
+Expected result: Return code 0
+Obtained result: 0
+Test result: OK 
+
+b'\xf1\x80\x01\x00\x06\x10P111092\x00\x00\x00MPS14_BOOT_DBG\x00\x00\x00\x00\x00\x00@ACTIA\x00\x00\x00\x00Jan 13 2021\x0014:14:46\x00\x00'
+0
+Test : aaa
+Expected result: Return code 0
+Obtained result: 0
+Test result: OK 
+
+b'\xf1\x86\x01\x00\x15\x10P111091-\x00\x00MPS14 BSP DBG SW\x00\x00\x00\x00@ACTIA\x00\x00\x00\x00Apr 14 2021\x0015:55:30\x00\x00'
+0
+Test : bbb
+Expected result: Return code 0
+Obtained result: 0
+Test result: OK 
+
+b'\xf1\x80\x01\x00\x06\x10P111092\x00\x00\x00MPS14_BOOT_DBG\x00\x00\x00\x00\x00\x00@ACTIA\x00\x00\x00\x00Jan 13 2021\x0014:14:46\x00\x00'
+0
+Test : aaa
+Expected result: Return code 0
+Obtained result: 0
+Test result: OK 
+
+b'\xf1\x86\x01\x00\x15\x10P111091-\x00\x00MPS14 BSP DBG SW\x00\x00\x00\x00@ACTIA\x00\x00\x00\x00Apr 14 2021\x0015:55:30\x00\x00'
+0
+Test : bbb
+Expected result: Return code 0
+Obtained result: 0
+Test result: OK 
+
+b'\xf1\x80\x01\x00\x06\x10P111092\x00\x00\x00MPS14_BOOT_DBG\x00\x00\x00\x00\x00\x00@ACTIA\x00\x00\x00\x00Jan 13 2021\x0014:14:46\x00\x00'
+0
+Test : aaa
+Expected result: Return code 0
+Obtained result: 0
+Test result: OK 
+
+b'\xf1\x86\x01\x00\x15\x10P111091-\x00\x00MPS14 BSP DBG SW\x00\x00\x00\x00@ACTIA\x00\x00\x00\x00Apr 14 2021\x0015:55:30\x00\x00'
+0
+Test : bbb
+Expected result: Return code 0
+Obtained result: 0
+Test result: OK 
+
+b'\xf1\x80\x01\x00\x06\x10P111092\x00\x00\x00MPS14_BOOT_DBG\x00\x00\x00\x00\x00\x00@ACTIA\x00\x00\x00\x00Jan 13 2021\x0014:14:46\x00\x00'
+0
+Test : aaa
+Expected result: Return code 0
+Obtained result: 0
+Test result: OK 
+
+b'\xf1\x86\x01\x00\x15\x10P111091-\x00\x00MPS14 BSP DBG SW\x00\x00\x00\x00@ACTIA\x00\x00\x00\x00Apr 14 2021\x0015:55:30\x00\x00'
+0
+Test : bbb
+Expected result: Return code 0
+Obtained result: 0
+Test result: OK 
+
+b'\xf1\x80\x01\x00\x06\x10P111092\x00\x00\x00MPS14_BOOT_DBG\x00\x00\x00\x00\x00\x00@ACTIA\x00\x00\x00\x00Jan 13 2021\x0014:14:46\x00\x00'
+0
+Test : aaa
+Expected result: Return code 0
+Obtained result: 0
+Test result: OK 
+
+b'\xf1\x86\x01\x00\x15\x10P111091-\x00\x00MPS14 BSP DBG SW\x00\x00\x00\x00@ACTIA\x00\x00\x00\x00Apr 14 2021\x0015:55:30\x00\x00'
+0
+Test : bbb
+Expected result: Return code 0
+Obtained result: 0
+Test result: OK 
+
+b'\xf1\x86\x01\x00\x15\x10P111091-\x00\x00MPS14 BSP DBG SW\x00\x00\x00\x00@ACTIA\x00\x00\x00\x00Apr 14 2021\x0015:55:30\x00\x00'
+0
+Test : Du16ADoc_iBspSWIdentification
+Expected result: Return code 0
+Obtained result: 0
+Test result: OK 
+
+b'\xf1\x86\x01\x00\x15\x10P111091-\x00\x00MPS14 BSP DBG SW\x00\x00\x00\x00@ACTIA\x00\x00\x00\x00Apr 14 2021\x0015:55:30\x00\x00'
+0
+Test : Du16ADoc_iBspSWIdentification
+Expected result: Return code 0
+Obtained result: 0
+Test result: OK 
+
+b'\xf1\x86\x01\x00\x15\x10P111091-\x00\x00MPS14 BSP DBG SW\x00\x00\x00\x00@ACTIA\x00\x00\x00\x00Apr 14 2021\x0015:55:30\x00\x00'
+0
+Test : Du16ADoc_iBspSWIdentification
+Expected result: Return code 0
+Obtained result: 0
+Test result: OK 
+
+b'\xf1\x86\x01\x00\x15\x10P111091-\x00\x00MPS14 BSP DBG SW\x00\x00\x00\x00@ACTIA\x00\x00\x00\x00Apr 14 2021\x0015:55:30\x00\x00'
+0
+Test : Du16ADoc_iBspSWIdentification
+Expected result: Return code 0
+Obtained result: 0
+Test result: OK 
+
+b'\xf1\x86\x01\x00\x15\x10P111091-\x00\x00MPS14 BSP DBG SW\x00\x00\x00\x00@ACTIA\x00\x00\x00\x00Apr 14 2021\x0015:55:30\x00\x00'
+0
+Test : Du16ADoc_iBspSWIdentification
+Expected result: Return code 0
+Obtained result: 0
+Test result: OK 
+
+b'\xf1\x80\x01\x00\x06\x10P111092\x00\x00\x00MPS14_BOOT_DBG\x00\x00\x00\x00\x00\x00@ACTIA\x00\x00\x00\x00Jan 13 2021\x0014:14:46\x00\x00'
+0
+Test : Du16ADoc_iBootSWIdentification
+Expected result: Return code 0
+Obtained result: 0
+Test result: OK 
+
+b'\xf1\x80\x01\x00\x06\x10P111092\x00\x00\x00MPS14_BOOT_DBG\x00\x00\x00\x00\x00\x00@ACTIA\x00\x00\x00\x00Jan 13 2021\x0014:14:46\x00\x00'
+0
+Test : Du16ADoc_iBootSWIdentification
+Expected result: Return code 0
+Obtained result: 0
+Test result: OK 
+
+b'\xf1\x80\x01\x00\x06\x10P111092\x00\x00\x00MPS14_BOOT_DBG\x00\x00\x00\x00\x00\x00@ACTIA\x00\x00\x00\x00Jan 13 2021\x0014:14:46\x00\x00'
+0
+Test : Du16ADoc_iBootSWIdentification
+Expected result: Return code 0
+Obtained result: 0
+Test result: OK 
+
+b'\xf1\x81\x00\x00\x04\x10P111247-\x00\x00MP14 SW Test App\x00\x00\x00\x00@ACTIA\x00\x00\x00\x00Apr  9 2021\x0016:56:50\x00\x00'
+0
+Test : Du16ADoc_iAppSWIdentification
+Expected result: Return code 0
+Obtained result: 0
+Test result: OK 
+
+b'\xf1\x81\x00\x00\x04\x10P111247-\x00\x00MP14 SW Test App\x00\x00\x00\x00@ACTIA\x00\x00\x00\x00Apr  9 2021\x0016:56:50\x00\x00'
+0
+Test : Du16ADoc_iAppSWIdentification
+Expected result: Return code 0
+Obtained result: 0
+Test result: OK 
+
+b'\xf1\x81\x00\x00\x04\x10P111247-\x00\x00MP14 SW Test App\x00\x00\x00\x00@ACTIA\x00\x00\x00\x00Apr  9 2021\x0016:56:50\x00\x00'
+0
+Test : Du16ADoc_iAppSWIdentification
+Expected result: Return code 0
+Obtained result: 0
+Test result: OK 
+
+b'\xf1\x81\x00\x00\x04\x10P111247-\x00\x00MP14 SW Test App\x00\x00\x00\x00@ACTIA\x00\x00\x00\x00Apr  9 2021\x0016:56:50\x00\x00'
+0
+Test : Du16ADoc_iAppSWIdentification
+Expected result: Return code 0
+Obtained result: 0
+Test result: OK 
+
+b'\xf1\x81\x00\x00\x04\x10P111247-\x00\x00MP14 SW Test App\x00\x00\x00\x00@ACTIA\x00\x00\x00\x00Apr  9 2021\x0016:56:50\x00\x00'
+0
+Test : Du16ADoc_iAppSWIdentification
+Expected result: Return code 0
+Obtained result: 0
+Test result: OK 
+
+b'\xf1\x81\x00\x00\x04\x10P111247-\x00\x00MP14 SW Test App\x00\x00\x00\x00@ACTIA\x00\x00\x00\x00Apr  9 2021\x0016:56:50\x00\x00'
+0
+Test : Du16ADoc_iAppSWIdentification
+Expected result: Return code 0
+Obtained result: 0
+Test result: OK 
+
+b'\xf1\x81\x00\x00\x04\x10P111247-\x00\x00MP14 SW Test App\x00\x00\x00\x00@ACTIA\x00\x00\x00\x00Apr  9 2021\x0016:56:50\x00\x00'
+0
+Test : Du16ADoc_iAppSWIdentification
+Expected result: Return code 0
+Obtained result: 0
+Test result: OK 
+
+b'\xf1\x81\x00\x00\x04\x10P111247-\x00\x00MP14 SW Test App\x00\x00\x00\x00@ACTIA\x00\x00\x00\x00Apr  9 2021\x0016:56:50\x00\x00'
+0
+Test : Du16ADoc_iAppSWIdentification
+Expected result: Return code 0
+Obtained result: 0
+Test result: OK 
+
+b'\xf1\x81\x00\x00\x04\x10P111247-\x00\x00MP14 SW Test App\x00\x00\x00\x00@ACTIA\x00\x00\x00\x00Apr  9 2021\x0016:56:50\x00\x00'
+0
+Test : Du16ADoc_iAppSWIdentification
+Expected result: Return code 0
+Obtained result: 0
+Test result: OK 
+
+b'\xf1\x81\x00\x00\x04\x10P111247-\x00\x00MP14 SW Test App\x00\x00\x00\x00@ACTIA\x00\x00\x00\x00Apr  9 2021\x0016:56:50\x00\x00'
+0
+Test : Du16ADoc_iAppSWIdentification
+Expected result: Return code 0
+Obtained result: 0
+Test result: OK 
+
+b'\xf1\x81\x00\x00\x04\x10P111247-\x00\x00MP14 SW Test App\x00\x00\x00\x00@ACTIA\x00\x00\x00\x00Apr  9 2021\x0016:56:50\x00\x00'
+0
+Test : Du16ADoc_iAppSWIdentification
+Expected result: Return code 0
+Obtained result: 0
+Test result: OK 
+
+b'\xf1\x81\x00\x00\x04\x10P111247-\x00\x00MP14 SW Test App\x00\x00\x00\x00@ACTIA\x00\x00\x00\x00Apr  9 2021\x0016:56:50\x00\x00'
+0
+Test : Du16ADoc_iAppSWIdentification
+Expected result: Return code 0
+Obtained result: 0
+Test result: OK 
+
+b'\xf1\x81\x00\x00\x04\x10P111247-\x00\x00MP14 SW Test App\x00\x00\x00\x00@ACTIA\x00\x00\x00\x00Apr  9 2021\x0016:56:50\x00\x00'
+0
+Test : Du16ADoc_iAppSWIdentification
+Expected result: Return code 0
+Obtained result: 0
+Test result: OK 
+
+b'\xf1\x81\x00\x00\x04\x10P111247-\x00\x00MP14 SW Test App\x00\x00\x00\x00@ACTIA\x00\x00\x00\x00Apr  9 2021\x0016:56:50\x00\x00'
+0
+Test : Du16ADoc_iAppSWIdentification
+Expected result: Return code 0
+Obtained result: 0
+Test result: OK 
+
+Test : Du8ADoc_iCanConfigureBaudrate
+Expected result: Return code 0
+Obtained result: 0
+Test result: OK 
+
+b'\xf1\x80\x01\x00\x06\x10P111092\x00\x00\x00MPS14_BOOT_DBG\x00\x00\x00\x00\x00\x00@ACTIA\x00\x00\x00\x00Jan 13 2021\x0014:14:46\x00\x00'
+0
+Test : Du16ADoc_iBootSWIdentification
+Expected result: Return code 0
+Obtained result: 0
+Test result: OK 
+
+b'\xf1\x81\x00\x00\x04\x10P111247-\x00\x00MP14 SW Test App\x00\x00\x00\x00@ACTIA\x00\x00\x00\x00Apr  9 2021\x0016:56:50\x00\x00'
+0
+Test : Du16ADoc_iAppSWIdentification
+Expected result: Return code 0
+Obtained result: 0
+Test result: OK 
+
+b'\xf1\x80\x01\x00\x06\x10P111092\x00\x00\x00MPS14_BOOT_DBG\x00\x00\x00\x00\x00\x00@ACTIA\x00\x00\x00\x00Jan 13 2021\x0014:14:46\x00\x00'
+0
+Test : Du16ADoc_iBootSWIdentification
+Expected result: Return code 0
+Obtained result: ñ€ P111092   MPS14_BOOT_DBG      @ACTIA    Jan 13 2021 14:14:46  
+Test result: OK 
+
+b'\xf1\x80\x01\x00\x06\x10P111092\x00\x00\x00MPS14_BOOT_DBG\x00\x00\x00\x00\x00\x00@ACTIA\x00\x00\x00\x00Jan 13 2021\x0014:14:46\x00\x00'
+0
+Test : Du16ADoc_iBootSWIdentification
+Expected result: Return code 0
+Obtained result: ñ€ P111092   MPS14_BOOT_DBG      @ACTIA    Jan 13 2021 14:14:46  
+Test result: OK 
+
+b'\xf1\x80\x01\x00\x06\x10P111092\x00\x00\x00MPS14_BOOT_DBG\x00\x00\x00\x00\x00\x00@ACTIA\x00\x00\x00\x00Jan 13 2021\x0014:14:46\x00\x00'
+0
+Test : Du16ADoc_iBootSWIdentification
+Expected result: Return code 0
+Obtained result: b'\xf1\x80\x01\x00\x06\x10P111092\x00\x00\x00MPS14_BOOT_DBG\x00\x00\x00\x00\x00\x00@ACTIA\x00\x00\x00\x00Jan 13 2021\x0014:14:46\x00\x00'
+Test result: OK 
+
+Test : Du8ADoc_iIOReadData
+Expected result: Return code 0
+Obtained result: 0
+Test result: OK 
+
+Test : Du8ADoc_iIOReadData
+Expected result: Return code 0
+Obtained result: 255
+Test result: RC NOK 
+
+Test : Du8ADoc_iCanConfigureEvents
+Expected result: Return code 0
+Obtained result: 0
+Test result: OK 
+
+Test : Du8ADoc_iIOReadData
+Expected result: Return code 0
+Obtained result: 255
+Test result: RC NOK 
+
+Test : Du8ADoc_iIOReadData
+Expected result: Return code 0
+Obtained result: 255
+Test result: RC NOK 
+
+Test : Du8ADoc_iIOSetVal
+Expected result: Return code 0
+Obtained result: 255
+Test result: RC NOK 
+
+Test : Du8ADoc_iIOReadData
+Expected result: Return code 0
+Obtained result: 255
+Test result: RC NOK 
+
+Test : Du8ADoc_iIOReadData
+Expected result: Return code 0
+Obtained result: 255
+Test result: RC NOK 
+
+Test : Du8ADoc_iIOReadData
+Expected result: Return code 0
+Obtained result: 255
+Test result: RC NOK 
+
+Test : Du8ADoc_iIOReadData
+Expected result: Return code 0
+Obtained result: 255
+Test result: RC NOK 
+
+Test : Du8ADoc_iIOReadData
+Expected result: Return code 0
+Obtained result: 255
+Test result: RC NOK 
+
+Test : Du8ADoc_iIOSetVal
+Expected result: Return code 0
+Obtained result: 255
+Test result: RC NOK 
+
+Test : Du8ADoc_iIOInitOuptput
+Expected result: Return code 0
+Obtained result: 0
+Test result: OK 
+
+Test : Du8ADoc_iIOInitOuptput
+Expected result: Return code 0
+Obtained result: 0
+Test result: OK 
+
+Test : Du8ADoc_iIOReadData
+Expected result: Return code 0
+Obtained result: 255
+Test result: RC NOK 
+
+Test : Du8ADoc_iIOInitOuptput
+Expected result: Return code 0
+Obtained result: 0
+Test result: OK 
+
+Test : Du8ADoc_iIOReadData
+Expected result: Return code 0
+Obtained result: 255
+Test result: RC NOK 
+
+Test : Du8ADoc_iIOReadData
+Expected result: Return code 0
+Obtained result: 255
+Test result: RC NOK 
+
+Test : Du8ADoc_iIOReadData
+Expected result: Return code 0
+Obtained result: 255
+Test result: RC NOK 
+
+Test : Du8ADoc_iIOInitOuptput
+Expected result: Return code 0
+Obtained result: 0
+Test result: OK 
+
+Test : Du8ADoc_iIOReadData
+Expected result: Return code 0
+Obtained result: 255
+Test result: RC NOK 
+
+Test : Du8ADoc_iIOReadData
+Expected result: Return code 0
+Obtained result: 255
+Test result: RC NOK 
+
+Test : Du8ADoc_iIOReadData
+Expected result: Return code 0
+Obtained result: 255
+Test result: RC NOK 
+
+Test : Du8ADoc_iIOReadData
+Expected result: Return code 0
+Obtained result: 255
+Test result: RC NOK 
+
+Test : Du8ADoc_iIOReadData
+Expected result: Return code 0
+Obtained result: 255
+Test result: RC NOK 
+
+Test : Du8ADoc_iIOSetVal
+Expected result: Return code 0
+Obtained result: 255
+Test result: RC NOK 
+
