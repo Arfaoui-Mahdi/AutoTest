@@ -928,7 +928,12 @@ void Dialog::goToTests()
 
 
 void Dialog::on_btnExecuteTests_clicked()
-{
+{    waitDialog* waitdlg = new waitDialog(this);
+
+     waitdlg->show();
+
+
+
     QString pyProccessingPath = "C:\\Users\\Mahdi\\Desktop\\FIN_Project\\Tester_and_Report_Generator\\HTMLTestRunner.py";
 
     QStringList rcList;
@@ -1054,6 +1059,9 @@ void Dialog::on_btnExecuteTests_clicked()
 
 
 
+
+
+
     foreach(QString item, listOFArgs) qDebug()<< item + "\n";
 
     //***************************************
@@ -1062,19 +1070,30 @@ void Dialog::on_btnExecuteTests_clicked()
      pyFile->start("python.exe", listOFArgs);
 
      //qDebug()<< testsChosnList[i].RoutineName << testsChosnList[i].Id << testsChosnList[i].Args << testsChosnList[i].dataToSend ;
-     pyFile->waitForFinished(-1);
+     //pyFile->waitForFinished(-1);
 
-     QString filePath = "C:\\Users\\Mahdi\\Desktop\\FIN_Project\\Tester_and_Report_Generator\\templates\\TEESSSSSEEEETOO_report.html";
-     QWebEngineView *view = new QWebEngineView(this);
-     QWebEngineSettings* sett = view->settings();
-     sett->setAttribute(QWebEngineSettings::PluginsEnabled, true);
 
-     sett->setAttribute(QWebEngineSettings::WebGLEnabled, true);
 
-     view->load(QUrl::fromLocalFile(filePath));
-     ui->resScrollArea->setWidget(view);
-     view->showFullScreen();
-     ui->stackedWidget->setCurrentIndex(8);
+      connect(pyFile, QOverload<int, QProcess::ExitStatus>::of(&QProcess::finished),
+              [=](int exitCode, QProcess::ExitStatus exitStatus) mutable{
+
+          waitdlg->close();
+          waitdlg->deleteLater();
+          QString filePath = "C:\\Users\\Mahdi\\Desktop\\FIN_Project\\Tester_and_Report_Generator\\templates\\TEESSSSSEEEETOO_report.html";
+          QWebEngineView *view = new QWebEngineView(this);
+          QWebEngineSettings* sett = view->settings();
+          sett->setAttribute(QWebEngineSettings::PluginsEnabled, true);
+
+          sett->setAttribute(QWebEngineSettings::WebGLEnabled, true);
+
+          view->load(QUrl::fromLocalFile(filePath));
+          ui->resScrollArea->setWidget(view);
+          view->showFullScreen();
+          ui->stackedWidget->setCurrentIndex(8);
+
+      });
+
+
 
 
 

@@ -12,16 +12,19 @@ CONFIG += c++17
 SOURCES += \
     dialog.cpp \
     main.cpp \
-    maketest.cpp
+    maketest.cpp \
+    waitdialog.cpp
 
 HEADERS += \
     dialog.h \
-    maketest.h
+    maketest.h \
+    waitdialog.h
 
 
 FORMS += \
     dialog.ui \
-    maketest.ui
+    maketest.ui \
+    waitdialog.ui
 
 # Default rules for deployment.
 qnx: target.path = /tmp/$${TARGET}/bin

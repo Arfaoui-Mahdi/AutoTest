@@ -70,7 +70,7 @@ def doWork(path, srcPath, cfgPath, incPath):
     
         i[0]=i[0].split(" ")
         k = i[0][0]
-        if k.split :
+        if k.split(" ") :
             r = k.split()[0]
         #print(k , t[0])
         # print("\n")

@@ -534,7 +534,7 @@ public:
         resScrollArea->setWidgetResizable(true);
         scrollAreaWidgetContents_3 = new QWidget();
         scrollAreaWidgetContents_3->setObjectName(QString::fromUtf8("scrollAreaWidgetContents_3"));
-        scrollAreaWidgetContents_3->setGeometry(QRect(0, 0, 98, 28));
+        scrollAreaWidgetContents_3->setGeometry(QRect(0, 0, 577, 334));
         resScrollArea->setWidget(scrollAreaWidgetContents_3);
 
         verticalLayout_14->addWidget(resScrollArea);

@@ -873,3 +873,3695 @@ Test : Du8ADoc_iIOReadData
 	 Obtained result: 0
 	 Test result: RC NOK 
 
+Test : Du8ADoc_iIOReadData
+	 Expected result: return code 0
+	 Obtained result: 0
+	 Test result: RC NOK 
+
+Test : Du8ADoc_iIOReadData
+	 Expected result: return code 0
+	 Obtained result: 0
+	 Test result: RC NOK 
+
+Test : Du8ADoc_iIOReadData
+	 Expected result: return code 0
+	 Obtained result: 0
+	 Test result: RC NOK 
+
+Test : Du8ADoc_iIOReadData
+	 Expected result: return code 0
+	 Obtained result: 0
+	 Test result: RC NOK 
+
+Test : Du8ADoc_iIOReadData
+	 Expected result: return code 0
+	 Obtained result: 0
+	 Test result: RC NOK 
+
+Test : Du8ADoc_iIOReadData
+	 Expected result: return code 0
+	 Obtained result: 0
+	 Test result: RC NOK 
+
+Test : Du8ADoc_iIOReadData
+	 Expected result: return code 0
+	 Obtained result: 0
+	 Test result: RC NOK 
+
+Test : Du8ADoc_iIOReadData
+	 Expected result: return code 0
+	 Obtained result: 0
+	 Test result: RC NOK 
+
+Test : Du8ADoc_iIOReadData
+	 Expected result: return code 0
+	 Obtained result: 0
+	 Test result: RC NOK 
+
+Test : Du8ADoc_iIOReadData
+	 Expected result: return code 0
+	 Obtained result: 0
+	 Test result: RC NOK 
+
+Test : Du8ADoc_iIOReadData
+	 Expected result: return code 0
+	 Obtained result: 0
+	 Test result: RC NOK 
+
+Test : Du8ADoc_iIOReadData
+	 Expected result: return code 0
+	 Obtained result: 0
+	 Test result: RC NOK 
+
+Test : Du8ADoc_iIOReadData
+	 Expected result: return code 0
+	 Obtained result: 0
+	 Test result: RC NOK 
+
+Test : Du8ADoc_iIOReadData
+	 Expected result: return code 0
+	 Obtained result: 0
+	 Test result: RC NOK 
+
+Test : Du8ADoc_iIOReadData
+	 Expected result: return code 0
+	 Obtained result: 0
+	 Test result: RC NOK 
+
+Test : Du8ADoc_iIOReadData
+	 Expected result: return code 0
+	 Obtained result: 0
+	 Test result: RC NOK 
+
+Test : Du8ADoc_iIOReadData
+	 Expected result: return code 0
+	 Obtained result: 0
+	 Test result: RC NOK 
+
+Test : Du8ADoc_iIOReadData
+	 Expected result: return code 0
+	 Obtained result: 0
+	 Test result: RC NOK 
+
+Test : Du8ADoc_iIOReadData
+	 Expected result: return code 0
+	 Obtained result: 0
+	 Test result: RC NOK 
+
+Test : Du8ADoc_iIOReadData
+	 Expected result: return code 0
+	 Obtained result: 0
+	 Test result: RC NOK 
+
+Test : Du8ADoc_iIOReadData
+	 Expected result: return code 0
+	 Obtained result: 0
+	 Test result: RC NOK 
+
+Test : Du8ADoc_iIOReadData
+	 Expected result: return code 0
+	 Obtained result: 0
+	 Test result: RC NOK 
+
+Test : Du8ADoc_iIOReadData
+	 Expected result: return code 0
+	 Obtained result: 0
+	 Test result: RC NOK 
+
+Test : Du8ADoc_iIOReadData
+	 Expected result: return code 0
+	 Obtained result: 0
+	 Test result: RC NOK 
+
+Test : Du8ADoc_iIOReadData
+	 Expected result: return code 0
+	 Obtained result: 0
+	 Test result: RC NOK 
+
+Test : Du8ADoc_iIOReadData
+	 Expected result: return code 0
+	 Obtained result: 0
+	 Test result: RC NOK 
+
+Test : Du8ADoc_iIOReadData
+	 Expected result: return code 0
+	 Obtained result: 0
+	 Test result: RC NOK 
+
+Test : Du8ADoc_iIOReadData
+	 Expected result: return code 0
+	 Obtained result: 0
+	 Test result: RC NOK 
+
+Test : Du8ADoc_iIOReadData
+	 Expected result: return code 0
+	 Obtained result: 0
+	 Test result: RC NOK 
+
+Test : Du8ADoc_iIOReadData
+	 Expected result: return code 0
+	 Obtained result: 0
+	 Test result: RC NOK 
+
+Test : Du8ADoc_iIOReadData
+	 Expected result: return code 0
+	 Obtained result: 0
+	 Test result: RC NOK 
+
+Test : Du8ADoc_iIOReadData
+	 Expected result: return code 0
+	 Obtained result: 0
+	 Test result: RC NOK 
+
+Test : Du8ADoc_iIOReadData
+	 Expected result: return code 0
+	 Obtained result: 0
+	 Test result: RC NOK 
+
+Test : Du8ADoc_iIOReadData
+	 Expected result: return code 0
+	 Obtained result: 0
+	 Test result: RC NOK 
+
+Test : Du8ADoc_iIOReadData
+	 Expected result: return code 0
+	 Obtained result: 0
+	 Test result: RC NOK 
+
+Test : Du8ADoc_iIOReadData
+	 Expected result: return code 0
+	 Obtained result: 0
+	 Test result: RC NOK 
+
+Test : Du8ADoc_iIOReadData
+	 Expected result: return code 0
+	 Obtained result: 0
+	 Test result: RC NOK 
+
+Test : Du8ADoc_iIOReadData
+	 Expected result: return code 0
+	 Obtained result: 0
+	 Test result: RC NOK 
+
+Test : Du8ADoc_iIOReadData
+	 Expected result: return code 0
+	 Obtained result: 0
+	 Test result: RC NOK 
+
+Test : Du8ADoc_iIOReadData
+	 Expected result: return code 0
+	 Obtained result: 0
+	 Test result: RC NOK 
+
+Test : Du8ADoc_iIOReadData
+	 Expected result: return code 0
+	 Obtained result: 0
+	 Test result: RC NOK 
+
+Test : Du8ADoc_iIOReadData
+	 Expected result: return code 0
+	 Obtained result: 0
+	 Test result: RC NOK 
+
+Test : Du8ADoc_iIOReadData
+	 Expected result: return code 0
+	 Obtained result: 0
+	 Test result: RC NOK 
+
+Test : Du8ADoc_iIOReadData
+	 Expected result: return code 0
+	 Obtained result: 0
+	 Test result: RC NOK 
+
+Test : Du8ADoc_iIOReadData
+	 Expected result: return code 0
+	 Obtained result: 0
+	 Test result: RC NOK 
+
+Test : Du8ADoc_iIOReadData
+	 Expected result: return code 0
+	 Obtained result: 0
+	 Test result: RC NOK 
+
+Test : Du8ADoc_iIOReadData
+	 Expected result: return code 0
+	 Obtained result: 0
+	 Test result: RC NOK 
+
+Test : Du8ADoc_iIOReadData
+	 Expected result: return code 0
+	 Obtained result: 0
+	 Test result: RC NOK 
+
+Test : Du8ADoc_iIOReadData
+	 Expected result: return code 0
+	 Obtained result: 0
+	 Test result: RC NOK 
+
+Test : Du8ADoc_iIOReadData
+	 Expected result: return code 0
+	 Obtained result: 0
+	 Test result: RC NOK 
+
+Test : Du8ADoc_iIOReadData
+	 Expected result: return code 0
+	 Obtained result: 0
+	 Test result: RC NOK 
+
+Test : Du8ADoc_iIOReadData
+	 Expected result: return code 0
+	 Obtained result: 0
+	 Test result: RC NOK 
+
+Test : Du8ADoc_iIOReadData
+	 Expected result: return code 0
+	 Obtained result: 0
+	 Test result: RC NOK 
+
+Test : Du8ADoc_iIOReadData
+	 Expected result: return code 0
+	 Obtained result: 0
+	 Test result: RC NOK 
+
+Test : Du8ADoc_iIOReadData
+	 Expected result: return code 0
+	 Obtained result: 0
+	 Test result: RC NOK 
+
+Test : Du8ADoc_iIOReadData
+	 Expected result: return code 0
+	 Obtained result: 0
+	 Test result: RC NOK 
+
+Test : Du8ADoc_iIOReadData
+	 Expected result: return code 0
+	 Obtained result: 0
+	 Test result: RC NOK 
+
+Test : Du8ADoc_iIOReadData
+	 Expected result: return code 0
+	 Obtained result: 0
+	 Test result: RC NOK 
+
+Test : Du8ADoc_iIOReadData
+	 Expected result: return code 0
+	 Obtained result: 0
+	 Test result: RC NOK 
+
+Test : Du8ADoc_iIOReadData
+	 Expected result: return code 0
+	 Obtained result: 0
+	 Test result: RC NOK 
+
+Test : Du8ADoc_iIOReadData
+	 Expected result: return code 0
+	 Obtained result: 0
+	 Test result: RC NOK 
+
+Test : Du8ADoc_iIOReadData
+	 Expected result: return code 0
+	 Obtained result: 0
+	 Test result: RC NOK 
+
+Test : Du8ADoc_iIOReadData
+	 Expected result: return code 0
+	 Obtained result: 0
+	 Test result: RC NOK 
+
+Test : Du8ADoc_iIOReadData
+	 Expected result: return code 0
+	 Obtained result: 0
+	 Test result: RC NOK 
+
+Test : Du8ADoc_iIOReadData
+	 Expected result: return code 0
+	 Obtained result: 0
+	 Test result: RC NOK 
+
+Test : Du8ADoc_iIOReadData
+	 Expected result: return code 0
+	 Obtained result: 0
+	 Test result: RC NOK 
+
+Test : Du8ADoc_iIOReadData
+	 Expected result: return code 0
+	 Obtained result: 0
+	 Test result: RC NOK 
+
+Test : Du8ADoc_iIOReadData
+	 Expected result: return code 0
+	 Obtained result: 0
+	 Test result: RC NOK 
+
+Test : Du8ADoc_iIOReadData
+	 Expected result: return code 0
+	 Obtained result: 0
+	 Test result: RC NOK 
+
+Test : Du8ADoc_iIOReadData
+	 Expected result: return code 0
+	 Obtained result: 0
+	 Test result: RC NOK 
+
+Test : Du8ADoc_iIOReadData
+	 Expected result: return code 0
+	 Obtained result: 0
+	 Test result: RC NOK 
+
+Test : Du8ADoc_iIOReadData
+	 Expected result: return code 0
+	 Obtained result: 0
+	 Test result: RC NOK 
+
+Test : Du8ADoc_iIOReadData
+	 Expected result: return code 0
+	 Obtained result: 0
+	 Test result: RC NOK 
+
+Test : Du8ADoc_iIOReadData
+	 Expected result: return code 0
+	 Obtained result: 0
+	 Test result: RC NOK 
+
+Test : Du8ADoc_iIOReadData
+	 Expected result: return code 0
+	 Obtained result: 0
+	 Test result: RC NOK 
+
+Test : Du8ADoc_iIOReadData
+	 Expected result: return code 0
+	 Obtained result: 0
+	 Test result: RC NOK 
+
+Test : Du8ADoc_iIOReadData
+	 Expected result: return code 0
+	 Obtained result: 0
+	 Test result: RC NOK 
+
+Test : Du8ADoc_iIOReadData
+	 Expected result: return code 0
+	 Obtained result: 0
+	 Test result: RC NOK 
+
+Test : Du8ADoc_iIOReadData
+	 Expected result: return code 0
+	 Obtained result: 0
+	 Test result: RC NOK 
+
+Test : Du8ADoc_iIOReadData
+	 Expected result: return code 0
+	 Obtained result: 0
+	 Test result: RC NOK 
+
+Test : Du8ADoc_iIOReadData
+	 Expected result: return code 0
+	 Obtained result: 0
+	 Test result: RC NOK 
+
+Test : Du8ADoc_iIOReadData
+	 Expected result: return code 0
+	 Obtained result: 0
+	 Test result: RC NOK 
+
+Test : Du8ADoc_iIOReadData
+	 Expected result: return code 0
+	 Obtained result: 0
+	 Test result: RC NOK 
+
+Test : Du8ADoc_iIOReadData
+	 Expected result: return code 0
+	 Obtained result: 0
+	 Test result: RC NOK 
+
+Test : Du8ADoc_iIOReadData
+	 Expected result: return code 0
+	 Obtained result: 0
+	 Test result: RC NOK 
+
+Test : Du8ADoc_iIOReadData
+	 Expected result: return code 0
+	 Obtained result: 0
+	 Test result: RC NOK 
+
+Test : Du8ADoc_iIOReadData
+	 Expected result: return code 0
+	 Obtained result: 0
+	 Test result: RC NOK 
+
+Test : Du8ADoc_iIOReadData
+	 Expected result: return code 0
+	 Obtained result: 0
+	 Test result: RC NOK 
+
+Test : Du8ADoc_iIOReadData
+	 Expected result: return code 0
+	 Obtained result: 0
+	 Test result: RC NOK 
+
+Test : Du8ADoc_iIOReadData
+	 Expected result: return code 0
+	 Obtained result: 0
+	 Test result: RC NOK 
+
+Test : Du8ADoc_iIOReadData
+	 Expected result: return code 0
+	 Obtained result: 0
+	 Test result: RC NOK 
+
+Test : Du8ADoc_iIOReadData
+	 Expected result: return code 0
+	 Obtained result: 0
+	 Test result: RC NOK 
+
+Test : Du8ADoc_iIOReadData
+	 Expected result: return code 0
+	 Obtained result: 0
+	 Test result: RC NOK 
+
+Test : Du8ADoc_iIOReadData
+	 Expected result: return code 0
+	 Obtained result: 0
+	 Test result: RC NOK 
+
+Test : Du8ADoc_iIOReadData
+	 Expected result: return code 0
+	 Obtained result: 0
+	 Test result: RC NOK 
+
+Test : Du8ADoc_iIOReadData
+	 Expected result: return code 0
+	 Obtained result: 0
+	 Test result: RC NOK 
+
+Test : Du8ADoc_iIOReadData
+	 Expected result: return code 0
+	 Obtained result: 0
+	 Test result: RC NOK 
+
+Test : Du8ADoc_iIOReadData
+	 Expected result: return code 0
+	 Obtained result: 0
+	 Test result: RC NOK 
+
+Test : Du8ADoc_iIOReadData
+	 Expected result: return code 0
+	 Obtained result: 0
+	 Test result: RC NOK 
+
+Test : Du8ADoc_iIOReadData
+	 Expected result: return code 0
+	 Obtained result: 0
+	 Test result: RC NOK 
+
+Test : Du8ADoc_iIOReadData
+	 Expected result: return code 0
+	 Obtained result: 0
+	 Test result: RC NOK 
+
+Test : Du8ADoc_iIOReadData
+	 Expected result: return code 0
+	 Obtained result: 0
+	 Test result: RC NOK 
+
+Test : Du8ADoc_iIOReadData
+	 Expected result: return code 0
+	 Obtained result: 0
+	 Test result: RC NOK 
+
+Test : Du8ADoc_iIOReadData
+	 Expected result: return code 0
+	 Obtained result: 0
+	 Test result: RC NOK 
+
+Test : Du8ADoc_iIOReadData
+	 Expected result: return code 0
+	 Obtained result: 0
+	 Test result: RC NOK 
+
+Test : Du8ADoc_iIOReadData
+	 Expected result: return code 0
+	 Obtained result: 0
+	 Test result: RC NOK 
+
+Test : Du8ADoc_iIOReadData
+	 Expected result: return code 0
+	 Obtained result: 0
+	 Test result: RC NOK 
+
+Test : Du8ADoc_iIOReadData
+	 Expected result: return code 0
+	 Obtained result: 0
+	 Test result: RC NOK 
+
+Test : Du8ADoc_iIOReadData
+	 Expected result: return code 0
+	 Obtained result: 0
+	 Test result: RC NOK 
+
+Test : Du8ADoc_iIOReadData
+	 Expected result: return code 0
+	 Obtained result: 0
+	 Test result: RC NOK 
+
+Test : Du8ADoc_iIOReadData
+	 Expected result: return code 0
+	 Obtained result: 0
+	 Test result: RC NOK 
+
+Test : Du8ADoc_iIOReadData
+	 Expected result: return code 0
+	 Obtained result: 0
+	 Test result: RC NOK 
+
+Test : Du8ADoc_iIOReadData
+	 Expected result: return code 0
+	 Obtained result: 0
+	 Test result: RC NOK 
+
+Test : Du8ADoc_iIOReadData
+	 Expected result: return code 0
+	 Obtained result: 0
+	 Test result: RC NOK 
+
+Test : Du8ADoc_iIOReadData
+	 Expected result: return code 0
+	 Obtained result: 0
+	 Test result: RC NOK 
+
+Test : Du8ADoc_iIOReadData
+	 Expected result: return code 0
+	 Obtained result: 0
+	 Test result: RC NOK 
+
+Test : Du8ADoc_iIOReadData
+	 Expected result: return code 0
+	 Obtained result: 0
+	 Test result: RC NOK 
+
+Test : Du8ADoc_iIOReadData
+	 Expected result: return code 0
+	 Obtained result: 0
+	 Test result: RC NOK 
+
+Test : Du8ADoc_iIOReadData
+	 Expected result: return code 0
+	 Obtained result: 0
+	 Test result: RC NOK 
+
+Test : Du8ADoc_iIOReadData
+	 Expected result: return code 0
+	 Obtained result: 0
+	 Test result: RC NOK 
+
+Test : Du8ADoc_iIOReadData
+	 Expected result: return code 0
+	 Obtained result: 0
+	 Test result: RC NOK 
+
+Test : Du8ADoc_iIOReadData
+	 Expected result: return code 0
+	 Obtained result: 0
+	 Test result: RC NOK 
+
+Test : Du8ADoc_iIOReadData
+	 Expected result: return code 0
+	 Obtained result: 0
+	 Test result: RC NOK 
+
+Test : Du8ADoc_iIOReadData
+	 Expected result: return code 0
+	 Obtained result: 0
+	 Test result: RC NOK 
+
+Test : Du8ADoc_iIOReadData
+	 Expected result: return code 0
+	 Obtained result: 0
+	 Test result: RC NOK 
+
+Test : Du8ADoc_iIOReadData
+	 Expected result: return code 0
+	 Obtained result: 0
+	 Test result: RC NOK 
+
+Test : Du8ADoc_iIOReadData
+	 Expected result: return code 0
+	 Obtained result: 0
+	 Test result: RC NOK 
+
+Test : Du8ADoc_iIOReadData
+	 Expected result: return code 0
+	 Obtained result: 0
+	 Test result: RC NOK 
+
+Test : Du8ADoc_iIOReadData
+	 Expected result: return code 0
+	 Obtained result: 0
+	 Test result: RC NOK 
+
+Test : Du8ADoc_iIOReadData
+	 Expected result: return code 0
+	 Obtained result: 0
+	 Test result: RC NOK 
+
+Test : Du8ADoc_iIOReadData
+	 Expected result: return code 0
+	 Obtained result: 0
+	 Test result: RC NOK 
+
+Test : Du8ADoc_iIOReadData
+	 Expected result: return code 0
+	 Obtained result: 0
+	 Test result: RC NOK 
+
+Test : Du8ADoc_iIOReadData
+	 Expected result: return code 0
+	 Obtained result: 0
+	 Test result: RC NOK 
+
+Test : Du8ADoc_iIOReadData
+	 Expected result: return code 0
+	 Obtained result: 0
+	 Test result: RC NOK 
+
+Test : Du8ADoc_iIOReadData
+	 Expected result: return code 0
+	 Obtained result: 0
+	 Test result: RC NOK 
+
+Test : Du8ADoc_iIOReadData
+	 Expected result: return code 0
+	 Obtained result: 0
+	 Test result: RC NOK 
+
+Test : Du8ADoc_iIOReadData
+	 Expected result: return code 0
+	 Obtained result: 0
+	 Test result: RC NOK 
+
+Test : Du8ADoc_iIOReadData
+	 Expected result: return code 0
+	 Obtained result: 0
+	 Test result: RC NOK 
+
+Test : Du8ADoc_iIOReadData
+	 Expected result: return code 0
+	 Obtained result: 0
+	 Test result: RC NOK 
+
+Test : Du8ADoc_iIOReadData
+	 Expected result: return code 0
+	 Obtained result: 0
+	 Test result: RC NOK 
+
+Test : Du8ADoc_iIOReadData
+	 Expected result: return code 0
+	 Obtained result: 0
+	 Test result: RC NOK 
+
+Test : Du8ADoc_iIOReadData
+	 Expected result: return code 0
+	 Obtained result: 0
+	 Test result: RC NOK 
+
+Test : Du8ADoc_iIOReadData
+	 Expected result: return code 0
+	 Obtained result: 0
+	 Test result: RC NOK 
+
+Test : Du8ADoc_iIOReadData
+	 Expected result: return code 0
+	 Obtained result: 0
+	 Test result: RC NOK 
+
+Test : Du8ADoc_iIOReadData
+	 Expected result: return code 0
+	 Obtained result: 0
+	 Test result: RC NOK 
+
+Test : Du8ADoc_iIOReadData
+	 Expected result: return code 0
+	 Obtained result: 0
+	 Test result: RC NOK 
+
+Test : Du8ADoc_iIOReadData
+	 Expected result: return code 0
+	 Obtained result: 0
+	 Test result: RC NOK 
+
+Test : Du8ADoc_iIOReadData
+	 Expected result: return code 0
+	 Obtained result: 0
+	 Test result: RC NOK 
+
+Test : Du8ADoc_iIOReadData
+	 Expected result: return code 0
+	 Obtained result: 0
+	 Test result: RC NOK 
+
+Test : Du8ADoc_iIOReadData
+	 Expected result: return code 0
+	 Obtained result: 0
+	 Test result: RC NOK 
+
+Test : Du8ADoc_iIOReadData
+	 Expected result: return code 0
+	 Obtained result: 0
+	 Test result: RC NOK 
+
+Test : Du8ADoc_iIOReadData
+	 Expected result: return code 0
+	 Obtained result: 0
+	 Test result: RC NOK 
+
+Test : Du8ADoc_iIOReadData
+	 Expected result: return code 0
+	 Obtained result: 0
+	 Test result: RC NOK 
+
+Test : Du8ADoc_iIOReadData
+	 Expected result: return code 0
+	 Obtained result: 0
+	 Test result: RC NOK 
+
+Test : Du8ADoc_iIOReadData
+	 Expected result: return code 0
+	 Obtained result: 0
+	 Test result: RC NOK 
+
+Test : Du8ADoc_iIOReadData
+	 Expected result: return code 0
+	 Obtained result: 0
+	 Test result: RC NOK 
+
+Test : Du8ADoc_iIOReadData
+	 Expected result: return code 0
+	 Obtained result: 0
+	 Test result: RC NOK 
+
+Test : Du8ADoc_iIOReadData
+	 Expected result: return code 0
+	 Obtained result: 0
+	 Test result: RC NOK 
+
+Test : Du8ADoc_iIOReadData
+	 Expected result: return code 0
+	 Obtained result: 0
+	 Test result: RC NOK 
+
+Test : Du8ADoc_iIOReadData
+	 Expected result: return code 0
+	 Obtained result: 0
+	 Test result: RC NOK 
+
+Test : Du8ADoc_iIOReadData
+	 Expected result: return code 0
+	 Obtained result: 0
+	 Test result: RC NOK 
+
+Test : Du8ADoc_iIOReadData
+	 Expected result: return code 0
+	 Obtained result: 0
+	 Test result: RC NOK 
+
+Test : Du8ADoc_iIOReadData
+	 Expected result: return code 0
+	 Obtained result: 0
+	 Test result: RC NOK 
+
+Test : Du8ADoc_iIOReadData
+	 Expected result: return code 0
+	 Obtained result: 0
+	 Test result: RC NOK 
+
+Test : Du8ADoc_iIOReadData
+	 Expected result: return code 0
+	 Obtained result: 0
+	 Test result: RC NOK 
+
+Test : Du8ADoc_iIOReadData
+	 Expected result: return code 0
+	 Obtained result: 0
+	 Test result: RC NOK 
+
+Test : Du8ADoc_iIOReadData
+	 Expected result: return code 0
+	 Obtained result: 0
+	 Test result: RC NOK 
+
+Test : Du8ADoc_iIOReadData
+	 Expected result: return code 0
+	 Obtained result: 0
+	 Test result: RC NOK 
+
+Test : Du8ADoc_iIOReadData
+	 Expected result: return code 0
+	 Obtained result: 0
+	 Test result: RC NOK 
+
+Test : Du8ADoc_iIOReadData
+	 Expected result: return code 0
+	 Obtained result: 0
+	 Test result: RC NOK 
+
+Test : Du8ADoc_iIOReadData
+	 Expected result: return code 0
+	 Obtained result: 0
+	 Test result: RC NOK 
+
+Test : Du8ADoc_iIOReadData
+	 Expected result: return code 0
+	 Obtained result: 0
+	 Test result: RC NOK 
+
+Test : Du8ADoc_iIOReadData
+	 Expected result: return code 0
+	 Obtained result: 0
+	 Test result: RC NOK 
+
+Test : Du8ADoc_iIOReadData
+	 Expected result: return code 0
+	 Obtained result: 0
+	 Test result: RC NOK 
+
+Test : Du8ADoc_iIOReadData
+	 Expected result: return code 0
+	 Obtained result: 0
+	 Test result: RC NOK 
+
+Test : Du8ADoc_iIOReadData
+	 Expected result: return code 0
+	 Obtained result: 0
+	 Test result: RC NOK 
+
+Test : Du8ADoc_iIOReadData
+	 Expected result: return code 0
+	 Obtained result: 0
+	 Test result: RC NOK 
+
+Test : Du8ADoc_iIOReadData
+	 Expected result: return code 0
+	 Obtained result: 0
+	 Test result: RC NOK 
+
+Test : Du8ADoc_iIOReadData
+	 Expected result: return code 0
+	 Obtained result: 0
+	 Test result: RC NOK 
+
+Test : Du8ADoc_iIOReadData
+	 Expected result: return code 0
+	 Obtained result: 0
+	 Test result: RC NOK 
+
+Test : Du8ADoc_iIOReadData
+	 Expected result: return code 0
+	 Obtained result: 0
+	 Test result: RC NOK 
+
+Test : Du8ADoc_iIOReadData
+	 Expected result: return code 0
+	 Obtained result: 0
+	 Test result: RC NOK 
+
+Test : Du8ADoc_iIOReadData
+	 Expected result: return code 0
+	 Obtained result: 0
+	 Test result: RC NOK 
+
+Test : Du8ADoc_iIOReadData
+	 Expected result: return code 0
+	 Obtained result: 0
+	 Test result: RC NOK 
+
+Test : Du8ADoc_iIOReadData
+	 Expected result: return code 0
+	 Obtained result: 0
+	 Test result: RC NOK 
+
+Test : Du8ADoc_iIOReadData
+	 Expected result: return code 0
+	 Obtained result: 0
+	 Test result: RC NOK 
+
+Test : Du8ADoc_iIOReadData
+	 Expected result: return code 0
+	 Obtained result: 0
+	 Test result: RC NOK 
+
+Test : Du8ADoc_iIOReadData
+	 Expected result: return code 0
+	 Obtained result: 0
+	 Test result: RC NOK 
+
+Test : Du8ADoc_iIOReadData
+	 Expected result: return code 0
+	 Obtained result: 0
+	 Test result: RC NOK 
+
+Test : Du8ADoc_iIOReadData
+	 Expected result: return code 0
+	 Obtained result: 0
+	 Test result: RC NOK 
+
+Test : Du8ADoc_iIOReadData
+	 Expected result: return code 0
+	 Obtained result: 0
+	 Test result: RC NOK 
+
+Test : Du8ADoc_iIOReadData
+	 Expected result: return code 0
+	 Obtained result: 0
+	 Test result: RC NOK 
+
+Test : Du8ADoc_iIOReadData
+	 Expected result: return code 0
+	 Obtained result: 0
+	 Test result: RC NOK 
+
+Test : Du8ADoc_iIOReadData
+	 Expected result: return code 0
+	 Obtained result: 0
+	 Test result: RC NOK 
+
+Test : Du8ADoc_iIOReadData
+	 Expected result: return code 0
+	 Obtained result: 0
+	 Test result: RC NOK 
+
+Test : Du8ADoc_iIOReadData
+	 Expected result: return code 0
+	 Obtained result: 0
+	 Test result: RC NOK 
+
+Test : Du8ADoc_iIOReadData
+	 Expected result: return code 0
+	 Obtained result: 0
+	 Test result: RC NOK 
+
+Test : Du8ADoc_iIOReadData
+	 Expected result: return code 0
+	 Obtained result: 0
+	 Test result: RC NOK 
+
+Test : Du8ADoc_iIOReadData
+	 Expected result: return code 0
+	 Obtained result: 0
+	 Test result: RC NOK 
+
+Test : Du8ADoc_iIOReadData
+	 Expected result: return code 0
+	 Obtained result: 0
+	 Test result: RC NOK 
+
+Test : Du8ADoc_iIOReadData
+	 Expected result: return code 0
+	 Obtained result: 0
+	 Test result: RC NOK 
+
+Test : Du8ADoc_iIOReadData
+	 Expected result: return code 0
+	 Obtained result: 0
+	 Test result: RC NOK 
+
+Test : Du8ADoc_iIOReadData
+	 Expected result: return code 0
+	 Obtained result: 0
+	 Test result: RC NOK 
+
+Test : Du8ADoc_iIOReadData
+	 Expected result: return code 0
+	 Obtained result: 0
+	 Test result: RC NOK 
+
+Test : Du8ADoc_iIOReadData
+	 Expected result: return code 0
+	 Obtained result: 0
+	 Test result: RC NOK 
+
+Test : Du8ADoc_iIOReadData
+	 Expected result: return code 0
+	 Obtained result: 0
+	 Test result: RC NOK 
+
+Test : Du8ADoc_iCanConfigureBaudrate
+	 Expected result: return code 0
+	 Obtained result: 255
+	 Test result: RC NOK 
+
+Test : Du8ADoc_iCanConfigureBaudrate
+	 Expected result: return code 0
+	 Obtained result: 255
+	 Test result: RC NOK 
+
+Test : Du8ADoc_iCanConfigureBaudrate
+	 Expected result: return code 0
+	 Obtained result: 255
+	 Test result: RC NOK 
+
+Test : Du8ADoc_iCanConfigureBaudrate
+	 Expected result: return code 0
+	 Obtained result: 255
+	 Test result: RC NOK 
+
+Test : Du8ADoc_iCanConfigureBaudrate
+	 Expected result: return code 0
+	 Obtained result: 255
+	 Test result: RC NOK 
+
+Test : Du8ADoc_iCanConfigureBaudrate
+	 Expected result: return code 0
+	 Obtained result: 255
+	 Test result: RC NOK 
+
+Test : Du8ADoc_iCanConfigureBaudrate
+	 Expected result: return code 0
+	 Obtained result: 255
+	 Test result: RC NOK 
+
+Test : Du8ADoc_iCanConfigureBaudrate
+	 Expected result: return code 0
+	 Obtained result: 255
+	 Test result: RC NOK 
+
+Test : Du8ADoc_iCanConfigureBaudrate
+	 Expected result: return code 0
+	 Obtained result: 255
+	 Test result: RC NOK 
+
+Test : Du8ADoc_iCanConfigureBaudrate
+	 Expected result: return code 0
+	 Obtained result: 255
+	 Test result: RC NOK 
+
+Test : Du16ADoc_iBootSWIdentification
+	 Expected result: return code 0
+	 Obtained result: 6
+	 Test result: RDBI NOK 
+
+Test : Du16ADoc_iBootSWIdentification
+	 Expected result: return code 0
+	 Obtained result: 6
+	 Test result: RDBI NOK 
+
+Test : Du16ADoc_iBootSWIdentification
+	 Expected result: return code 0
+	 Obtained result: 6
+	 Test result: RDBI NOK 
+
+Test : Du16ADoc_iBootSWIdentification
+	 Expected result: return code 0
+	 Obtained result: 6
+	 Test result: RDBI NOK 
+
+Test : Du16ADoc_iBootSWIdentification
+	 Expected result: return code 0
+	 Obtained result: 6
+	 Test result: RDBI NOK 
+
+Test : Du16ADoc_iBootSWIdentification
+	 Expected result: return code 0
+	 Obtained result: 6
+	 Test result: RDBI NOK 
+
+Test : Du16ADoc_iBootSWIdentification
+	 Expected result: return code 0
+	 Obtained result: 6
+	 Test result: RDBI NOK 
+
+Test : Du16ADoc_iBootSWIdentification
+	 Expected result: return code 0
+	 Obtained result: 6
+	 Test result: RDBI NOK 
+
+Test : Du16ADoc_iBootSWIdentification
+	 Expected result: return code 0
+	 Obtained result: 6
+	 Test result: RDBI NOK 
+
+Test : Du16ADoc_iBootSWIdentification
+	 Expected result: return code 0
+	 Obtained result: 6
+	 Test result: RDBI NOK 
+
+Test : Du16ADoc_iBootSWIdentification
+	 Expected result: return code 0
+	 Obtained result: 6
+	 Test result: RDBI NOK 
+
+Test : Du16ADoc_iBootSWIdentification
+	 Expected result: return code 0
+	 Obtained result: 6
+	 Test result: RDBI NOK 
+
+Test : Du16ADoc_iBootSWIdentification
+	 Expected result: return code 0
+	 Obtained result: 6
+	 Test result: RDBI NOK 
+
+Test : Du16ADoc_iBootSWIdentification
+	 Expected result: return code 0
+	 Obtained result: 6
+	 Test result: RDBI NOK 
+
+Test : Du16ADoc_iBootSWIdentification
+	 Expected result: return code 0
+	 Obtained result: 6
+	 Test result: RDBI NOK 
+
+Test : Du16ADoc_iBootSWIdentification
+	 Expected result: return code 0
+	 Obtained result: 6
+	 Test result: RDBI NOK 
+
+Test : Du16ADoc_iBootSWIdentification
+	 Expected result: return code 0
+	 Obtained result: 6
+	 Test result: RDBI NOK 
+
+Test : Du16ADoc_iBootSWIdentification
+	 Expected result: return code 0
+	 Obtained result: 6
+	 Test result: RDBI NOK 
+
+Test : Du16ADoc_iBootSWIdentification
+	 Expected result: return code 0
+	 Obtained result: 6
+	 Test result: RDBI NOK 
+
+Test : Du16ADoc_iBootSWIdentification
+	 Expected result: return code 0
+	 Obtained result: 6
+	 Test result: RDBI NOK 
+
+Test : Du16ADoc_iBootSWIdentification
+	 Expected result: return code 0
+	 Obtained result: 6
+	 Test result: RDBI NOK 
+
+Test : Du16ADoc_iBootSWIdentification
+	 Expected result: return code 0
+	 Obtained result: 6
+	 Test result: RDBI NOK 
+
+Test : Du16ADoc_iBootSWIdentification
+	 Expected result: return code 0
+	 Obtained result: 6
+	 Test result: RDBI NOK 
+
+Test : Du16ADoc_iBootSWIdentification
+	 Expected result: return code 0
+	 Obtained result: 6
+	 Test result: RDBI NOK 
+
+Test : Du16ADoc_iBootSWIdentification
+	 Expected result: return code 0
+	 Obtained result: 6
+	 Test result: RDBI NOK 
+
+Test : Du16ADoc_iBootSWIdentification
+	 Expected result: return code 0
+	 Obtained result: 6
+	 Test result: RDBI NOK 
+
+Test : Du16ADoc_iBootSWIdentification
+	 Expected result: return code 0
+	 Obtained result: 6
+	 Test result: RDBI NOK 
+
+Test : Du16ADoc_iBootSWIdentification
+	 Expected result: return code 0
+	 Obtained result: 6
+	 Test result: RDBI NOK 
+
+Test : Du16ADoc_iBootSWIdentification
+	 Expected result: return code 0
+	 Obtained result: 6
+	 Test result: RDBI NOK 
+
+Test : Du16ADoc_iBootSWIdentification
+	 Expected result: return code 0
+	 Obtained result: 6
+	 Test result: RDBI NOK 
+
+Test : Du16ADoc_iBootSWIdentification
+	 Expected result: return code 0
+	 Obtained result: 6
+	 Test result: RDBI NOK 
+
+Test : Du16ADoc_iBootSWIdentification
+	 Expected result: return code 0
+	 Obtained result: 6
+	 Test result: RDBI NOK 
+
+Test : Du16ADoc_iBootSWIdentification
+	 Expected result: return code 0
+	 Obtained result: 6
+	 Test result: RDBI NOK 
+
+Test : Du16ADoc_iBootSWIdentification
+	 Expected result: return code 0
+	 Obtained result: 6
+	 Test result: RDBI NOK 
+
+Test : Du16ADoc_iBootSWIdentification
+	 Expected result: return code 0
+	 Obtained result: 6
+	 Test result: RDBI NOK 
+
+Test : Du16ADoc_iBootSWIdentification
+	 Expected result: return code 0
+	 Obtained result: 6
+	 Test result: RDBI NOK 
+
+Test : Du16ADoc_iBootSWIdentification
+	 Expected result: return code 0
+	 Obtained result: 6
+	 Test result: RDBI NOK 
+
+Test : Du16ADoc_iBootSWIdentification
+	 Expected result: return code 0
+	 Obtained result: 6
+	 Test result: RDBI NOK 
+
+Test : Du16ADoc_iBootSWIdentification
+	 Expected result: return code 0
+	 Obtained result: 6
+	 Test result: RDBI NOK 
+
+Test : Du16ADoc_iBootSWIdentification
+	 Expected result: return code 0
+	 Obtained result: 6
+	 Test result: RDBI NOK 
+
+Test : Du16ADoc_iBootSWIdentification
+	 Expected result: return code 0
+	 Obtained result: 6
+	 Test result: RDBI NOK 
+
+Test : Du16ADoc_iBootSWIdentification
+	 Expected result: return code 0
+	 Obtained result: 6
+	 Test result: RDBI NOK 
+
+Test : Du16ADoc_iBootSWIdentification
+	 Expected result: return code 0
+	 Obtained result: 6
+	 Test result: RDBI NOK 
+
+Test : Du16ADoc_iBootSWIdentification
+	 Expected result: return code 0
+	 Obtained result: 6
+	 Test result: RDBI NOK 
+
+Test : Du16ADoc_iBootSWIdentification
+	 Expected result: return code 0
+	 Obtained result: 6
+	 Test result: RDBI NOK 
+
+Test : Du16ADoc_iBootSWIdentification
+	 Expected result: return code 0
+	 Obtained result: 6
+	 Test result: RDBI NOK 
+
+Test : Du16ADoc_iBootSWIdentification
+	 Expected result: return code 0
+	 Obtained result: 6
+	 Test result: RDBI NOK 
+
+Test : Du16ADoc_iBootSWIdentification
+	 Expected result: return code 0
+	 Obtained result: 6
+	 Test result: RDBI NOK 
+
+Test : Du16ADoc_iBootSWIdentification
+	 Expected result: return code 0
+	 Obtained result: 6
+	 Test result: RDBI NOK 
+
+Test : Du16ADoc_iBootSWIdentification
+	 Expected result: return code 0
+	 Obtained result: 6
+	 Test result: RDBI NOK 
+
+Test : Du16ADoc_iBootSWIdentification
+	 Expected result: return code 0
+	 Obtained result: 6
+	 Test result: RDBI NOK 
+
+Test : Du16ADoc_iBootSWIdentification
+	 Expected result: return code 0
+	 Obtained result: 6
+	 Test result: RDBI NOK 
+
+Test : Du16ADoc_iBootSWIdentification
+	 Expected result: return code 0
+	 Obtained result: 6
+	 Test result: RDBI NOK 
+
+Test : Du16ADoc_iBootSWIdentification
+	 Expected result: return code 0
+	 Obtained result: 6
+	 Test result: RDBI NOK 
+
+Test : Du16ADoc_iBootSWIdentification
+	 Expected result: return code 0
+	 Obtained result: 6
+	 Test result: RDBI NOK 
+
+Test : Du16ADoc_iBootSWIdentification
+	 Expected result: return code 0
+	 Obtained result: 6
+	 Test result: RDBI NOK 
+
+Test : Du16ADoc_iBootSWIdentification
+	 Expected result: return code 0
+	 Obtained result: 6
+	 Test result: RDBI NOK 
+
+Test : Du16ADoc_iBootSWIdentification
+	 Expected result: return code 0
+	 Obtained result: 6
+	 Test result: RDBI NOK 
+
+Test : Du16ADoc_iBootSWIdentification
+	 Expected result: return code 0
+	 Obtained result: 6
+	 Test result: RDBI NOK 
+
+Test : Du16ADoc_iBootSWIdentification
+	 Expected result: return code 0
+	 Obtained result: 6
+	 Test result: RDBI NOK 
+
+Test : Du16ADoc_iBootSWIdentification
+	 Expected result: return code 0
+	 Obtained result: 6
+	 Test result: RDBI NOK 
+
+Test : Du16ADoc_iBootSWIdentification
+	 Expected result: return code 0
+	 Obtained result: 6
+	 Test result: RDBI NOK 
+
+Test : Du16ADoc_iBootSWIdentification
+	 Expected result: return code 0
+	 Obtained result: 6
+	 Test result: RDBI NOK 
+
+Test : Du16ADoc_iBootSWIdentification
+	 Expected result: return code 0
+	 Obtained result: 6
+	 Test result: RDBI NOK 
+
+Test : Du16ADoc_iBootSWIdentification
+	 Expected result: return code 0
+	 Obtained result: 6
+	 Test result: RDBI NOK 
+
+Test : Du16ADoc_iBootSWIdentification
+	 Expected result: return code 0
+	 Obtained result: 6
+	 Test result: RDBI NOK 
+
+Test : Du16ADoc_iBootSWIdentification
+	 Expected result: return code 0
+	 Obtained result: 6
+	 Test result: RDBI NOK 
+
+Test : Du16ADoc_iBootSWIdentification
+	 Expected result: return code 0
+	 Obtained result: 6
+	 Test result: RDBI NOK 
+
+Test : Du16ADoc_iBootSWIdentification
+	 Expected result: return code 0
+	 Obtained result: 6
+	 Test result: RDBI NOK 
+
+Test : Du16ADoc_iBootSWIdentification
+	 Expected result: return code 0
+	 Obtained result: 6
+	 Test result: RDBI NOK 
+
+Test : Du16ADoc_iBootSWIdentification
+	 Expected result: return code 0
+	 Obtained result: 6
+	 Test result: RDBI NOK 
+
+Test : Du16ADoc_iBootSWIdentification
+	 Expected result: return code 0
+	 Obtained result: 6
+	 Test result: RDBI NOK 
+
+Test : Du16ADoc_iBootSWIdentification
+	 Expected result: return code 0
+	 Obtained result: 6
+	 Test result: RDBI NOK 
+
+Test : Du16ADoc_iBootSWIdentification
+	 Expected result: return code 0
+	 Obtained result: 6
+	 Test result: RDBI NOK 
+
+Test : Du16ADoc_iBootSWIdentification
+	 Expected result: return code 0
+	 Obtained result: 6
+	 Test result: RDBI NOK 
+
+Test : Du16ADoc_iBootSWIdentification
+	 Expected result: return code 0
+	 Obtained result: 6
+	 Test result: RDBI NOK 
+
+Test : Du16ADoc_iBootSWIdentification
+	 Expected result: return code 0
+	 Obtained result: 6
+	 Test result: RDBI NOK 
+
+Test : Du16ADoc_iBootSWIdentification
+	 Expected result: return code 0
+	 Obtained result: 6
+	 Test result: RDBI NOK 
+
+Test : Du16ADoc_iBootSWIdentification
+	 Expected result: return code 0
+	 Obtained result: 6
+	 Test result: RDBI NOK 
+
+Test : Du16ADoc_iBootSWIdentification
+	 Expected result: return code 0
+	 Obtained result: 6
+	 Test result: RDBI NOK 
+
+Test : Du16ADoc_iBootSWIdentification
+	 Expected result: return code 0
+	 Obtained result: 6
+	 Test result: RDBI NOK 
+
+Test : Du16ADoc_iBootSWIdentification
+	 Expected result: return code 0
+	 Obtained result: 6
+	 Test result: RDBI NOK 
+
+Test : Du16ADoc_iBootSWIdentification
+	 Expected result: return code 0
+	 Obtained result: 6
+	 Test result: RDBI NOK 
+
+Test : Du16ADoc_iBootSWIdentification
+	 Expected result: return code 0
+	 Obtained result: 6
+	 Test result: RDBI NOK 
+
+Test : Du16ADoc_iBootSWIdentification
+	 Expected result: return code 0
+	 Obtained result: 6
+	 Test result: RDBI NOK 
+
+Test : Du16ADoc_iBootSWIdentification
+	 Expected result: return code 0
+	 Obtained result: 6
+	 Test result: RDBI NOK 
+
+Test : Du16ADoc_iBootSWIdentification
+	 Expected result: return code 0
+	 Obtained result: 6
+	 Test result: RDBI NOK 
+
+Test : Du16ADoc_iBootSWIdentification
+	 Expected result: return code 0
+	 Obtained result: 6
+	 Test result: RDBI NOK 
+
+Test : Du16ADoc_iBootSWIdentification
+	 Expected result: return code 0
+	 Obtained result: 6
+	 Test result: RDBI NOK 
+
+Test : Du16ADoc_iBootSWIdentification
+	 Expected result: return code 0
+	 Obtained result: 6
+	 Test result: RDBI NOK 
+
+Test : Du16ADoc_iBootSWIdentification
+	 Expected result: return code 0
+	 Obtained result: 6
+	 Test result: RDBI NOK 
+
+Test : Du16ADoc_iBootSWIdentification
+	 Expected result: return code 0
+	 Obtained result: 6
+	 Test result: RDBI NOK 
+
+Test : Du16ADoc_iBootSWIdentification
+	 Expected result: return code 0
+	 Obtained result: 6
+	 Test result: RDBI NOK 
+
+Test : Du16ADoc_iBootSWIdentification
+	 Expected result: return code 0
+	 Obtained result: 6
+	 Test result: RDBI NOK 
+
+Test : Du16ADoc_iBootSWIdentification
+	 Expected result: return code 0
+	 Obtained result: 6
+	 Test result: RDBI NOK 
+
+Test : Du16ADoc_iBootSWIdentification
+	 Expected result: return code 0
+	 Obtained result: 6
+	 Test result: RDBI NOK 
+
+Test : Du16ADoc_iBootSWIdentification
+	 Expected result: return code 0
+	 Obtained result: 6
+	 Test result: RDBI NOK 
+
+Test : Du16ADoc_iBootSWIdentification
+	 Expected result: return code 0
+	 Obtained result: 6
+	 Test result: RDBI NOK 
+
+Test : Du16ADoc_iBootSWIdentification
+	 Expected result: return code 0
+	 Obtained result: 6
+	 Test result: RDBI NOK 
+
+Test : Du16ADoc_iBootSWIdentification
+	 Expected result: return code 0
+	 Obtained result: 6
+	 Test result: RDBI NOK 
+
+Test : Du16ADoc_iBootSWIdentification
+	 Expected result: return code 0
+	 Obtained result: 6
+	 Test result: RDBI NOK 
+
+Test : Du16ADoc_iBootSWIdentification
+	 Expected result: return code 0
+	 Obtained result: 6
+	 Test result: RDBI NOK 
+
+Test : Du16ADoc_iBootSWIdentification
+	 Expected result: return code 0
+	 Obtained result: 6
+	 Test result: RDBI NOK 
+
+Test : Du16ADoc_iBootSWIdentification
+	 Expected result: return code 0
+	 Obtained result: 6
+	 Test result: RDBI NOK 
+
+Test : Du16ADoc_iBootSWIdentification
+	 Expected result: return code 0
+	 Obtained result: 6
+	 Test result: RDBI NOK 
+
+Test : Du16ADoc_iBootSWIdentification
+	 Expected result: return code 0
+	 Obtained result: 6
+	 Test result: RDBI NOK 
+
+Test : Du16ADoc_iBootSWIdentification
+	 Expected result: return code 0
+	 Obtained result: 6
+	 Test result: RDBI NOK 
+
+Test : Du16ADoc_iBootSWIdentification
+	 Expected result: return code 0
+	 Obtained result: 6
+	 Test result: RDBI NOK 
+
+Test : Du16ADoc_iBootSWIdentification
+	 Expected result: return code 0
+	 Obtained result: 6
+	 Test result: RDBI NOK 
+
+Test : Du16ADoc_iBootSWIdentification
+	 Expected result: return code 0
+	 Obtained result: 6
+	 Test result: RDBI NOK 
+
+Test : Du16ADoc_iBootSWIdentification
+	 Expected result: return code 0
+	 Obtained result: 6
+	 Test result: RDBI NOK 
+
+Test : Du16ADoc_iBootSWIdentification
+	 Expected result: return code 0
+	 Obtained result: 6
+	 Test result: RDBI NOK 
+
+Test : Du16ADoc_iBootSWIdentification
+	 Expected result: return code 0
+	 Obtained result: 6
+	 Test result: RDBI NOK 
+
+Test : Du16ADoc_iBootSWIdentification
+	 Expected result: return code 0
+	 Obtained result: 6
+	 Test result: RDBI NOK 
+
+Test : Du16ADoc_iBootSWIdentification
+	 Expected result: return code 0
+	 Obtained result: 6
+	 Test result: RDBI NOK 
+
+Test : Du16ADoc_iBootSWIdentification
+	 Expected result: return code 0
+	 Obtained result: 6
+	 Test result: RDBI NOK 
+
+Test : Du16ADoc_iBootSWIdentification
+	 Expected result: return code 0
+	 Obtained result: 6
+	 Test result: RDBI NOK 
+
+Test : Du16ADoc_iBootSWIdentification
+	 Expected result: return code 0
+	 Obtained result: 6
+	 Test result: RDBI NOK 
+
+Test : Du16ADoc_iBootSWIdentification
+	 Expected result: return code 0
+	 Obtained result: 6
+	 Test result: RDBI NOK 
+
+Test : Du16ADoc_iBootSWIdentification
+	 Expected result: return code 0
+	 Obtained result: 6
+	 Test result: RDBI NOK 
+
+Test : Du16ADoc_iBootSWIdentification
+	 Expected result: return code 0
+	 Obtained result: 6
+	 Test result: RDBI NOK 
+
+Test : Du16ADoc_iBootSWIdentification
+	 Expected result: return code 0
+	 Obtained result: 6
+	 Test result: RDBI NOK 
+
+Test : Du16ADoc_iBootSWIdentification
+	 Expected result: return code 0
+	 Obtained result: 6
+	 Test result: RDBI NOK 
+
+Test : Du16ADoc_iBootSWIdentification
+	 Expected result: return code 0
+	 Obtained result: 6
+	 Test result: RDBI NOK 
+
+Test : Du16ADoc_iBootSWIdentification
+	 Expected result: return code 0
+	 Obtained result: 6
+	 Test result: RDBI NOK 
+
+Test : Du16ADoc_iBootSWIdentification
+	 Expected result: return code 0
+	 Obtained result: 6
+	 Test result: RDBI NOK 
+
+Test : Du16ADoc_iBootSWIdentification
+	 Expected result: return code 0
+	 Obtained result: 6
+	 Test result: RDBI NOK 
+
+Test : Du16ADoc_iBootSWIdentification
+	 Expected result: return code 0
+	 Obtained result: 6
+	 Test result: RDBI NOK 
+
+Test : Du16ADoc_iBootSWIdentification
+	 Expected result: return code 0
+	 Obtained result: 6
+	 Test result: RDBI NOK 
+
+Test : Du16ADoc_iBootSWIdentification
+	 Expected result: return code 0
+	 Obtained result: 6
+	 Test result: RDBI NOK 
+
+Test : Du16ADoc_iBootSWIdentification
+	 Expected result: return code 0
+	 Obtained result: 6
+	 Test result: RDBI NOK 
+
+Test : Du16ADoc_iBootSWIdentification
+	 Expected result: return code 0
+	 Obtained result: 6
+	 Test result: RDBI NOK 
+
+Test : Du16ADoc_iBootSWIdentification
+	 Expected result: return code 0
+	 Obtained result: 6
+	 Test result: RDBI NOK 
+
+Test : Du16ADoc_iBootSWIdentification
+	 Expected result: return code 0
+	 Obtained result: 6
+	 Test result: RDBI NOK 
+
+Test : Du16ADoc_iBootSWIdentification
+	 Expected result: return code 0
+	 Obtained result: 6
+	 Test result: RDBI NOK 
+
+Test : Du16ADoc_iBootSWIdentification
+	 Expected result: return code 0
+	 Obtained result: 6
+	 Test result: RDBI NOK 
+
+Test : Du16ADoc_iBootSWIdentification
+	 Expected result: return code 0
+	 Obtained result: 6
+	 Test result: RDBI NOK 
+
+Test : Du16ADoc_iBootSWIdentification
+	 Expected result: return code 0
+	 Obtained result: 6
+	 Test result: RDBI NOK 
+
+Test : Du16ADoc_iBootSWIdentification
+	 Expected result: return code 0
+	 Obtained result: 6
+	 Test result: RDBI NOK 
+
+Test : Du16ADoc_iBootSWIdentification
+	 Expected result: return code 0
+	 Obtained result: 6
+	 Test result: RDBI NOK 
+
+Test : Du16ADoc_iBootSWIdentification
+	 Expected result: return code 0
+	 Obtained result: 6
+	 Test result: RDBI NOK 
+
+Test : Du16ADoc_iBootSWIdentification
+	 Expected result: return code 0
+	 Obtained result: 6
+	 Test result: RDBI NOK 
+
+Test : Du16ADoc_iBootSWIdentification
+	 Expected result: return code 0
+	 Obtained result: 6
+	 Test result: RDBI NOK 
+
+Test : Du16ADoc_iBootSWIdentification
+	 Expected result: return code 0
+	 Obtained result: 6
+	 Test result: RDBI NOK 
+
+Test : Du16ADoc_iBootSWIdentification
+	 Expected result: return code 0
+	 Obtained result: 6
+	 Test result: RDBI NOK 
+
+Test : Du16ADoc_iBootSWIdentification
+	 Expected result: return code 0
+	 Obtained result: 6
+	 Test result: RDBI NOK 
+
+Test : Du16ADoc_iBootSWIdentification
+	 Expected result: return code 0
+	 Obtained result: 6
+	 Test result: RDBI NOK 
+
+Test : Du16ADoc_iAppSWIdentification
+	 Expected result: return code 0
+	 Obtained result: 4
+	 Test result: RDBI NOK 
+
+Test : Du16ADoc_iBootSWIdentification
+	 Expected result: return code 0
+	 Obtained result: 6
+	 Test result: RDBI NOK 
+
+Test : Du16ADoc_iBootSWIdentification
+	 Expected result: return code 0
+	 Obtained result: 6
+	 Test result: RDBI NOK 
+
+Test : Du16ADoc_iBootSWIdentification
+	 Expected result: return code 0
+	 Obtained result: 6
+	 Test result: RDBI NOK 
+
+Test : Du16ADoc_iBootSWIdentification
+	 Expected result: return code 0
+	 Obtained result: 6
+	 Test result: RDBI NOK 
+
+Test : Du16ADoc_iBootSWIdentification
+	 Expected result: return code 0
+	 Obtained result: 6
+	 Test result: RDBI NOK 
+
+Test : Du16ADoc_iBootSWIdentification
+	 Expected result: return code 0
+	 Obtained result: 6
+	 Test result: RDBI NOK 
+
+Test : Du16ADoc_iBootSWIdentification
+	 Expected result: return code 0
+	 Obtained result: 6
+	 Test result: RDBI NOK 
+
+Test : Du16ADoc_iBootSWIdentification
+	 Expected result: return code 0
+	 Obtained result: 6
+	 Test result: RDBI NOK 
+
+Test : Du16ADoc_iBootSWIdentification
+	 Expected result: return code 0
+	 Obtained result: 6
+	 Test result: RDBI NOK 
+
+Test : Du16ADoc_iBootSWIdentification
+	 Expected result: return code 0
+	 Obtained result: 6
+	 Test result: RDBI NOK 
+
+Test : Du16ADoc_iBootSWIdentification
+	 Expected result: return code 0
+	 Obtained result: 6
+	 Test result: RDBI NOK 
+
+Test : Du16ADoc_iBootSWIdentification
+	 Expected result: return code 0
+	 Obtained result: 6
+	 Test result: RDBI NOK 
+
+Test : Du16ADoc_iBootSWIdentification
+	 Expected result: return code 0
+	 Obtained result: 6
+	 Test result: RDBI NOK 
+
+Test : Du16ADoc_iBootSWIdentification
+	 Expected result: return code 0
+	 Obtained result: 6
+	 Test result: RDBI NOK 
+
+Test : Du16ADoc_iBootSWIdentification
+	 Expected result: return code 0
+	 Obtained result: 6
+	 Test result: RDBI NOK 
+
+Test : Du16ADoc_iBootSWIdentification
+	 Expected result: return code 0
+	 Obtained result: 6
+	 Test result: RDBI NOK 
+
+Test : Du16ADoc_iBootSWIdentification
+	 Expected result: return code 0
+	 Obtained result: 6
+	 Test result: RDBI NOK 
+
+Test : Du16ADoc_iBootSWIdentification
+	 Expected result: return code 0
+	 Obtained result: 6
+	 Test result: RDBI NOK 
+
+Test : Du16ADoc_iBootSWIdentification
+	 Expected result: return code 0
+	 Obtained result: 6
+	 Test result: RDBI NOK 
+
+Test : Du16ADoc_iBootSWIdentification
+	 Expected result: return code 0
+	 Obtained result: 6
+	 Test result: RDBI NOK 
+
+Test : Du16ADoc_iBootSWIdentification
+	 Expected result: return code 0
+	 Obtained result: 6
+	 Test result: RDBI NOK 
+
+Test : Du16ADoc_iBootSWIdentification
+	 Expected result: return code 0
+	 Obtained result: 6
+	 Test result: RDBI NOK 
+
+Test : Du16ADoc_iBootSWIdentification
+	 Expected result: return code 0
+	 Obtained result: 6
+	 Test result: RDBI NOK 
+
+Test : Du16ADoc_iBootSWIdentification
+	 Expected result: return code 0
+	 Obtained result: 6
+	 Test result: RDBI NOK 
+
+Test : Du16ADoc_iBootSWIdentification
+	 Expected result: return code 0
+	 Obtained result: 6
+	 Test result: RDBI NOK 
+
+Test : Du16ADoc_iBootSWIdentification
+	 Expected result: return code 0
+	 Obtained result: 6
+	 Test result: RDBI NOK 
+
+Test : Du16ADoc_iBootSWIdentification
+	 Expected result: return code 0
+	 Obtained result: 6
+	 Test result: RDBI NOK 
+
+Test : Du16ADoc_iBootSWIdentification
+	 Expected result: return code 0
+	 Obtained result: 6
+	 Test result: RDBI NOK 
+
+Test : Du16ADoc_iBootSWIdentification
+	 Expected result: return code 0
+	 Obtained result: 6
+	 Test result: RDBI NOK 
+
+Test : Du16ADoc_iBootSWIdentification
+	 Expected result: return code 0
+	 Obtained result: 6
+	 Test result: RDBI NOK 
+
+Test : Du16ADoc_iBootSWIdentification
+	 Expected result: return code 0
+	 Obtained result: 6
+	 Test result: RDBI NOK 
+
+Test : Du16ADoc_iBootSWIdentification
+	 Expected result: return code 0
+	 Obtained result: 6
+	 Test result: RDBI NOK 
+
+Test : Du16ADoc_iBootSWIdentification
+	 Expected result: return code 0
+	 Obtained result: 6
+	 Test result: RDBI NOK 
+
+Test : Du16ADoc_iBootSWIdentification
+	 Expected result: return code 0
+	 Obtained result: 6
+	 Test result: RDBI NOK 
+
+Test : Du16ADoc_iBootSWIdentification
+	 Expected result: return code 0
+	 Obtained result: 6
+	 Test result: RDBI NOK 
+
+Test : Du16ADoc_iBootSWIdentification
+	 Expected result: return code 0
+	 Obtained result: 6
+	 Test result: RDBI NOK 
+
+Test : Du16ADoc_iBootSWIdentification
+	 Expected result: return code 0
+	 Obtained result: 6
+	 Test result: RDBI NOK 
+
+Test : Du16ADoc_iBootSWIdentification
+	 Expected result: return code 0
+	 Obtained result: 6
+	 Test result: RDBI NOK 
+
+Test : Du16ADoc_iBootSWIdentification
+	 Expected result: return code 0
+	 Obtained result: 6
+	 Test result: RDBI NOK 
+
+Test : Du16ADoc_iBootSWIdentification
+	 Expected result: return code 0
+	 Obtained result: 6
+	 Test result: RDBI NOK 
+
+Test : Du16ADoc_iBootSWIdentification
+	 Expected result: return code 0
+	 Obtained result: 6
+	 Test result: RDBI NOK 
+
+Test : Du16ADoc_iBootSWIdentification
+	 Expected result: return code 0
+	 Obtained result: 6
+	 Test result: RDBI NOK 
+
+Test : Du16ADoc_iBootSWIdentification
+	 Expected result: return code 0
+	 Obtained result: 6
+	 Test result: RDBI NOK 
+
+Test : Du16ADoc_iBootSWIdentification
+	 Expected result: return code 0
+	 Obtained result: 6
+	 Test result: RDBI NOK 
+
+Test : Du16ADoc_iBootSWIdentification
+	 Expected result: return code 0
+	 Obtained result: 6
+	 Test result: RDBI NOK 
+
+Test : Du16ADoc_iBootSWIdentification
+	 Expected result: return code 0
+	 Obtained result: 6
+	 Test result: RDBI NOK 
+
+Test : Du16ADoc_iBootSWIdentification
+	 Expected result: return code 0
+	 Obtained result: 6
+	 Test result: RDBI NOK 
+
+Test : Du16ADoc_iBootSWIdentification
+	 Expected result: return code 0
+	 Obtained result: 6
+	 Test result: RDBI NOK 
+
+Test : Du16ADoc_iBootSWIdentification
+	 Expected result: return code 0
+	 Obtained result: 6
+	 Test result: RDBI NOK 
+
+Test : Du16ADoc_iBootSWIdentification
+	 Expected result: return code 0
+	 Obtained result: 6
+	 Test result: RDBI NOK 
+
+Test : Du16ADoc_iBootSWIdentification
+	 Expected result: return code 0
+	 Obtained result: 6
+	 Test result: RDBI NOK 
+
+Test : Du16ADoc_iBootSWIdentification
+	 Expected result: return code 0
+	 Obtained result: 6
+	 Test result: RDBI NOK 
+
+Test : Du16ADoc_iBootSWIdentification
+	 Expected result: return code 0
+	 Obtained result: 6
+	 Test result: RDBI NOK 
+
+Test : Du16ADoc_iBootSWIdentification
+	 Expected result: return code 0
+	 Obtained result: 6
+	 Test result: RDBI NOK 
+
+Test : Du16ADoc_iBootSWIdentification
+	 Expected result: return code 0
+	 Obtained result: 6
+	 Test result: RDBI NOK 
+
+Test : Du16ADoc_iBootSWIdentification
+	 Expected result: return code 0
+	 Obtained result: 6
+	 Test result: RDBI NOK 
+
+Test : Du16ADoc_iBootSWIdentification
+	 Expected result: return code 0
+	 Obtained result: 6
+	 Test result: RDBI NOK 
+
+Test : Du16ADoc_iBootSWIdentification
+	 Expected result: return code 0
+	 Obtained result: 6
+	 Test result: RDBI NOK 
+
+Test : Du16ADoc_iBootSWIdentification
+	 Expected result: return code 0
+	 Obtained result: 6
+	 Test result: RDBI NOK 
+
+Test : Du16ADoc_iBootSWIdentification
+	 Expected result: return code 0
+	 Obtained result: 6
+	 Test result: RDBI NOK 
+
+Test : Du16ADoc_iBootSWIdentification
+	 Expected result: return code 0
+	 Obtained result: 6
+	 Test result: RDBI NOK 
+
+Test : Du16ADoc_iBootSWIdentification
+	 Expected result: return code 0
+	 Obtained result: 6
+	 Test result: RDBI NOK 
+
+Test : Du16ADoc_iBootSWIdentification
+	 Expected result: return code 0
+	 Obtained result: 6
+	 Test result: RDBI NOK 
+
+Test : Du16ADoc_iBootSWIdentification
+	 Expected result: return code 0
+	 Obtained result: 6
+	 Test result: RDBI NOK 
+
+Test : Du16ADoc_iBootSWIdentification
+	 Expected result: return code 0
+	 Obtained result: 6
+	 Test result: RDBI NOK 
+
+Test : Du16ADoc_iBootSWIdentification
+	 Expected result: return code 0
+	 Obtained result: 6
+	 Test result: RDBI NOK 
+
+Test : Du16ADoc_iBootSWIdentification
+	 Expected result: return code 0
+	 Obtained result: 6
+	 Test result: RDBI NOK 
+
+Test : Du16ADoc_iBootSWIdentification
+	 Expected result: return code 0
+	 Obtained result: 6
+	 Test result: RDBI NOK 
+
+Test : Du16ADoc_iBootSWIdentification
+	 Expected result: return code 0
+	 Obtained result: 6
+	 Test result: RDBI NOK 
+
+Test : Du16ADoc_iBootSWIdentification
+	 Expected result: return code 0
+	 Obtained result: 6
+	 Test result: RDBI NOK 
+
+Test : Du16ADoc_iBootSWIdentification
+	 Expected result: return code 0
+	 Obtained result: 6
+	 Test result: RDBI NOK 
+
+Test : Du16ADoc_iBootSWIdentification
+	 Expected result: return code 0
+	 Obtained result: 6
+	 Test result: RDBI NOK 
+
+Test : Du16ADoc_iBootSWIdentification
+	 Expected result: return code 0
+	 Obtained result: 6
+	 Test result: RDBI NOK 
+
+Test : Du16ADoc_iBootSWIdentification
+	 Expected result: return code 0
+	 Obtained result: 6
+	 Test result: RDBI NOK 
+
+Test : Du16ADoc_iBootSWIdentification
+	 Expected result: return code 0
+	 Obtained result: 6
+	 Test result: RDBI NOK 
+
+Test : Du16ADoc_iBootSWIdentification
+	 Expected result: return code 0
+	 Obtained result: 6
+	 Test result: RDBI NOK 
+
+Test : Du16ADoc_iBootSWIdentification
+	 Expected result: return code 0
+	 Obtained result: 6
+	 Test result: RDBI NOK 
+
+Test : Du16ADoc_iBootSWIdentification
+	 Expected result: return code 0
+	 Obtained result: 6
+	 Test result: RDBI NOK 
+
+Test : Du16ADoc_iBootSWIdentification
+	 Expected result: return code 0
+	 Obtained result: 6
+	 Test result: RDBI NOK 
+
+Test : Du16ADoc_iBootSWIdentification
+	 Expected result: return code 0
+	 Obtained result: 6
+	 Test result: RDBI NOK 
+
+Test : Du16ADoc_iBootSWIdentification
+	 Expected result: return code 0
+	 Obtained result: 6
+	 Test result: RDBI NOK 
+
+Test : Du16ADoc_iBootSWIdentification
+	 Expected result: return code 0
+	 Obtained result: 6
+	 Test result: RDBI NOK 
+
+Test : Du16ADoc_iBootSWIdentification
+	 Expected result: return code 0
+	 Obtained result: 6
+	 Test result: RDBI NOK 
+
+Test : Du16ADoc_iBootSWIdentification
+	 Expected result: return code 0
+	 Obtained result: 6
+	 Test result: RDBI NOK 
+
+Test : Du16ADoc_iBootSWIdentification
+	 Expected result: return code 0
+	 Obtained result: 6
+	 Test result: RDBI NOK 
+
+Test : Du16ADoc_iBootSWIdentification
+	 Expected result: return code 0
+	 Obtained result: 6
+	 Test result: RDBI NOK 
+
+Test : Du16ADoc_iBootSWIdentification
+	 Expected result: return code 0
+	 Obtained result: 6
+	 Test result: RDBI NOK 
+
+Test : Du16ADoc_iBootSWIdentification
+	 Expected result: return code 0
+	 Obtained result: 6
+	 Test result: RDBI NOK 
+
+Test : Du16ADoc_iBootSWIdentification
+	 Expected result: return code 0
+	 Obtained result: 6
+	 Test result: RDBI NOK 
+
+Test : Du16ADoc_iBootSWIdentification
+	 Expected result: return code 0
+	 Obtained result: 6
+	 Test result: RDBI NOK 
+
+Test : Du16ADoc_iBootSWIdentification
+	 Expected result: return code 0
+	 Obtained result: 6
+	 Test result: RDBI NOK 
+
+Test : Du16ADoc_iBootSWIdentification
+	 Expected result: return code 0
+	 Obtained result: 6
+	 Test result: RDBI NOK 
+
+Test : Du16ADoc_iBootSWIdentification
+	 Expected result: return code 0
+	 Obtained result: 6
+	 Test result: RDBI NOK 
+
+Test : Du16ADoc_iBootSWIdentification
+	 Expected result: return code 0
+	 Obtained result: 6
+	 Test result: RDBI NOK 
+
+Test : Du16ADoc_iBootSWIdentification
+	 Expected result: return code 0
+	 Obtained result: 6
+	 Test result: RDBI NOK 
+
+Test : Du16ADoc_iBootSWIdentification
+	 Expected result: return code 0
+	 Obtained result: 6
+	 Test result: RDBI NOK 
+
+Test : Du16ADoc_iBootSWIdentification
+	 Expected result: return code 0
+	 Obtained result: 6
+	 Test result: RDBI NOK 
+
+Test : Du16ADoc_iBootSWIdentification
+	 Expected result: return code 0
+	 Obtained result: 6
+	 Test result: RDBI NOK 
+
+Test : Du16ADoc_iBootSWIdentification
+	 Expected result: return code 0
+	 Obtained result: 6
+	 Test result: RDBI NOK 
+
+Test : Du16ADoc_iBootSWIdentification
+	 Expected result: return code 0
+	 Obtained result: 6
+	 Test result: RDBI NOK 
+
+Test : Du16ADoc_iAppSWIdentification
+	 Expected result: return code 0
+	 Obtained result: 4
+	 Test result: RDBI NOK 
+
+Test : Du16ADoc_iBootSWIdentification
+	 Expected result: return code 0
+	 Obtained result: 6
+	 Test result: RDBI NOK 
+
+Test : Du16ADoc_iBootSWIdentification
+	 Expected result: return code 0
+	 Obtained result: 6
+	 Test result: RDBI NOK 
+
+Test : Du16ADoc_iBootSWIdentification
+	 Expected result: return code 0
+	 Obtained result: 6
+	 Test result: RDBI NOK 
+
+Test : Du16ADoc_iBootSWIdentification
+	 Expected result: return code 0
+	 Obtained result: 6
+	 Test result: RDBI NOK 
+
+Test : Du16ADoc_iBootSWIdentification
+	 Expected result: return code 0
+	 Obtained result: 6
+	 Test result: RDBI NOK 
+
+Test : Du16ADoc_iBootSWIdentification
+	 Expected result: return code 0
+	 Obtained result: 6
+	 Test result: RDBI NOK 
+
+Test : Du16ADoc_iBootSWIdentification
+	 Expected result: return code 0
+	 Obtained result: 6
+	 Test result: RDBI NOK 
+
+Test : Du16ADoc_iBootSWIdentification
+	 Expected result: return code 0
+	 Obtained result: 6
+	 Test result: RDBI NOK 
+
+Test : Du16ADoc_iBootSWIdentification
+	 Expected result: return code 0
+	 Obtained result: 6
+	 Test result: RDBI NOK 
+
+Test : Du16ADoc_iBootSWIdentification
+	 Expected result: return code 0
+	 Obtained result: 6
+	 Test result: RDBI NOK 
+
+Test : Du16ADoc_iBootSWIdentification
+	 Expected result: return code 0
+	 Obtained result: 6
+	 Test result: RDBI NOK 
+
+Test : Du16ADoc_iBootSWIdentification
+	 Expected result: return code 0
+	 Obtained result: 6
+	 Test result: RDBI NOK 
+
+Test : Du16ADoc_iBootSWIdentification
+	 Expected result: return code 0
+	 Obtained result: 6
+	 Test result: RDBI NOK 
+
+Test : Du16ADoc_iBootSWIdentification
+	 Expected result: return code 0
+	 Obtained result: 6
+	 Test result: RDBI NOK 
+
+Test : Du16ADoc_iBootSWIdentification
+	 Expected result: return code 0
+	 Obtained result: 6
+	 Test result: RDBI NOK 
+
+Test : Du16ADoc_iBootSWIdentification
+	 Expected result: return code 0
+	 Obtained result: 6
+	 Test result: RDBI NOK 
+
+Test : Du16ADoc_iBootSWIdentification
+	 Expected result: return code 0
+	 Obtained result: 6
+	 Test result: RDBI NOK 
+
+Test : Du16ADoc_iBootSWIdentification
+	 Expected result: return code 0
+	 Obtained result: 6
+	 Test result: RDBI NOK 
+
+Test : Du16ADoc_iBootSWIdentification
+	 Expected result: return code 0
+	 Obtained result: 6
+	 Test result: RDBI NOK 
+
+Test : Du16ADoc_iBootSWIdentification
+	 Expected result: return code 0
+	 Obtained result: 6
+	 Test result: RDBI NOK 
+
+Test : Du16ADoc_iBootSWIdentification
+	 Expected result: return code 0
+	 Obtained result: 6
+	 Test result: RDBI NOK 
+
+Test : Du16ADoc_iBootSWIdentification
+	 Expected result: return code 0
+	 Obtained result: 6
+	 Test result: RDBI NOK 
+
+Test : Du16ADoc_iBootSWIdentification
+	 Expected result: return code 0
+	 Obtained result: 6
+	 Test result: RDBI NOK 
+
+Test : Du16ADoc_iBootSWIdentification
+	 Expected result: return code 0
+	 Obtained result: 6
+	 Test result: RDBI NOK 
+
+Test : Du16ADoc_iBootSWIdentification
+	 Expected result: return code 0
+	 Obtained result: 6
+	 Test result: RDBI NOK 
+
+Test : Du16ADoc_iBootSWIdentification
+	 Expected result: return code 0
+	 Obtained result: 6
+	 Test result: RDBI NOK 
+
+Test : Du16ADoc_iBootSWIdentification
+	 Expected result: return code 0
+	 Obtained result: 6
+	 Test result: RDBI NOK 
+
+Test : Du16ADoc_iBootSWIdentification
+	 Expected result: return code 0
+	 Obtained result: 6
+	 Test result: RDBI NOK 
+
+Test : Du16ADoc_iBootSWIdentification
+	 Expected result: return code 0
+	 Obtained result: 6
+	 Test result: RDBI NOK 
+
+Test : Du16ADoc_iBootSWIdentification
+	 Expected result: return code 0
+	 Obtained result: 6
+	 Test result: RDBI NOK 
+
+Test : Du16ADoc_iBootSWIdentification
+	 Expected result: return code 0
+	 Obtained result: 6
+	 Test result: RDBI NOK 
+
+Test : Du16ADoc_iBootSWIdentification
+	 Expected result: return code 0
+	 Obtained result: 6
+	 Test result: RDBI NOK 
+
+Test : Du16ADoc_iBootSWIdentification
+	 Expected result: return code 0
+	 Obtained result: 6
+	 Test result: RDBI NOK 
+
+Test : Du16ADoc_iBootSWIdentification
+	 Expected result: return code 0
+	 Obtained result: 6
+	 Test result: RDBI NOK 
+
+Test : Du16ADoc_iBootSWIdentification
+	 Expected result: return code 0
+	 Obtained result: 6
+	 Test result: RDBI NOK 
+
+Test : Du16ADoc_iBootSWIdentification
+	 Expected result: return code 0
+	 Obtained result: 6
+	 Test result: RDBI NOK 
+
+Test : Du16ADoc_iBootSWIdentification
+	 Expected result: return code 0
+	 Obtained result: 6
+	 Test result: RDBI NOK 
+
+Test : Du16ADoc_iBootSWIdentification
+	 Expected result: return code 0
+	 Obtained result: 6
+	 Test result: RDBI NOK 
+
+Test : Du16ADoc_iBootSWIdentification
+	 Expected result: return code 0
+	 Obtained result: 6
+	 Test result: RDBI NOK 
+
+Test : Du16ADoc_iBootSWIdentification
+	 Expected result: return code 0
+	 Obtained result: 6
+	 Test result: RDBI NOK 
+
+Test : Du16ADoc_iBootSWIdentification
+	 Expected result: return code 0
+	 Obtained result: 6
+	 Test result: RDBI NOK 
+
+Test : Du16ADoc_iBootSWIdentification
+	 Expected result: return code 0
+	 Obtained result: 6
+	 Test result: RDBI NOK 
+
+Test : Du16ADoc_iBootSWIdentification
+	 Expected result: return code 0
+	 Obtained result: 6
+	 Test result: RDBI NOK 
+
+Test : Du16ADoc_iBootSWIdentification
+	 Expected result: return code 0
+	 Obtained result: 6
+	 Test result: RDBI NOK 
+
+Test : Du16ADoc_iBootSWIdentification
+	 Expected result: return code 0
+	 Obtained result: 6
+	 Test result: RDBI NOK 
+
+Test : Du16ADoc_iBootSWIdentification
+	 Expected result: return code 0
+	 Obtained result: 6
+	 Test result: RDBI NOK 
+
+Test : Du16ADoc_iBootSWIdentification
+	 Expected result: return code 0
+	 Obtained result: 6
+	 Test result: RDBI NOK 
+
+Test : Du16ADoc_iBootSWIdentification
+	 Expected result: return code 0
+	 Obtained result: 6
+	 Test result: RDBI NOK 
+
+Test : Du16ADoc_iBootSWIdentification
+	 Expected result: return code 0
+	 Obtained result: 6
+	 Test result: RDBI NOK 
+
+Test : Du16ADoc_iBootSWIdentification
+	 Expected result: return code 0
+	 Obtained result: 6
+	 Test result: RDBI NOK 
+
+Test : Du16ADoc_iBootSWIdentification
+	 Expected result: return code 0
+	 Obtained result: 6
+	 Test result: RDBI NOK 
+
+Test : Du16ADoc_iBootSWIdentification
+	 Expected result: return code 0
+	 Obtained result: 6
+	 Test result: RDBI NOK 
+
+Test : Du16ADoc_iBootSWIdentification
+	 Expected result: return code 0
+	 Obtained result: 6
+	 Test result: RDBI NOK 
+
+Test : Du16ADoc_iBootSWIdentification
+	 Expected result: return code 0
+	 Obtained result: 6
+	 Test result: RDBI NOK 
+
+Test : Du16ADoc_iBootSWIdentification
+	 Expected result: return code 0
+	 Obtained result: 6
+	 Test result: RDBI NOK 
+
+Test : Du16ADoc_iBootSWIdentification
+	 Expected result: return code 0
+	 Obtained result: 6
+	 Test result: RDBI NOK 
+
+Test : Du16ADoc_iBootSWIdentification
+	 Expected result: return code 0
+	 Obtained result: 6
+	 Test result: RDBI NOK 
+
+Test : Du16ADoc_iBootSWIdentification
+	 Expected result: return code 0
+	 Obtained result: 6
+	 Test result: RDBI NOK 
+
+Test : Du16ADoc_iBootSWIdentification
+	 Expected result: return code 0
+	 Obtained result: 6
+	 Test result: RDBI NOK 
+
+Test : Du16ADoc_iBootSWIdentification
+	 Expected result: return code 0
+	 Obtained result: 6
+	 Test result: RDBI NOK 
+
+Test : Du16ADoc_iBootSWIdentification
+	 Expected result: return code 0
+	 Obtained result: 6
+	 Test result: RDBI NOK 
+
+Test : Du16ADoc_iBootSWIdentification
+	 Expected result: return code 0
+	 Obtained result: 6
+	 Test result: RDBI NOK 
+
+Test : Du16ADoc_iBootSWIdentification
+	 Expected result: return code 0
+	 Obtained result: 6
+	 Test result: RDBI NOK 
+
+Test : Du16ADoc_iBootSWIdentification
+	 Expected result: return code 0
+	 Obtained result: 6
+	 Test result: RDBI NOK 
+
+Test : Du16ADoc_iBootSWIdentification
+	 Expected result: return code 0
+	 Obtained result: 6
+	 Test result: RDBI NOK 
+
+Test : Du16ADoc_iBootSWIdentification
+	 Expected result: return code 0
+	 Obtained result: 6
+	 Test result: RDBI NOK 
+
+Test : Du16ADoc_iBootSWIdentification
+	 Expected result: return code 0
+	 Obtained result: 6
+	 Test result: RDBI NOK 
+
+Test : Du16ADoc_iBootSWIdentification
+	 Expected result: return code 0
+	 Obtained result: 6
+	 Test result: RDBI NOK 
+
+Test : Du16ADoc_iBootSWIdentification
+	 Expected result: return code 0
+	 Obtained result: 6
+	 Test result: RDBI NOK 
+
+Test : Du16ADoc_iBootSWIdentification
+	 Expected result: return code 0
+	 Obtained result: 6
+	 Test result: RDBI NOK 
+
+Test : Du16ADoc_iBootSWIdentification
+	 Expected result: return code 0
+	 Obtained result: 6
+	 Test result: RDBI NOK 
+
+Test : Du16ADoc_iBootSWIdentification
+	 Expected result: return code 0
+	 Obtained result: 6
+	 Test result: RDBI NOK 
+
+Test : Du16ADoc_iBootSWIdentification
+	 Expected result: return code 0
+	 Obtained result: 6
+	 Test result: RDBI NOK 
+
+Test : Du16ADoc_iBootSWIdentification
+	 Expected result: return code 0
+	 Obtained result: 6
+	 Test result: RDBI NOK 
+
+Test : Du16ADoc_iBootSWIdentification
+	 Expected result: return code 0
+	 Obtained result: 6
+	 Test result: RDBI NOK 
+
+Test : Du16ADoc_iBootSWIdentification
+	 Expected result: return code 0
+	 Obtained result: 6
+	 Test result: RDBI NOK 
+
+Test : Du16ADoc_iBootSWIdentification
+	 Expected result: return code 0
+	 Obtained result: 6
+	 Test result: RDBI NOK 
+
+Test : Du16ADoc_iBootSWIdentification
+	 Expected result: return code 0
+	 Obtained result: 6
+	 Test result: RDBI NOK 
+
+Test : Du16ADoc_iBootSWIdentification
+	 Expected result: return code 0
+	 Obtained result: 6
+	 Test result: RDBI NOK 
+
+Test : Du16ADoc_iBootSWIdentification
+	 Expected result: return code 0
+	 Obtained result: 6
+	 Test result: RDBI NOK 
+
+Test : Du16ADoc_iBootSWIdentification
+	 Expected result: return code 0
+	 Obtained result: 6
+	 Test result: RDBI NOK 
+
+Test : Du16ADoc_iBootSWIdentification
+	 Expected result: return code 0
+	 Obtained result: 6
+	 Test result: RDBI NOK 
+
+Test : Du16ADoc_iBootSWIdentification
+	 Expected result: return code 0
+	 Obtained result: 6
+	 Test result: RDBI NOK 
+
+Test : Du16ADoc_iBootSWIdentification
+	 Expected result: return code 0
+	 Obtained result: 6
+	 Test result: RDBI NOK 
+
+Test : Du16ADoc_iBootSWIdentification
+	 Expected result: return code 0
+	 Obtained result: 6
+	 Test result: RDBI NOK 
+
+Test : Du16ADoc_iBootSWIdentification
+	 Expected result: return code 0
+	 Obtained result: 6
+	 Test result: RDBI NOK 
+
+Test : Du16ADoc_iBootSWIdentification
+	 Expected result: return code 0
+	 Obtained result: 6
+	 Test result: RDBI NOK 
+
+Test : Du16ADoc_iBootSWIdentification
+	 Expected result: return code 0
+	 Obtained result: 6
+	 Test result: RDBI NOK 
+
+Test : Du16ADoc_iBootSWIdentification
+	 Expected result: return code 0
+	 Obtained result: 6
+	 Test result: RDBI NOK 
+
+Test : Du16ADoc_iBootSWIdentification
+	 Expected result: return code 0
+	 Obtained result: 6
+	 Test result: RDBI NOK 
+
+Test : Du16ADoc_iBootSWIdentification
+	 Expected result: return code 0
+	 Obtained result: 6
+	 Test result: RDBI NOK 
+
+Test : Du16ADoc_iBootSWIdentification
+	 Expected result: return code 0
+	 Obtained result: 6
+	 Test result: RDBI NOK 
+
+Test : Du16ADoc_iBootSWIdentification
+	 Expected result: return code 0
+	 Obtained result: 6
+	 Test result: RDBI NOK 
+
+Test : Du16ADoc_iBootSWIdentification
+	 Expected result: return code 0
+	 Obtained result: 6
+	 Test result: RDBI NOK 
+
+Test : Du16ADoc_iBootSWIdentification
+	 Expected result: return code 0
+	 Obtained result: 6
+	 Test result: RDBI NOK 
+
+Test : Du16ADoc_iBootSWIdentification
+	 Expected result: return code 0
+	 Obtained result: 6
+	 Test result: RDBI NOK 
+
+Test : Du16ADoc_iBootSWIdentification
+	 Expected result: return code 0
+	 Obtained result: 6
+	 Test result: RDBI NOK 
+
+Test : Du16ADoc_iBootSWIdentification
+	 Expected result: return code 0
+	 Obtained result: 6
+	 Test result: RDBI NOK 
+
+Test : Du16ADoc_iBootSWIdentification
+	 Expected result: return code 0
+	 Obtained result: 6
+	 Test result: RDBI NOK 
+
+Test : Du16ADoc_iBootSWIdentification
+	 Expected result: return code 0
+	 Obtained result: 6
+	 Test result: RDBI NOK 
+
+Test : Du16ADoc_iBootSWIdentification
+	 Expected result: return code 0
+	 Obtained result: 6
+	 Test result: RDBI NOK 
+
+Test : Du16ADoc_iBootSWIdentification
+	 Expected result: return code 0
+	 Obtained result: 6
+	 Test result: RDBI NOK 
+
+Test : Du16ADoc_iBootSWIdentification
+	 Expected result: return code 0
+	 Obtained result: 6
+	 Test result: RDBI NOK 
+
+Test : Du16ADoc_iBootSWIdentification
+	 Expected result: return code 0
+	 Obtained result: 6
+	 Test result: RDBI NOK 
+
+Test : Du16ADoc_iBootSWIdentification
+	 Expected result: return code 0
+	 Obtained result: 6
+	 Test result: RDBI NOK 
+
+Test : Du16ADoc_iBootSWIdentification
+	 Expected result: return code 0
+	 Obtained result: 6
+	 Test result: RDBI NOK 
+
+Test : Du16ADoc_iBootSWIdentification
+	 Expected result: return code 0
+	 Obtained result: 6
+	 Test result: RDBI NOK 
+
+Test : Du16ADoc_iBootSWIdentification
+	 Expected result: return code 0
+	 Obtained result: 6
+	 Test result: RDBI NOK 
+
+Test : Du16ADoc_iBootSWIdentification
+	 Expected result: return code 0
+	 Obtained result: 6
+	 Test result: RDBI NOK 
+
+Test : Du16ADoc_iBootSWIdentification
+	 Expected result: return code 0
+	 Obtained result: 6
+	 Test result: RDBI NOK 
+
+Test : Du16ADoc_iBootSWIdentification
+	 Expected result: return code 0
+	 Obtained result: 6
+	 Test result: RDBI NOK 
+
+Test : Du16ADoc_iBootSWIdentification
+	 Expected result: return code 0
+	 Obtained result: 6
+	 Test result: RDBI NOK 
+
+Test : Du16ADoc_iBootSWIdentification
+	 Expected result: return code 0
+	 Obtained result: 6
+	 Test result: RDBI NOK 
+
+Test : Du16ADoc_iBootSWIdentification
+	 Expected result: return code 0
+	 Obtained result: 6
+	 Test result: RDBI NOK 
+
+Test : Du16ADoc_iBootSWIdentification
+	 Expected result: return code 0
+	 Obtained result: 6
+	 Test result: RDBI NOK 
+
+Test : Du16ADoc_iBootSWIdentification
+	 Expected result: return code 0
+	 Obtained result: 6
+	 Test result: RDBI NOK 
+
+Test : Du16ADoc_iBootSWIdentification
+	 Expected result: return code 0
+	 Obtained result: 6
+	 Test result: RDBI NOK 
+
+Test : Du16ADoc_iBootSWIdentification
+	 Expected result: return code 0
+	 Obtained result: 6
+	 Test result: RDBI NOK 
+
+Test : Du16ADoc_iBootSWIdentification
+	 Expected result: return code 0
+	 Obtained result: 6
+	 Test result: RDBI NOK 
+
+Test : Du16ADoc_iBootSWIdentification
+	 Expected result: return code 0
+	 Obtained result: 6
+	 Test result: RDBI NOK 
+
+Test : Du16ADoc_iBootSWIdentification
+	 Expected result: return code 0
+	 Obtained result: 6
+	 Test result: RDBI NOK 
+
+Test : Du16ADoc_iBootSWIdentification
+	 Expected result: return code 0
+	 Obtained result: 6
+	 Test result: RDBI NOK 
+
+Test : Du16ADoc_iBootSWIdentification
+	 Expected result: return code 0
+	 Obtained result: 6
+	 Test result: RDBI NOK 
+
+Test : Du16ADoc_iBootSWIdentification
+	 Expected result: return code 0
+	 Obtained result: 6
+	 Test result: RDBI NOK 
+
+Test : Du16ADoc_iBootSWIdentification
+	 Expected result: return code 0
+	 Obtained result: 6
+	 Test result: RDBI NOK 
+
+Test : Du16ADoc_iBootSWIdentification
+	 Expected result: return code 0
+	 Obtained result: 6
+	 Test result: RDBI NOK 
+
+Test : Du16ADoc_iBootSWIdentification
+	 Expected result: return code 0
+	 Obtained result: 6
+	 Test result: RDBI NOK 
+
+Test : Du16ADoc_iBootSWIdentification
+	 Expected result: return code 0
+	 Obtained result: 6
+	 Test result: RDBI NOK 
+
+Test : Du16ADoc_iBootSWIdentification
+	 Expected result: return code 0
+	 Obtained result: 6
+	 Test result: RDBI NOK 
+
+Test : Du16ADoc_iBootSWIdentification
+	 Expected result: return code 0
+	 Obtained result: 6
+	 Test result: RDBI NOK 
+
+Test : Du16ADoc_iBootSWIdentification
+	 Expected result: return code 0
+	 Obtained result: 6
+	 Test result: RDBI NOK 
+
+Test : Du16ADoc_iBootSWIdentification
+	 Expected result: return code 0
+	 Obtained result: 6
+	 Test result: RDBI NOK 
+
+Test : Du16ADoc_iBootSWIdentification
+	 Expected result: return code 0
+	 Obtained result: 6
+	 Test result: RDBI NOK 
+
+Test : Du16ADoc_iBootSWIdentification
+	 Expected result: return code 0
+	 Obtained result: 6
+	 Test result: RDBI NOK 
+
+Test : Du16ADoc_iBootSWIdentification
+	 Expected result: return code 0
+	 Obtained result: 6
+	 Test result: RDBI NOK 
+
+Test : Du16ADoc_iBootSWIdentification
+	 Expected result: return code 0
+	 Obtained result: 6
+	 Test result: RDBI NOK 
+
+Test : Du16ADoc_iBootSWIdentification
+	 Expected result: return code 0
+	 Obtained result: 6
+	 Test result: RDBI NOK 
+
+Test : Du16ADoc_iBootSWIdentification
+	 Expected result: return code 0
+	 Obtained result: 6
+	 Test result: RDBI NOK 
+
+Test : Du16ADoc_iBootSWIdentification
+	 Expected result: return code 0
+	 Obtained result: 6
+	 Test result: RDBI NOK 
+
+Test : Du16ADoc_iBootSWIdentification
+	 Expected result: return code 0
+	 Obtained result: 6
+	 Test result: RDBI NOK 
+
+Test : Du16ADoc_iBootSWIdentification
+	 Expected result: return code 0
+	 Obtained result: 6
+	 Test result: RDBI NOK 
+
+Test : Du16ADoc_iBootSWIdentification
+	 Expected result: return code 0
+	 Obtained result: 6
+	 Test result: RDBI NOK 
+
+Test : Du16ADoc_iBootSWIdentification
+	 Expected result: return code 0
+	 Obtained result: 6
+	 Test result: RDBI NOK 
+
+Test : Du16ADoc_iBootSWIdentification
+	 Expected result: return code 0
+	 Obtained result: 6
+	 Test result: RDBI NOK 
+
+Test : Du16ADoc_iBootSWIdentification
+	 Expected result: return code 0
+	 Obtained result: 6
+	 Test result: RDBI NOK 
+
+Test : Du16ADoc_iBootSWIdentification
+	 Expected result: return code 0
+	 Obtained result: 6
+	 Test result: RDBI NOK 
+
+Test : Du16ADoc_iBootSWIdentification
+	 Expected result: return code 0
+	 Obtained result: 6
+	 Test result: RDBI NOK 
+
+Test : Du16ADoc_iBootSWIdentification
+	 Expected result: return code 0
+	 Obtained result: 6
+	 Test result: RDBI NOK 
+
+Test : Du16ADoc_iBootSWIdentification
+	 Expected result: return code 0
+	 Obtained result: 6
+	 Test result: RDBI NOK 
+
+Test : Du16ADoc_iBootSWIdentification
+	 Expected result: return code 0
+	 Obtained result: 6
+	 Test result: RDBI NOK 
+
+Test : Du16ADoc_iBootSWIdentification
+	 Expected result: return code 0
+	 Obtained result: 6
+	 Test result: RDBI NOK 
+
+Test : Du16ADoc_iBootSWIdentification
+	 Expected result: return code 0
+	 Obtained result: 6
+	 Test result: RDBI NOK 
+
+Test : Du16ADoc_iBootSWIdentification
+	 Expected result: return code 0
+	 Obtained result: 6
+	 Test result: RDBI NOK 
+
+Test : Du16ADoc_iBootSWIdentification
+	 Expected result: return code 0
+	 Obtained result: 6
+	 Test result: RDBI NOK 
+
+Test : Du16ADoc_iBootSWIdentification
+	 Expected result: return code 0
+	 Obtained result: 6
+	 Test result: RDBI NOK 
+
+Test : Du16ADoc_iBootSWIdentification
+	 Expected result: return code 0
+	 Obtained result: 6
+	 Test result: RDBI NOK 
+
+Test : Du16ADoc_iBootSWIdentification
+	 Expected result: return code 0
+	 Obtained result: 6
+	 Test result: RDBI NOK 
+
+Test : Du16ADoc_iBootSWIdentification
+	 Expected result: return code 0
+	 Obtained result: 6
+	 Test result: RDBI NOK 
+
+Test : Du16ADoc_iBootSWIdentification
+	 Expected result: return code 0
+	 Obtained result: 6
+	 Test result: RDBI NOK 
+
+Test : Du16ADoc_iBootSWIdentification
+	 Expected result: return code 0
+	 Obtained result: 6
+	 Test result: RDBI NOK 
+
+Test : Du16ADoc_iBootSWIdentification
+	 Expected result: return code 0
+	 Obtained result: 6
+	 Test result: RDBI NOK 
+
+Test : Du16ADoc_iBootSWIdentification
+	 Expected result: return code 0
+	 Obtained result: 6
+	 Test result: RDBI NOK 
+
+Test : Du16ADoc_iBootSWIdentification
+	 Expected result: return code 0
+	 Obtained result: 6
+	 Test result: RDBI NOK 
+
+Test : Du16ADoc_iBootSWIdentification
+	 Expected result: return code 0
+	 Obtained result: 6
+	 Test result: RDBI NOK 
+
+Test : Du16ADoc_iBootSWIdentification
+	 Expected result: return code 0
+	 Obtained result: 6
+	 Test result: RDBI NOK 
+
+Test : Du16ADoc_iBootSWIdentification
+	 Expected result: return code 0
+	 Obtained result: 6
+	 Test result: RDBI NOK 
+
+Test : Du16ADoc_iBootSWIdentification
+	 Expected result: return code 0
+	 Test : Du16ADoc_iBootSWIdentification
+	 Expected result: return code 0
+	 Obtained result: 6
+	 Test result: RDBI NOK 
+
+Test : Du16ADoc_iBootSWIdentification
+	 Expected result: return code 0
+	 Obtained result: 6
+	 Test result: RDBI NOK 
+
+Test : Du16ADoc_iBootSWIdentification
+	 Expected result: return code 0
+	 Obtained result: 6
+	 Test result: RDBI NOK 
+
+Test : Du16ADoc_iBootSWIdentification
+	 Expected result: return code 0
+	 Obtained result: 6
+	 Test result: RDBI NOK 
+
+Test : Du16ADoc_iBootSWIdentification
+	 Expected result: return code 0
+	 Obtained result: 6
+	 Test result: RDBI NOK 
+
+Test : Du16ADoc_iBootSWIdentification
+	 Expected result: return code 0
+	 Obtained result: 6
+	 Test result: RDBI NOK 
+
+Test : Du16ADoc_iBootSWIdentification
+	 Expected result: return code 0
+	 Obtained result: 6
+	 Test result: RDBI NOK 
+
+Test : Du16ADoc_iBootSWIdentification
+	 Expected result: return code 0
+	 Obtained result: 6
+	 Test result: RDBI NOK 
+
+Test : Du16ADoc_iBootSWIdentification
+	 Expected result: return code 0
+	 Obtained result: 6
+	 Test result: RDBI NOK 
+
+Test : Du16ADoc_iBootSWIdentification
+	 Expected result: return code 0
+	 Obtained result: 6
+	 Test result: RDBI NOK 
+
+Test : Du16ADoc_iBootSWIdentification
+	 Expected result: return code 0
+	 Obtained result: 6
+	 Test result: RDBI NOK 
+
+Test : Du16ADoc_iBootSWIdentification
+	 Expected result: return code 0
+	 Obtained result: 6
+	 Test result: RDBI NOK 
+
+Test : Du16ADoc_iBootSWIdentification
+	 Expected result: return code 0
+	 Obtained result: 6
+	 Test result: RDBI NOK 
+
+Test : Du16ADoc_iBootSWIdentification
+	 Expected result: return code 0
+	 Obtained result: 6
+	 Test result: RDBI NOK 
+
+Test : Du16ADoc_iBootSWIdentification
+	 Expected result: return code 0
+	 Obtained result: 6
+	 Test result: RDBI NOK 
+
+Test : Du16ADoc_iBootSWIdentification
+	 Expected result: return code 0
+	 Obtained result: 6
+	 Test result: RDBI NOK 
+
+Test : Du16ADoc_iBootSWIdentification
+	 Expected result: return code 0
+	 Obtained result: 6
+	 Test result: RDBI NOK 
+
+Test : Du16ADoc_iBootSWIdentification
+	 Expected result: return code 0
+	 Obtained result: 6
+	 Test result: RDBI NOK 
+
+Test : Du16ADoc_iBootSWIdentification
+	 Expected result: return code 0
+	 Obtained result: 6
+	 Test result: RDBI NOK 
+
+Test : Du16ADoc_iBootSWIdentification
+	 Expected result: return code 0
+	 Obtained result: 6
+	 Test result: RDBI NOK 
+
+Test : Du16ADoc_iBootSWIdentification
+	 Expected result: return code 0
+	 Obtained result: 6
+	 Test result: RDBI NOK 
+
+Test : Du16ADoc_iBootSWIdentification
+	 Expected result: return code 0
+	 Obtained result: 6
+	 Test result: RDBI NOK 
+
+Test : Du16ADoc_iBootSWIdentification
+	 Expected result: return code 0
+	 Obtained result: 6
+	 Test result: RDBI NOK 
+
+Test : Du16ADoc_iBootSWIdentification
+	 Expected result: return code 0
+	 Obtained result: 6
+	 Test result: RDBI NOK 
+
+Test : Du16ADoc_iBootSWIdentification
+	 Expected result: return code 0
+	 Obtained result: 6
+	 Test result: RDBI NOK 
+
+Test : Du16ADoc_iBootSWIdentification
+	 Expected result: return code 0
+	 Obtained result: 6
+	 Test result: RDBI NOK 
+
+Test : Du16ADoc_iBootSWIdentification
+	 Expected result: return code 0
+	 Obtained result: 6
+	 Test result: RDBI NOK 
+
+Test : Du16ADoc_iBootSWIdentification
+	 Expected result: return code 0
+	 Obtained result: 6
+	 Test result: RDBI NOK 
+
+Test : Du16ADoc_iBootSWIdentification
+	 Expected result: return code 0
+	 Obtained result: 6
+	 Test result: RDBI NOK 
+
+Test : Du16ADoc_iBootSWIdentification
+	 Expected result: return code 0
+	 Obtained result: 6
+	 Test result: RDBI NOK 
+
+Test : Du16ADoc_iBootSWIdentification
+	 Expected result: return code 0
+	 Obtained result: 6
+	 Test result: RDBI NOK 
+
+Test : Du16ADoc_iBootSWIdentification
+	 Expected result: return code 0
+	 Obtained result: 6
+	 Test result: RDBI NOK 
+
+Test : Du16ADoc_iBootSWIdentification
+	 Expected result: return code 0
+	 Obtained result: 6
+	 Test result: RDBI NOK 
+
+Test : Du16ADoc_iBootSWIdentification
+	 Expected result: return code 0
+	 Obtained result: 6
+	 Test result: RDBI NOK 
+
+Test : Du16ADoc_iBootSWIdentification
+	 Expected result: return code 0
+	 Obtained result: 6
+	 Test result: RDBI NOK 
+
+Test : Du16ADoc_iBootSWIdentification
+	 Expected result: return code 0
+	 Obtained result: 6
+	 Test result: RDBI NOK 
+
+Test : Du16ADoc_iBootSWIdentification
+	 Expected result: return code 0
+	 Obtained result: 6
+	 Test result: RDBI NOK 
+
+Test : Du16ADoc_iBootSWIdentification
+	 Expected result: return code 0
+	 Obtained result: 6
+	 Test result: RDBI NOK 
+
+Test : Du16ADoc_iBootSWIdentification
+	 Expected result: return code 0
+	 Obtained result: 6
+	 Test result: RDBI NOK 
+
+Test : Du16ADoc_iBootSWIdentification
+	 Expected result: return code 0
+	 Obtained result: 6
+	 Test result: RDBI NOK 
+
+Test : Du16ADoc_iBootSWIdentification
+	 Expected result: return code 0
+	 Obtained result: 6
+	 Test result: RDBI NOK 
+
+Test : Du16ADoc_iBootSWIdentification
+	 Expected result: return code 0
+	 Obtained result: 6
+	 Test result: RDBI NOK 
+
+Test : Du16ADoc_iBootSWIdentification
+	 Expected result: return code 0
+	 Obtained result: 6
+	 Test result: RDBI NOK 
+
+Test : Du16ADoc_iBootSWIdentification
+	 Expected result: return code 0
+	 Obtained result: 6
+	 Test result: RDBI NOK 
+
+Test : Du16ADoc_iBootSWIdentification
+	 Expected result: return code 0
+	 Obtained result: 6
+	 Test result: RDBI NOK 
+
+Test : Du16ADoc_iBootSWIdentification
+	 Expected result: return code 0
+	 Obtained result: 6
+	 Test result: RDBI NOK 
+
+Test : Du16ADoc_iBootSWIdentification
+	 Expected result: return code 0
+	 Obtained result: 6
+	 Test result: RDBI NOK 
+
+Test : Du16ADoc_iBootSWIdentification
+	 Expected result: return code 0
+	 Obtained result: 6
+	 Test result: RDBI NOK 
+
+Test : Du16ADoc_iBootSWIdentification
+	 Expected result: return code 0
+	 Obtained result: 6
+	 Test result: RDBI NOK 
+
+Test : Du16ADoc_iBootSWIdentification
+	 Expected result: return code 0
+	 Obtained result: 6
+	 Test result: RDBI NOK 
+
+Test : Du16ADoc_iBootSWIdentification
+	 Expected result: return code 0
+	 Obtained result: 6
+	 Test result: RDBI NOK 
+
+Test : Du16ADoc_iBootSWIdentification
+	 Expected result: return code 0
+	 Obtained result: 6
+	 Test result: RDBI NOK 
+
+Test : Du16ADoc_iBootSWIdentification
+	 Expected result: return code 0
+	 Obtained result: 6
+	 Test result: RDBI NOK 
+
+Test : Du16ADoc_iBootSWIdentification
+	 Expected result: return code 0
+	 Obtained result: 6
+	 Test result: RDBI NOK 
+
+Test : Du16ADoc_iBootSWIdentification
+	 Expected result: return code 0
+	 Obtained result: 6
+	 Test result: RDBI NOK 
+
+Test : Du16ADoc_iBootSWIdentification
+	 Expected result: return code 0
+	 Obtained result: 6
+	 Test result: RDBI NOK 
+
+Test : Du16ADoc_iBootSWIdentification
+	 Expected result: return code 0
+	 Obtained result: 6
+	 Test result: RDBI NOK 
+
+Test : Du16ADoc_iBootSWIdentification
+	 Expected result: return code 0
+	 Obtained result: 6
+	 Test result: RDBI NOK 
+
+Test : Du16ADoc_iBootSWIdentification
+	 Expected result: return code 0
+	 Obtained result: 6
+	 Test result: RDBI NOK 
+
+Test : Du16ADoc_iBootSWIdentification
+	 Expected result: return code 0
+	 Obtained result: 6
+	 Test result: RDBI NOK 
+
+Test : Du16ADoc_iBootSWIdentification
+	 Expected result: return code 0
+	 Obtained result: 6
+	 Test result: RDBI NOK 
+
+Test : Du16ADoc_iBootSWIdentification
+	 Expected result: return code 0
+	 Obtained result: 6
+	 Test result: RDBI NOK 
+
+Test : Du16ADoc_iBootSWIdentification
+	 Expected result: return code 0
+	 Obtained result: 6
+	 Test result: RDBI NOK 
+
+Test : Du16ADoc_iBootSWIdentification
+	 Expected result: return code 0
+	 Obtained result: 6
+	 Test result: RDBI NOK 
+
+Test : Du16ADoc_iBootSWIdentification
+	 Expected result: return code 0
+	 Obtained result: 6
+	 Test result: RDBI NOK 
+
+Test : Du16ADoc_iBootSWIdentification
+	 Expected result: return code 0
+	 Obtained result: 6
+	 Test result: RDBI NOK 
+
+Test : Du16ADoc_iBootSWIdentification
+	 Expected result: return code 0
+	 Obtained result: 6
+	 Test result: RDBI NOK 
+
+Test : Du16ADoc_iBootSWIdentification
+	 Expected result: return code 0
+	 Obtained result: 6
+	 Test result: RDBI NOK 
+
+Test : Du16ADoc_iBootSWIdentification
+	 Expected result: return code 0
+	 Obtained result: 6
+	 Test result: RDBI NOK 
+
+Test : Du16ADoc_iBootSWIdentification
+	 Expected result: return code 0
+	 Obtained result: 6
+	 Test result: RDBI NOK 
+
+Test : Du16ADoc_iBootSWIdentification
+	 Expected result: return code 0
+	 Obtained result: 6
+	 Test result: RDBI NOK 
+
+Test : Du16ADoc_iBootSWIdentification
+	 Expected result: return code 0
+	 Obtained result: 6
+	 Test result: RDBI NOK 
+
+Test : Du16ADoc_iBootSWIdentification
+	 Expected result: return code 0
+	 Obtained result: 6
+	 Test result: RDBI NOK 
+
+Test : Du16ADoc_iBootSWIdentification
+	 Expected result: return code 0
+	 Obtained result: 6
+	 Test result: RDBI NOK 
+
+Test : Du16ADoc_iBootSWIdentification
+	 Expected result: return code 0
+	 Obtained result: 6
+	 Test result: RDBI NOK 
+
+Test : Du16ADoc_iBootSWIdentification
+	 Expected result: return code 0
+	 Obtained result: 6
+	 Test result: RDBI NOK 
+
+Test : Du16ADoc_iBootSWIdentification
+	 Expected result: return code 0
+	 Obtained result: 6
+	 Test result: RDBI NOK 
+
+Test : Du16ADoc_iBootSWIdentification
+	 Expected result: return code 0
+	 Obtained result: 6
+	 Test result: RDBI NOK 
+
+Test : Du16ADoc_iBootSWIdentification
+	 Expected result: return code 0
+	 Obtained result: 6
+	 Test result: RDBI NOK 
+
+Test : Du16ADoc_iBootSWIdentification
+	 Expected result: return code 0
+	 Obtained result: 6
+	 Test result: RDBI NOK 
+
+Test : Du16ADoc_iBootSWIdentification
+	 Expected result: return code 0
+	 Obtained result: 6
+	 Test result: RDBI NOK 
+
+Test : Du16ADoc_iBootSWIdentification
+	 Expected result: return code 0
+	 Obtained result: 6
+	 Test result: RDBI NOK 
+
+Test : Du16ADoc_iBootSWIdentification
+	 Expected result: return code 0
+	 Obtained result: 6
+	 Test result: RDBI NOK 
+
+Test : Du16ADoc_iBootSWIdentification
+	 Expected result: return code 0
+	 Obtained result: 6
+	 Test result: RDBI NOK 
+
+Test : Du16ADoc_iBootSWIdentification
+	 Expected result: return code 0
+	 Obtained result: 6
+	 Test result: RDBI NOK 
+
+Test : Du16ADoc_iBootSWIdentification
+	 Expected result: return code 0
+	 Obtained result: 6
+	 Test result: RDBI NOK 
+
+Test : Du16ADoc_iBootSWIdentification
+	 Expected result: return code 0
+	 Obtained result: 6
+	 Test result: RDBI NOK 
+
+Test : Du16ADoc_iBootSWIdentification
+	 Expected result: return code 0
+	 Obtained result: 6
+	 Test result: RDBI NOK 
+
+Test : Du16ADoc_iBootSWIdentification
+	 Expected result: return code 0
+	 Obtained result: 6
+	 Test result: RDBI NOK 
+
+Test : Du16ADoc_iBootSWIdentification
+	 Expected result: return code 0
+	 Obtained result: 6
+	 Test result: RDBI NOK 
+
+Test : Du16ADoc_iBootSWIdentification
+	 Expected result: return code 0
+	 Obtained result: 6
+	 Test result: RDBI NOK 
+
+Test : Du16ADoc_iBootSWIdentification
+	 Expected result: return code 0
+	 Obtained result: 6
+	 Test result: RDBI NOK 
+
+Test : Du16ADoc_iBootSWIdentification
+	 Expected result: return code 0
+	 Obtained result: 6
+	 Test result: RDBI NOK 
+
+Test : Du16ADoc_iBootSWIdentification
+	 Expected result: return code 0
+	 Obtained result: 6
+	 Test result: RDBI NOK 
+
+Test : Du16ADoc_iBootSWIdentification
+	 Expected result: return code 0
+	 Obtained result: 6
+	 Test result: RDBI NOK 
+
+Test : Du16ADoc_iBootSWIdentification
+	 Expected result: return code 0
+	 Obtained result: 6
+	 Test result: RDBI NOK 
+
+Test : Du16ADoc_iBootSWIdentification
+	 Expected result: return code 0
+	 Obtained result: 6
+	 Test result: RDBI NOK 
+
+Test : Du16ADoc_iBootSWIdentification
+	 Expected result: return code 0
+	 Obtained result: 6
+	 Test result: RDBI NOK 
+
+Test : Du16ADoc_iBootSWIdentification
+	 Expected result: return code 0
+	 Obtained result: 6
+	 Test result: RDBI NOK 
+
+Test : Du16ADoc_iBootSWIdentification
+	 Expected result: return code 0
+	 Obtained result: 6
+	 Test result: RDBI NOK 
+
+Test : Du8ADoc_iCanConfigureBaudrate
+	 Expected result: return code 0
+	 Obtained result: 255
+	 Test result: RC NOK 
+
+Test : Du16ADoc_iCoreBootVINGet
+	 Expected result: return code 0
+	 Obtained result: 255
+	 Test result: RC NOK 
+
+Test : Du8ADoc_iCanConfigureBaudrate
+	 Expected result: return code 0
+	 Obtained result: 255
+	 Test result: RC NOK 
+
+Test : Du16ADoc_iCoreBootVINGet
+	 Expected result: return code 0
+	 Obtained result: 255
+	 Test result: RC NOK 
+
+Test : Du8ADoc_iCanConfigureBaudrate
+	 Expected result: return code 0
+	 Obtained result: 255
+	 Test result: RC NOK 
+
+Test : Du8ADoc_iLastWkupSrcGet
+	 Expected result: return code 0
+	 Obtained result: 4
+	 Test result: RC NOK 
+
+Test : Du16ADoc_iCoreBootVINGet
+	 Expected result: return code 0
+	 Obtained result: 255
+	 Test result: RC NOK 
+

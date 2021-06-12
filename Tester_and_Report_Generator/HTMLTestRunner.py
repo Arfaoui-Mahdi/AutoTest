@@ -1030,20 +1030,20 @@ class Test_Routine_Control(unittest.TestCase):
             payload =conn.wait_frame(timeout=1)
             response = Response.from_payload(payload)
             services.RoutineControl.interpret_response(response)
-            #print(response.data)
+           # print(response.data)
             for j in range(len(response.data)):
                 data.append(hex(response.data[j]))
-            print('obtained data:%s' % '/'.join([str(a) for a in data]))
+            print('Obtained data:%s' % '/'.join([str(a) for a in data]))
             print("Test : "+ self.myExtraArg[0]) # Test Name
             print('Expected result: Return code 0')
-            #print('Obtained result: %s'%str(response.data[4]))
+            print('Obtained result: %s'%str(response.data[4]))
             
-            bb = str(data[5])
-            dd = str(data[6])
+           # bb = str(data[5])
+            #dd = str(data[6])
 
-            al = bb + dd[2:4]
-            inti = int(al,16)
-            print('Obtained result: %s'%str(inti))
+           # al = bb + dd[2:4]
+           # inti = int(al,16)
+            #print('Obtained result: %s'%str(inti))
 
 
             sys.stdout = sys.__stdout__
@@ -1051,12 +1051,12 @@ class Test_Routine_Control(unittest.TestCase):
             print("Test : "+ self.myExtraArg[0])
             print('Expected result: Return code 0')
             print('Obtained result: %s'%response.data[4])
-            if inti > 22750:
+            if response.data[4] == 0:
                 print('Test result: OK','\n')
             else:
                 print('Test result: RC NOK','\n')
 
-            if inti < 22750:
+            if response.data[4] != 0:
                 sys.stdout = sys.__stdout__
                 sys.stdout = log_file2
                 print("Test : "+ self.myExtraArg[0])
@@ -1152,7 +1152,7 @@ class Test_WDBI(unittest.TestCase):
             print("Test : "+ self.myExtraArg[0])
             print('Expected result: Return code 0')
             print('Obtained result: %s'%response.code)
-            if response.code ==0:
+            if response.code == 0:
                 print('Test result: OK','\n')
             else:
                 print('Test result: init all IO NOK','\n')

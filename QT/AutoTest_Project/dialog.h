@@ -3,6 +3,7 @@
 
 #include <QDialog>
 #include <maketest.h>
+#include <waitdialog.h>
 
 
 #include <loading.h>
